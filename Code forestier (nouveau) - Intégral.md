@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2012-11-11
+Version Consolidée au 2013-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-1)](#2)
@@ -395,7 +395,7 @@ Version Consolidée au 2012-11-11
         - [Chapitre III : Dispositions financières (art. D223-1 à D223-16)](#392)
           - [Section 1 : Organisation financière et comptable (art. D223-1 à D223-7)](#393)
           - [Section 2 : Etat prévisionnel des recettes et des dépenses (art. D223-8 à D223-10)](#394)
-          - [Section 3 : Recouvrement des produits (art. D223-11 à D223-12)](#395)
+          - [Section 3 : Recouvrement des produits (art. D223-11)](#395)
           - [Section 4 : Paiement des charges (art. D223-13 à D223-14)](#396)
           - [Section 5 : Contrôle (art. D223-15 à D223-16)](#397)
         - [Chapitre IV : Frais de garderie et d'administration (art. D224-1)](#398)
@@ -30959,31 +30959,22 @@ _Anciens textes_:
 
 Le conseil d'administration se réunit au moins trois fois par an sur la convocation de son président, qui fixe l'ordre du
 jour. Il est également convoqué si le ministre chargé des forêts, le ministre chargé de l'environnement, le ministre chargé
-du budget, le ministre chargé du domaine ou le directeur général de l'Office national des forêts le demande. 
+du budget, le ministre chargé du domaine ou le directeur général de l'Office national des forêts le demande.
 
-Le directeur général de l'office et le membre du corps du contrôle général économique et financier y siègent de droit avec
-voix consultative. L'agent comptable y assiste, soit dans les conditions fixées par l'article 195 du décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique, soit sur demande du directeur général. 
+Le directeur général de l'Office, l'agent comptable et l'autorité chargée du contrôle économique et financier assistent aux
+séances avec voix consultative.
 
 Le directeur général peut se faire assister de toute personne de son choix. En cas d'empêchement, il est représenté.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 195 (V)
-
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R122-4 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article D222-6
@@ -31126,9 +31117,8 @@ un silence de trois mois suivant la réception des délibérations par les minis
 Les délibérations relatives aux matières prévues aux 6°, 8° et 14° du même article deviennent exécutoires après décision
 conjointe de ces ministres ou après un silence d'un mois suivant la réception des délibérations par les ministres. 
 
-Les délibérations du conseil d'administration relatives aux matières prévues aux 2°, 3° et 4° deviennent exécutoires dans les
-conditions prévues par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions
-financières des établissements publics de l'Etat. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les délibérations prévues au 10° du même article, lorsqu'elles concernent des emplois classés hors échelle ou occupés par des
 fonctionnaires appartenant à des corps dont les grades supérieurs sont classés hors échelle, ne deviennent exécutoires
@@ -31141,17 +31131,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R122-8 (Ab)
-
 _Cite_:
 
-  - Code forestier (nouveau) - art. D222-7 (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+  - Code forestier (nouveau) - art. D222-7
+
+_Modifié par_:
+
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article D222-10
@@ -31397,27 +31384,23 @@ _Anciens textes_:
 
 ###### Article D223-1
 
-Le fonctionnement financier et comptable de l'Office national des forêts est assuré dans les conditions fixées par le décret
-n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique, sous réserve des modalités
-particulières du présent chapitre.
+L'Office national des forêts est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7 novembre 2012
+relatif à la gestion budgétaire et comptable publique à l'exception des 1° et 2° de l'article 175, des articles 178 à 185,204
+à 208 et 220 à 228.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 (V)
 
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code forestier - art. R123-1 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article D223-2
@@ -31442,9 +31425,6 @@ _Anciens textes_:
 
 ###### Article D223-3
 
-L'agent comptable de l'Office national des forêts est nommé par arrêté conjoint des ministres chargés du budget, des forêts
-et de l'environnement après avis du conseil d'administration.
-
 Des comptables secondaires peuvent être désignés par le directeur général de l'office sur la proposition de l'agent
 comptable.
 
@@ -31454,13 +31434,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-3 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article D223-4
@@ -31533,28 +31509,6 @@ _Cite_:
   - Code forestier (nouveau) - art. L223-2 (V)
 
 
-###### Article D223-6
-
-L'Office national des forêts gère librement sa trésorerie.
-
-Les fonds disponibles sont répartis à la diligence de l'agent comptable sur les comptes ouverts à son nom au Trésor public et
-dans le réseau bancaire en fonction des besoins et des orientations de gestion arrêtées par le directeur général de l'office.
-
-**Liens relatifs à cet article**
-
-_Créé par_:
-
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Abrogé par_:
-
-  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-15 (Ab)
-
-
 ###### Article D223-7
 
 L'Office national des forêts est autorisé à effectuer toutes les opérations nécessaires à une bonne gestion de sa trésorerie
@@ -31619,12 +31573,12 @@ _Modifié par_:
 
 L'état de prévision des recettes et des dépenses préparé par le directeur général de l'Office national des forêts est
 présenté au conseil d'administration qui en délibère dans le courant de l'avant-dernier mois de l'année précédant celle pour
-laquelle il est établi.
+laquelle il est établi. 
 
 Dans le cas où l'état de prévision des recettes et des dépenses n'est pas approuvé avant le début de l'année à laquelle il se
 rapporte, les opérations de recettes et de dépenses sont faites sur la base des prévisions de l'exercice précédent.
-Toutefois, s'il est nécessaire et après accord du membre du corps du contrôle général économique et financier, ces opérations
-peuvent être faites dans la limite des prévisions figurant au projet non encore approuvé.
+Toutefois, s'il est nécessaire et après accord         de l'autorité chargée du contrôle économique et financier, ces
+opérations peuvent être faites dans la limite des prévisions figurant au projet non encore approuvé.
 
 **Liens relatifs à cet article**
 
@@ -31632,22 +31586,17 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-7 (Ab)
-  - Code forestier - art. R123-8 (Ab), al. 1
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article D223-10
 
 En cours d'année, des décisions peuvent modifier des prévisions de recettes et de dépenses de l'Office national des forêts.
 Elles sont approuvées dans les mêmes formes que l'état de prévision des recettes et des dépenses ; cependant, lorsque les
-modifications n'intéressent que les crédits à caractère non limitatif, l'approbation est donnée par le membre du corps du
-contrôle général économique et financier.
+modifications n'intéressent que les crédits à caractère non limitatif, l'approbation est donnée par         l'autorité
+chargée du contrôle économique et financier.
 
 **Liens relatifs à cet article**
 
@@ -31655,13 +31604,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-8 (Ab), al. 2
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ##### Section 3 : Recouvrement des produits<a id=395></a>
@@ -31672,8 +31617,8 @@ Les produits de l'Office national des forêts sont recouvrés soit directement p
 des comptables de la direction générale des finances publiques constitués comme correspondants de l'agent comptable.
 
 Les produits de l'office recouvrés par l'agent comptable peuvent faire l'objet d'effets de commerce remis à l'escompte dans
-des conditions générales arrêtées par le conseil d'administration, après visa du membre du corps du contrôle général
-économique et financier.
+des conditions générales arrêtées par le conseil d'administration, après visa de l'autorité chargée du contrôle économique et
+financier.
 
 Un arrêté du ministre chargé du budget, sur proposition du directeur général de l'office, fixe l'étendue et les conditions du
 concours que l'Etat apporte à l'office par l'intermédiaire des comptables désignés au premier alinéa du présent article et
@@ -31685,52 +31630,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-10 (Ab)
-
-
-###### Article D223-12
-
-L'agent comptable exerce les poursuites éventuelles pour le recouvrement des créances relevant directement de sa compétence
-dans les conditions prévues aux articles 201 et 202 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la
-comptabilité publique. 
-
-Dans les régions administratives où l'office est dépourvu d'agents comptables secondaires habilités dans ce domaine, les
-comptables de la direction générale des finances publiques poursuivent pour le compte de l'office le recouvrement des
-produits des forêts vendus par adjudication, dans les conditions fixées aux articles L. 213-9 et L. 213-11.
-
-**Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 201
-  - Code forestier (nouveau) - art. L213-11
-  - Code forestier (nouveau) - art. L213-9
-
-_Créé par_:
-
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Abrogé par_:
+_Modifié par_:
 
   - Décret n°2012-1247 du 7 novembre 2012 - art. 32
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-12 (Ab)
 
 
 ##### Section 4 : Paiement des charges<a id=396></a>
 
 ###### Article D223-13
-
-Les charges de l'Office national des forêts sont acquittées dans les conditions fixées à l'article 207 du décret n° 62-1587
-du 29 décembre 1962 portant règlement général sur la comptabilité publique. 
 
 Certaines dépenses peuvent être réglées, pour le compte de l'agent comptable de l'office, par les comptables de la direction
 générale des finances publiques dans les conditions précisées par arrêté du ministre chargé du budget, sur proposition du
@@ -31738,21 +31645,13 @@ directeur général de l'office.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 207 (V)
-
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R123-13 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article D223-14
@@ -31812,26 +31711,22 @@ _Anciens textes_:
 
 La Cour des comptes assure le contrôle de la gestion de l'Office national des forêts. 
 
-Le compte financier est préparé, adopté et approuvé dans les conditions prévues aux articles 219 à 223 du décret n° 62-1587
-du 29 décembre 1962 portant règlement général sur la comptabilité publique.
+Le compte financier est préparé, adopté et approuvé dans les conditions prévues aux articles 210 à 214 du décret n° 2012-1246
+du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 219 (V)
 
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 - art. 210
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code forestier - art. R123-17 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 #### Chapitre IV : Frais de garderie et d'administration<a id=398></a>
@@ -37353,9 +37248,9 @@ _Cite_:
 
 ###### Article R321-10
 
-Le directeur général, l'autorité chargée du contrôle financier ou son représentant et l'agent comptable assistent aux
-réunions du conseil d'administration avec voix consultative. Les directeurs des centres régionaux de la propriété forestière
-y assistent sur invitation du président du conseil d'administration.
+Le directeur général, le contrôleur budgétaire ou son représentant et l'agent comptable assistent aux réunions du conseil
+d'administration avec voix consultative. Les directeurs des centres régionaux de la propriété forestière y assistent sur
+invitation du président du conseil d'administration.
 
 Les séances du conseil ne sont pas publiques. Le conseil peut entendre toutes personnes ou recueillir tous avis qu'il juge
 utiles. Le directeur général peut se faire assister des personnes de son choix.
@@ -37366,13 +37261,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R221-44 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R321-11
@@ -37405,31 +37296,26 @@ Les délibérations du conseil d'administration mentionnées aux 4°, 6°, 11° 
 ministre chargé des forêts et au ministre chargé du budget. Elles sont exécutoires dans le délai d'un mois après leur
 réception, à moins que l'un de ces ministres n'y fasse opposition dans ce délai. 
 
-Les délibérations du conseil d'administration portant sur les matières mentionnées au 2° du même article sont approuvées dans
-les conditions fixées par le décret n° 99-575 du 8 juillet 1999 relatif aux modalités d'approbation de certaines décisions
-financières des établissements publics de l'Etat. 
+Les délibérations portant sur le budget et le compte financier sont exécutoires dans les conditions prévues par le titre III
+du décret n° 2012-1246 du 7 novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Dans le cas où le budget n'est pas arrêté par le conseil d'administration avant le début de l'année, les opérations de
 recettes et de dépenses sont effectuées sur la base des prévisions de l'exercice précédent.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°99-575 du 8 juillet 1999 (V)
-  - Code forestier (nouveau) - art. R321-8 (V)
-
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
+  - Code forestier (nouveau) - art. R321-8
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code forestier - art. R221-46 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 _Cité par_:
 
@@ -37740,39 +37626,25 @@ _Cite_:
 
 ###### Article R321-23
 
-Le Centre national de la propriété forestière est soumis au régime financier et comptable défini par les dispositions de la
-présente sous-section ainsi que par les articles 151 à 189 du décret n° 62-1587 du 29 décembre 1962 modifié portant règlement
-général sur la comptabilité publique et par les dispositions du décret n° 53-1227 du 10 décembre 1953 relatif à la
-réglementation comptable applicable aux établissements publics nationaux à caractère administratif. 
-
-Le compte financier est adressé au juge des comptes dans les conditions prévues par l'article 187 du décret n° 62-1587 du 29
-décembre 1962 portant règlement général sur la comptabilité publique. Les pièces justificatives sont conservées par
-l'établissement au moins pendant la période permettant la mise en jeu de la responsabilité du comptable prévue au deuxième
-alinéa du IV de l'article 60 de la loi n° 63-156 du 23 février 1963 de finances pour 1963. 
+Le Centre national de la propriété forestière est soumis aux dispositions des titres Ier et III du décret n° 2012-1246 du 7
+novembre 2012 relatif à la gestion budgétaire et comptable publique. 
 
 Les marchés conclus par le Centre national de la propriété forestière sont passés dans les formes et les conditions prévues
 pour les marchés de l'Etat.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°53-1227 du 10 décembre 1953 (V)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 151 (V)
-  - Décret n°62-1587 du 29 décembre 1962 - art. 187 (V)
-  - Loi n°63-156 du 23 février 1963 - art. 60 (V)
-
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2012-1246 du 7 novembre 2012 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code forestier - art. R221-62 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article R321-24
@@ -37837,33 +37709,21 @@ _Cite_:
 
 ###### Article R321-25
 
-L'agent comptable de l'établissement est nommé dans les conditions fixées à l'article 157 du décret n° 62-1587 du 29 décembre
-1962 portant règlement général sur la comptabilité publique. Des agents comptables secondaires peuvent être nommés, dans les
-mêmes conditions, auprès d'un ou de plusieurs centres régionaux.
+Des agents comptables secondaires peuvent être nommés, par arrêté des ministres chargés du budget et de la forêt, auprès d'un
+ou de plusieurs centres régionaux.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°62-1587 du 29 décembre 1962 - art. 157 (V)
 
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R221-64 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article R321-26
-
-L'établissement est soumis aux dispositions du décret n° 2005-757 du 4 juillet 2005 relatif au contrôle financier au sein des
-établissements publics administratifs de l'Etat. 
 
 Les projets d'actes et de documents émanant des centres régionaux sont soumis au contrôle financier des directeurs régionaux
 des finances publiques territorialement compétents. Ces derniers rendent compte à l'autorité chargée du contrôle financier du
@@ -37871,21 +37731,13 @@ Centre national de la propriété forestière selon des modalités définies dan
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Décret n°2005-757 du 4 juillet 2005 (V)
-
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R221-65 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
 ###### Article R321-27
@@ -38129,8 +37981,7 @@ Assistent, avec voix consultative, aux travaux du comité de direction :
 
 2° Un représentant du ministre chargé des forêts ;
 
-3° Le directeur général, le membre du corps du contrôle général économique et financier et l'agent comptable du centre
-national ou leurs représentants.
+3° Le directeur général, le contrôleur budgétaire et l'agent comptable du centre national ou leurs représentants.
 
 Le comité de direction est désigné pour la première fois dans les six mois suivant la délibération du conseil
 d'administration du Centre national de la propriété forestière décidant la création du service d'utilité forestière. Il est
@@ -38145,13 +37996,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R221-72 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R321-35
@@ -39736,9 +39583,9 @@ _Anciens textes_:
 
 ###### Article R321-79
 
-Le directeur, l'autorité chargée du contrôle financier ou son représentant et l'agent comptable secondaire placés auprès du
-centre assistent aux réunions du conseil avec voix consultative. Les séances du conseil ne sont pas publiques. Le conseil
-peut entendre toutes personnes ou recueillir tous avis qu'il juge utiles.
+Le directeur,      le contrôleur budgétaire  ou son représentant et l'agent comptable secondaire placés auprès du centre
+assistent aux réunions du conseil avec voix consultative. Les séances du conseil ne sont pas publiques. Le conseil peut
+entendre toutes personnes ou recueillir tous avis qu'il juge utiles.
 
 **Liens relatifs à cet article**
 
@@ -39746,13 +39593,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R221-55 (Ab)
+  - Décret n°2012-1247 du 7 novembre 2012 - art. 2 (V)
 
 
 ###### Article R321-80
