@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2013-01-01
+Version Consolidée au 2013-07-28
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-1)](#2)
@@ -14638,7 +14638,7 @@ développement de la forêt et contribuer au rassemblement des données françai
 l'Union européenne et des pays tiers ; 
 
 11° Donner un avis sur l'agrément des sociétés de gestion des sociétés d'épargne forestière en application de l'article L.
-214-87 du code monétaire et financier. 
+214-124 du code monétaire et financier. 
 
 Il peut être consulté par les pouvoirs publics et émettre des propositions sur toutes les questions relatives à la filière
 forêt-bois, au développement durable des forêts et de leurs fonctions économiques, environnementales et sociales, et à leur
@@ -14650,9 +14650,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2013-676 du 25 juillet 2013 - art. 40
 
 _Cité par_:
 
@@ -14663,16 +14663,12 @@ _Cité par_:
   - Code forestier (nouveau) - art. R321-9 (V)
   - Code rural et de la pêche maritime - art. D201-44 (V)
 
-_Anciens textes_:
-
-  - Code forestier - art. L221-1 (VT)
-
 _Cite_:
 
-  - Code monétaire et financier - art. L214-87
-  - Code de l'environnement - art. L132-2 (V)
-  - Code forestier (nouveau) - art. L312-2 (VD)
-  - Code forestier (nouveau) - art. L313-1 (V)
+  - Code monétaire et financier - art. L214-124
+  - Code de l'environnement - art. L132-2
+  - Code forestier (nouveau) - art. L312-2
+  - Code forestier (nouveau) - art. L313-1
 
 
 ##### Sous-section 2 : Conseil d'administration<a id=192></a>
