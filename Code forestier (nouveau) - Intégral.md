@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2014-01-01
+Version Consolidée au 2014-03-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-1)](#2)
@@ -63,7 +63,7 @@ Version Consolidée au 2014-01-01
           - [Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers (art. L153-4)](#60)
           - [Section 4 : Surveillance et police administrative (art. L153-5 à L153-7)](#61)
         - [Chapitre IV : Règles applicables au travail  en milieu forestier (art. L154-1 à L154-3)](#62)
-        - [Chapitre V : Valorisation des produits de la sylviculture (art. L155-1)](#63)
+        - [Chapitre V : Valorisation des produits de la sylviculture (art. L155-1 à L155-2)](#63)
         - [Chapitre VI : Dispositions économiques et financières (art. L156-1 à L156-3)](#64)
           - [Section 1 : Organisations professionnelles (art. L156-1)](#65)
           - [Section 2 : Créances du Fonds forestier national (art. L156-2 à L156-3)](#66)
@@ -5059,6 +5059,27 @@ _Anciens textes_:
 _Cite_:
 
   - Code forestier (nouveau) - art. L134-2 (VD)
+
+
+###### Article L155-2
+
+Lorsque les ventes se font à un prix global déterminé au moment de la vente et sur pied, l'acheteur exploite les bois
+signalés ou marqués comme objet de la vente, dans le respect des conditions d'exploitation définies par le contrat. Le
+contrat fixe, au sein de la période d'exploitation, une ou plusieurs dates auxquelles tout ou partie des bois objet de la
+vente seront regardés comme livrés. Ces dates de livraison constituent le point de départ des délais de règlement, sans
+pouvoir excéder les délais de quarante-cinq jours fin de mois ou soixante jours mentionnés à l'article L. 441-6 du code de
+commerce, à compter de la date de livraison. Une facture peut néanmoins être émise dès la signature du contrat pour la
+totalité des bois vendus.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Loi n°2014-344 du 17 mars 2014 - art. 124
+
+_Cite_:
+
+  - Code de commerce - art. L441-6
 
 
 #### Chapitre VI : Dispositions économiques et financières<a id=64></a>
