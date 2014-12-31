@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2014-12-30
+Version Consolidée au 2015-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -2920,8 +2920,7 @@ déclarés d'utilité publique à la demande de l'Etat, d'une collectivité terr
 territoriales. 
 
 La déclaration d'utilité publique est prononcée après consultation des collectivités territoriales intéressées et enquête
-publique menée dans les formes prévues par le chapitre Ier du titre Ier du code de l'expropriation pour cause d'utilité
-publique. 
+publique menée dans les formes prévues par le livre Ier du code de l'expropriation pour cause d'utilité publique. 
 
 L'acte déclarant l'utilité publique détermine le périmètre de protection et de reconstitution forestière à l'intérieur duquel
 ces travaux sont exécutés et les dispositions prévues aux articles L. 133-4 à L. 133-10 sont applicables. 
@@ -2937,11 +2936,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L130-1 (M)
+  - Code de l'urbanisme - art. L130-1
   - Code forestier (nouveau) - art. L133-2
 
 _Cité par_:
@@ -2990,10 +2989,10 @@ _Cité par_:
 
 ###### Article L133-5
 
-Le produit des cessions mentionnées au 5° de l'article L. 21-1 du code de l'expropriation pour cause d'utilité publique ainsi
-que les soultes en argent attribuées à la collectivité publique dans les échanges immobiliers intéressant les périmètres de
-protection et de reconstitution forestière sont employés par l'Etat, sous forme de fonds de concours, pour des dépenses
-d'intérêt public en vue d'achat de terrains ou d'exécution de travaux dans ces périmètres.
+Le produit des cessions mentionnées au 6° de l'article L. 411-1 du code de l'expropriation pour cause d'utilité publique
+ainsi que les soultes en argent attribuées à la collectivité publique dans les échanges immobiliers intéressant les
+périmètres de protection et de reconstitution forestière sont employés par l'Etat, sous forme de fonds de concours, pour des
+dépenses d'intérêt public en vue d'achat de terrains ou d'exécution de travaux dans ces périmètres.
 
 **Liens relatifs à cet article**
 
@@ -3001,17 +3000,13 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. L321-10 (VT)
+  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L21-1 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (V)
 
 _Cité par_:
 
@@ -21072,8 +21067,9 @@ _Cite_:
 ###### Article R133-12
 
 L'enquête préalable à la déclaration d'utilité publique et l'enquête parcellaire relatives aux travaux d'aménagement et
-d'équipement prévus à l'article L. 133-3 sont effectuées conformément aux dispositions des articles R. 11-1 à R. 11-14 du
-code de l'expropriation pour cause d'utilité publique et à celles de la présente section.
+d'équipement prévus à l'article L. 133-3 sont effectuées conformément aux dispositions prévues pour les enquêtes relevant du
+premier alinéa de l'article L. 110-1 du code de l'expropriation pour cause d'utilité publique et à celles de la présente
+section.
 
 **Liens relatifs à cet article**
 
@@ -21081,23 +21077,19 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-26 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (V)
-  - Code forestier (nouveau) - art. L133-3 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L110-1 (V)
+  - Code forestier (nouveau) - art. L133-3
 
 
 ###### Article R133-13
 
-Pour l'application du I de l'article R. 11-3 du code de l'expropriation pour cause d'utilité publique : 
+Pour l'application de l'article R. 112-4 du code de l'expropriation pour cause d'utilité publique : 
 
 1° La notice explicative expose notamment la configuration des lieux, leurs caractéristiques écologiques, les risques
 particuliers d'incendie, ainsi que les risques de dégradation des sols et des peuplements forestiers, les dommages
@@ -21114,18 +21106,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-27 (Ab), al 1, al 2, al 3
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'environnement - art. R122-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-3 (V)
+  - Code de l'environnement - art. R122-1
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
 
 _Cité par_:
 
@@ -21134,10 +21122,10 @@ _Cité par_:
 
 ###### Article R133-14
 
-Avant l'ouverture de l'enquête préalable à la déclaration d'utilité publique, le dossier prévu au I de l'article R. 11-3 du
-code de l'expropriation pour cause d'utilité publique est communiqué par le préfet au président du conseil général, aux
-maires des communes intéressées, à la commission consultative départementale de sécurité et d'accessibilité et au centre
-régional de la propriété forestière. 
+Avant l'ouverture de l'enquête préalable à la déclaration d'utilité publique, le dossier prévu à l'article R. 112-4 du code
+de l'expropriation pour cause d'utilité publique est communiqué par le préfet au président du conseil général, aux maires des
+communes intéressées, à la commission consultative départementale de sécurité et d'accessibilité et au centre régional de la
+propriété forestière. 
 
 Le conseil général, les conseils municipaux, la commission départementale de sécurité et d'accessibilité et le centre
 régional de la propriété forestière font connaître dans un délai de trois mois leurs observations sur le dossier qui leur a
@@ -21156,28 +21144,24 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-28 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
 
 
 ###### Article R133-15
 
 Trois mois au moins avant l'ouverture de l'enquête parcellaire, les propriétaires sont informés dans les formes prévues par
-l'article R. 11-22 du code de l'expropriation pour cause d'utilité publique qu'ils ont la possibilité d'exécuter eux-mêmes
+l'article R. 131-6 du code de l'expropriation pour cause d'utilité publique qu'ils ont la possibilité d'exécuter eux-mêmes
 les travaux conformément aux dispositions de l'article L. 133-4 du présent code. Ils peuvent, pendant ce délai, se concerter
 avec la collectivité publique à la demande de laquelle a été prononcée la déclaration d'utilité publique en vue de la mise au
 point du projet de convention relatif à ces travaux. A cet effet, la notification individuelle prévue à l'article R. 11-22 du
 code de l'expropriation pour cause d'utilité publique est accompagnée d'un projet de convention proposé à l'approbation du
-propriétaire, en vue de l'exécution éventuelle des travaux par celui-ci. 
+propriétaire, en vue de l'exécution éventuelle des travaux par celui-ci.
 
 Les propriétaires doivent, lors de l'enquête parcellaire, faire connaître s'ils acceptent d'effectuer les travaux
 conformément au projet de convention.
@@ -21188,18 +21172,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-29 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-22 (V)
-  - Code forestier (nouveau) - art. L133-4 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-22 (Ab)
+  - Code forestier (nouveau) - art. L133-4
 
 _Cité par_:
 
@@ -21233,18 +21213,19 @@ _Cite_:
 
 ###### Article R133-17
 
-Pour l'application du 5° de l'article L. 21-1 du code de l'expropriation pour cause d'utilité publique, les immeubles peuvent
-être cédés de gré à gré aux personnes ci-dessous désignées selon l'ordre de préférence suivant : 
+Pour l'application du 6° de l'article L. 411-1 et de l'article L. 411-5 du code de l'expropriation pour cause d'utilité
+publique, les immeubles peuvent être cédés de gré à gré aux personnes ci-dessous désignées selon l'ordre de préférence
+suivant :
 
 1° Propriétaires expropriés ou ayant cédé leurs terrains à l'amiable, ainsi que leurs descendants, en ce qui concerne leurs
-anciennes parcelles ; 
+anciennes parcelles ;
 
-2° Département de la situation des biens ; 
+2° Département de la situation des biens ;
 
-3° Commune de la situation des biens ; 
+3° Commune de la situation des biens ;
 
 4° Sociétés d'aménagement foncier et d'établissement rural en ce qui concerne les immeubles destinés à être mis en culture,
-ou société d'économie mixte d'aménagement pour les terrains affectés à l'habitation. 
+ou société d'économie mixte d'aménagement pour les terrains affectés à l'habitation.
 
 Lorsque le produit des cessions et soultes est attribué à l'Etat en application de l'article L. 133-5 du présent code, les
 crédits correspondants sont mis à la disposition du ministre chargé des forêts.
@@ -21255,18 +21236,15 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-31 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. L11-1 (V)
-  - Code forestier (nouveau) - art. L133-5 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-1 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. L411-5 (V)
+  - Code forestier (nouveau) - art. L133-5
 
 _Cité par_:
 
@@ -21355,7 +21333,8 @@ Le préfet prend l'avis du conseil municipal des communes intéressées et celui
 sécurité et d'accessibilité ; à défaut de réponse dans un délai de deux mois, cet avis est réputé favorable. 
 
 L'arrêté est précédé d'une enquête publique dans les cas prévus à l'article L. 134-2. Cette enquête est réalisée dans les
-conditions prévues aux articles R. 11-1 à R. 11-14 du code de l'expropriation pour cause d'utilité publique. 
+conditions prévues pour les enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité
+publique régies par le titre Ier du livre Ier du même code. 
 
 Pour la détermination de l'emprise de la servitude, il est tenu compte de l'espace de retournement nécessaire aux engins de
 surveillance et de lutte.
@@ -21366,18 +21345,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-14-1 (Ab), al 1 à al 6
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (V)
-  - Code forestier (nouveau) - art. L134-2 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-1
+  - Code forestier (nouveau) - art. L134-2
 
 _Cité par_:
 
@@ -22743,8 +22718,8 @@ ministre estime qu'il n'est pas établi que le revenu normal de la forêt a ét�
 mois de la demande, le propriétaire en le renvoyant à se pourvoir devant le tribunal administratif. 
 
 En cas de décision juridictionnelle favorable aux prétentions du propriétaire, il est procédé, par le ministre chargé des
-forêts, à l'acquisition de la forêt et, en cas de désaccord sur le prix, à la fixation de ce prix dans les conditions prévues
-au chapitre III du titre Ier du code de l'expropriation pour cause d'utilité publique (partie réglementaire).
+forêts, à l'acquisition de la forêt et, en cas de désaccord sur le prix, à la fixation de ce prix conformément aux
+dispositions du livre III du code de l'expropriation pour cause d'utilité publique.
 
 **Liens relatifs à cet article**
 
@@ -22752,18 +22727,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R413-4 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L141-7 (V)
-  - Code forestier (nouveau) - art. R141-41 (V)
+  - Code forestier (nouveau) - art. L141-7
+  - Code forestier (nouveau) - art. R141-41
 
 
 #### Chapitre II : Conservation et restauration des forêts en montagne<a id=296></a>
@@ -22874,8 +22845,8 @@ _Cité par_:
 ###### Article R142-4
 
 Le préfet ouvre, dans chacune des communes intéressées, l'enquête mentionnée au 1° de l'article R. 142-3 dans les conditions
-prévues aux articles R. 11-1 à R. 11-14 du code de l'expropriation pour cause d'utilité publique et dans celles précisées à
-la présente section. 
+prévues pour les enquêtes publiques relevant de l'article L. 110-2 du code de l'expropriation pour cause d'utilité publique
+régies par le titre Ier du livre Ier du même code et dans celles précisées à la présente section. 
 
 Le commissaire enquêteur désigné reçoit, à la mairie, les observations des habitants et propriétaires sur l'intérêt de la
 mise en défens pendant au moins trois journées.
@@ -22886,18 +22857,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R421-4 (Ab), al 1, al 4 phr 2
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-1 (V)
-  - Code forestier (nouveau) - art. R142-3 (V)
+  - Code de l'expropriation pour cause d'utilité publique - art. R11-1
+  - Code forestier (nouveau) - art. R142-3
 
 
 ###### Article R142-5
@@ -23399,13 +23366,14 @@ _Cité par_:
 
 ###### Article R142-22
 
-Il est procédé à l'enquête prévue à l'article L. 142-7 conformément aux dispositions des articles R. 11-1 à R. 11-14 du code
-de l'expropriation pour cause d'utilité publique, ainsi que des articles R. 142-5 et R. 142-7 du présent code relatifs à la
-mise en défens. 
+Sous réserve de l'article R. 142-23 du présent code, l'enquête préalable à la déclaration d'utilité publique prévue à
+l'article L. 142-7 du présent code est conduite conformément aux dispositions relatives aux enquêtes préalables à une
+déclaration d'utilité publique régies par le titre Ier du livre Ier du code de l'expropriation pour cause d'utilité publique
+ainsi qu'à celles des articles R. 142-5 et R. 142-7 du présent code relatifs à la mise en défens.
 
-Les représentants de l'administration à la commission spéciale mentionnés à l'article L. 142-7 sont : 
+Les représentants de l'administration à la commission spéciale mentionnés à l'article L. 142-7 sont :
 
-1° Le préfet ou son représentant, président, avec voix prépondérante ; 
+1° Le préfet ou son représentant, président, avec voix prépondérante ;
 
 2° Deux agents des services de l'Etat nommés par le préfet.
 
@@ -23415,29 +23383,25 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R424-2 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-1 (V)
-  - Code forestier (nouveau) - art. L142-7 (V)
+  - Code forestier (nouveau) - art. L142-7 (VT)
+  - Code forestier (nouveau) - art. R142-23 (V)
   - Code forestier (nouveau) - art. R142-5 (V)
   - Code forestier (nouveau) - art. R142-7 (V)
 
 
 ###### Article R142-23
 
-Le procès-verbal de reconnaissance tenant lieu de notice explicative prévue par l'article R. 11-3 du code de l'expropriation
-pour cause d'utilité publique expose la configuration des lieux, leur altitude moyenne, leurs conditions au point de vue de
-la géologie et du climat, l'état de dégradation du sol et ses causes, les dommages qui en résultent et les dangers qu'il
-présente, les conditions dans lesquelles l'avant-projet des travaux satisfait aux préoccupations d'environnement définies à
-l'article L. 122-1 du code de l'environnement. 
+Le procès-verbal de reconnaissance prévu à l'article R. 142-21 tenant lieu de notice explicative prévue par l'article R.
+112-4 du code de l'expropriation pour cause d'utilité publique expose la configuration des lieux, leur altitude moyenne,
+leurs conditions au point de vue de la géologie et du climat, l'état de dégradation du sol et ses causes, les dommages qui en
+résultent et les dangers qu'il présente, les conditions dans lesquelles l'avant-projet des travaux satisfait aux
+préoccupations d'environnement définies à l'article L. 122-1 du code de l'environnement. 
 
 Le procès-verbal est accompagné d'un tableau précisant, pour chaque parcelle ou partie de parcelle comprise dans le
 périmètre, la section et le numéro de la matrice cadastrale, la contenance, le nom du propriétaire, le revenu cadastral et le
@@ -23451,18 +23415,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R424-3 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-1 (V)
-  - Code de l'expropriation pour cause d'utilité pu... - art. **R11-3 (V)
+  - Code de l'environnement - art. L122-1
+  - Code de l'expropriation pour cause d'utilité pu... - art. R112-4 (V)
 
 _Cité par_:
 
@@ -23471,10 +23431,10 @@ _Cité par_:
 
 ###### Article R142-24
 
-Il est procédé à l'enquête parcellaire dans les conditions définies aux articles R. 11-19 à R. 11-31 du code de
-l'expropriation pour cause d'utilité publique. 
+Il est procédé à l'enquête parcellaire dans les conditions définies au titre III du livre Ier du code de l'expropriation pour
+cause d'utilité publique. 
 
-La notification individuelle prévue à l'article R. 11-22 de ce code propose un projet de convention en vue de l'exécution des
+La notification individuelle prévue à l'article R. 131-6 de ce code propose un projet de convention en vue de l'exécution des
 travaux par les propriétaires, en application de l'article L. 142-8 du présent code.
 
 **Liens relatifs à cet article**
@@ -23483,19 +23443,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R424-4 (Ab)
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-19 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. **R11-22 (V)
-  - Code forestier (nouveau) - art. L142-8 (V)
+  - Code de l'expropriation pour cause d'utilité pu... - art. R131-6 (V)
+  - Code forestier (nouveau) - art. L142-8
 
 
 ###### Article R142-25
@@ -41238,7 +41193,7 @@ prorogation décidée par le commissaire enquêteur ou par la commission d'enqu�
 effectuée, le procès-verbal de cette reconnaissance est joint au dossier de l'enquête publique. 
 
 Lorsque l'opération en vue de laquelle l'autorisation de défrichement est demandée fait l'objet d'une enquête publique
-organisée en application des articles R. 11-14-1 à R. 11-14-15 du code de l'expropriation pour cause d'utilité publique,
+organisée en application du second alinéa de l'article L. 110-1 du code de l'expropriation pour cause d'utilité publique,
 cette enquête tient lieu de l'enquête mentionnée au premier alinéa si l'avis de mise à l'enquête indique que celle-ci porte
 également sur le défrichement et si le dossier soumis à l'enquête fait apparaître la situation et l'étendue des bois
 concernés et des défrichements envisagés.
@@ -41249,19 +41204,15 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R312-3 (Ab), al. 1, al. 2
+  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
 
 _Cite_:
 
-  - Code de l'environnement - art. L123-1 (V)
-  - CODE DE L'EXPROPRIATION POUR CAUSE D'UTILITE PU... - art. R11-14-1 (Ab)
-  - Code forestier (nouveau) - art. L341-1 (V)
+  - Code de l'environnement - art. L123-1
+  - Code de l'expropriation pour cause d'utilité pu... - art. L110-1 (V)
+  - Code forestier (nouveau) - art. L341-1
 
 _Cité par_:
 
