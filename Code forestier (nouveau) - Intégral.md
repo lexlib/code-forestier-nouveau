@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-03-07
+Version Consolidée au 2015-03-22
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -2733,7 +2733,7 @@ _Cite_:
 
 Les bois et forêts situés dans les territoires exposés aux risques d'incendies peuvent faire l'objet d'un classement à ce
 titre, prononcé par l'autorité administrative compétente de l'Etat après avis des conseils municipaux intéressés et du
-conseil général. S'il y a opposition, le classement est prononcé par décret en Conseil d'Etat.
+conseil départemental . S'il y a opposition, le classement est prononcé par décret en Conseil d'Etat.
 
 Les dispositions du chapitre Ier, sauf mention particulière, et celles du chapitre IV du présent titre leur sont applicables.
 
@@ -2747,13 +2747,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. L321-1 (VT)
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -3184,9 +3180,9 @@ A la demande des propriétaires concernés, l'autorité administrative compéten
 demeure lorsqu'elle constate que la mise en valeur agricole ou pastorale occasionne des dégâts répétés de nature à
 compromettre l'avenir des peuplements forestiers subsistant après les travaux, ou celui des fonds forestiers voisins. 
 
-L'autorité administrative compétente de l'Etat peut, après avis du conseil général des départements intéressés, déterminer
-les cultures susceptibles d'être entreprises sur les terrains situés dans ces périmètres. Une priorité est donnée à la
-réalisation de réseaux de desserte hydraulique des exploitations.
+L'autorité administrative compétente de l'Etat peut, après avis du conseil départemental des départements intéressés,
+déterminer les cultures susceptibles d'être entreprises sur les terrains situés dans ces périmètres. Une priorité est donnée
+à la réalisation de réseaux de desserte hydraulique des exploitations.
 
 **Nota:**
 
@@ -3196,26 +3192,25 @@ réalisation de réseaux de desserte hydraulique des exploitations.
 
 _Cite_:
 
-  - Loi n°80-502 du 4 juillet 1980 - art. 16 (V)
-  - Code général des impôts, CGI. - art. 1509 (V)
-  - Code rural - art. L125-6 (V)
-  - Code rural - art. L481-1 (V)
-  - Code forestier (nouveau) - art. L133-2 (V)
-  - Code forestier (nouveau) - art. L133-8 (V)
-  - Code forestier (nouveau) - art. L213-24 (VD)
-  - Code forestier (nouveau) - art. L214-12 (VD)
+  - Loi n°80-502 du 4 juillet 1980 - art. 16
+  - Code général des impôts, CGI. - art. 1509
+  - Code rural - art. L125-13 (V)
+  - Code rural - art. L125-5 (V)
+  - Code rural - art. L125-6
+  - Code rural - art. L481-1
+  - Code forestier (nouveau) - art. L133-2
+  - Code forestier (nouveau) - art. L133-8
+  - Code forestier (nouveau) - art. L133-9 (V)
+  - Code forestier (nouveau) - art. L213-24
+  - Code forestier (nouveau) - art. L214-12
 
 _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. L321-11 (VT), al 2 à 5.
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cité par_:
 
@@ -4264,8 +4259,8 @@ _Cité par_:
 
 Si, à la date mentionnée à l'article L. 142-5, les communes n'ont pas transmis au représentant de l'Etat dans le département
 le projet de règlement prescrit par le même article, il y est pourvu d'office par l'administration, après avis d'une
-commission comprenant, outre deux représentants de l'Etat, un conseiller général et un délégué du conseil municipal de la
-commune.
+commission comprenant, outre deux représentants de l'Etat, un conseiller départemental et un délégué du conseil municipal de
+la commune.
 
 **Nota:**
 
@@ -4277,17 +4272,13 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. L422-2 (VT), al 1.
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L142-5 (V)
+  - Code forestier (nouveau) - art. L142-5
 
 _Cité par_:
 
@@ -4308,12 +4299,12 @@ Ce décret, qui fixe le périmètre des terrains sur lesquels les travaux doiven
 
 2° Une délibération des conseils municipaux de ces communes ;
 
-3° L'avis du conseil général ;
+3° L'avis du conseil départemental ;
 
 4° L'avis d'une commission spéciale, dont la composition, fixée par décret, comprend à part égale des représentants de l'Etat
-et des représentants des collectivités territoriales intéressées. Le conseiller général représentant le canton où se trouvent
-les terrains compris dans le périmètre d'exécution des travaux, ainsi que les propriétaires de ces terrains, ne peuvent
-siéger au sein de cette commission.
+et des représentants des collectivités territoriales intéressées. Le conseiller départemental représentant le canton où se
+trouvent les terrains compris dans le périmètre d'exécution des travaux, ainsi que les propriétaires de ces terrains, ne
+peuvent siéger au sein de cette commission.
 
 **Nota:**
 
@@ -4325,9 +4316,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2013-403 du 17 mai 2013 - art. 1 (V)
 
 _Anciens textes_:
 
@@ -20557,13 +20548,9 @@ _Cite_:
 
 Le préfet consulte le conseil municipal de chaque commune sur les propositions la concernant.
 
-Les propositions de classement sont ensuite soumises au conseil général.
+Les propositions de classement sont ensuite soumises au conseil départemental.
 
 En l'absence d'avis formulé dans un délai de deux mois, celui-ci est réputé favorable.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -20571,13 +20558,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R321-3 (Ab), phr 2 et 3
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R132-3
@@ -21173,12 +21156,12 @@ _Cité par_:
 
 ###### Article R133-14
 
-Avant l'ouverture de l'enquête préalable à la déclaration d'utilité publique, le dossier prévu à l'article R. 112-4 du code
-de l'expropriation pour cause d'utilité publique est communiqué par le préfet au président du conseil général, aux maires des
-communes intéressées, à la commission consultative départementale de sécurité et d'accessibilité et au centre régional de la
-propriété forestière. 
+Avant l'ouverture de l'enquête préalable à la déclaration d'utilité publique, le dossier prévu au I de l'article R. 112-4 du
+code de l'expropriation pour cause d'utilité publique est communiqué par le préfet au président du conseil départemental, aux
+maires des communes intéressées, à la commission consultative départementale de sécurité et d'accessibilité et au centre
+régional de la propriété forestière. 
 
-Le conseil général, les conseils municipaux, la commission départementale de sécurité et d'accessibilité et le centre
+Le conseil départemental, les conseils municipaux, la commission départementale de sécurité et d'accessibilité et le centre
 régional de la propriété forestière font connaître dans un délai de trois mois leurs observations sur le dossier qui leur a
 été communiqué. 
 
@@ -21191,13 +21174,9 @@ consulté dans les mêmes conditions et délais.
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
-
-  - Décret n°2012-836 du 29 juin 2012 (V)
-
 _Modifié par_:
 
-  - Décret n°2014-1635 du 26 décembre 2014 - art. 4
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (V)
 
 _Cite_:
 
@@ -22854,19 +22833,15 @@ _Cite_:
 
 ###### Article R142-3
 
-La décision prononçant la mise en défens en application de l'article L. 142-1 est prise après : 
+La décision prononçant la mise en défens en application de l'article L. 142-1 est prise après :
 
-1° Une enquête dans chacune des communes intéressées ; 
+1° Une enquête dans chacune des communes intéressées ;
 
-2° Une délibération du conseil municipal de ces communes ; 
+2° Une délibération du conseil municipal de ces communes ;
 
-3° L'avis de la commission spéciale prévue à l'article R. 142-6 ; 
+3° L'avis de la commission spéciale prévue à l'article R. 142-6 ;
 
-4° L'avis du conseil général.
-
-**Nota:**
-
-
+4° L'avis du conseil départemental.
 
 **Liens relatifs à cet article**
 
@@ -22874,18 +22849,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R421-3 (Ab)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L142-1 (V)
-  - Code forestier (nouveau) - art. R142-6 (V)
+  - Code forestier (nouveau) - art. L142-1
+  - Code forestier (nouveau) - art. R142-6
 
 _Cité par_:
 
@@ -22954,17 +22925,13 @@ Le dossier est ensuite transmis à une commission spéciale composée :
 
 1° Du préfet ou de son représentant, président, avec voix prépondérante ;
 
-2° D'un membre du conseil général délégué par cette assemblée et ne représentant pas le canton où se trouvent les terrains en
-cause ;
+2° D'un membre du conseil départemental délégué par cette assemblée et ne représentant pas le canton où se trouvent les
+terrains en cause ;
 
 3° De deux délégués de chaque commune intéressée, désignés par le conseil municipal, en dehors des propriétaires de terrains
 compris dans le périmètre ;
 
 4° De deux agents des services de l'Etat, nommés par le préfet.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -22972,13 +22939,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R421-6 (Ab)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cité par_:
 
@@ -23015,14 +22978,10 @@ _Cité par_:
 ###### Article R142-8
 
 Si le projet de mise en défens reçoit un avis favorable du commissaire enquêteur, de la commission spéciale et du conseil
-général, le préfet prononce la mise en défens. 
+départemental, le préfet prononce la mise en défens.
 
 Dans le cas contraire, la mise en défens est prononcée, conformément aux dispositions de l'article L. 142-1, par décret en
 Conseil d'Etat, sur rapport du ministre chargé des forêts, après avis motivé du préfet.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -23030,17 +22989,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R421-8 (Ab)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L142-1 (V)
+  - Code forestier (nouveau) - art. L142-1
 
 
 ###### Article R142-9
@@ -28420,7 +28375,7 @@ _Anciens textes_:
 
 ###### Article R213-20
 
-Chaque année, l'Office national des forêts adresse aux conseils régionaux et aux conseils généraux la liste des projets
+Chaque année, l'Office national des forêts adresse aux conseils régionaux et aux conseils départementaux la liste des projets
 d'aménagement forestier des forêts du domaine de l'Etat situées dans leur ressort géographique. Il consulte sur ces projets
 ceux qui ont exprimé le souhait d'être associés à la concertation.
 
@@ -28432,13 +28387,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R133-3 (Ab), al. 3, al. 4 ecqc départements et régions
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R213-21
@@ -29781,14 +29732,10 @@ _Cite_:
 ###### Article R214-3
 
 Le président du conseil régional pour les propriétés forestières des régions, le président du conseil exécutif pour celles de
-la collectivité de Corse, le président du conseil général pour celles des départements et les administrateurs pour celles des
-établissements d'utilité publique, sociétés mutualistes et caisses d'épargne, exercent respectivement pour l'application du
-régime forestier les attributions dévolues en la matière au maire des communes et aux administrateurs des établissements
-publics mentionnés au 2° du I de l'article L. 211-1.
-
-**Nota:**
-
-
+la collectivité de Corse, le président du conseil départemental pour celles des départements et les administrateurs pour
+celles des établissements d'utilité publique, sociétés mutualistes et caisses d'épargne, exercent respectivement pour
+l'application du régime forestier les attributions dévolues en la matière au maire des communes et aux administrateurs des
+établissements publics mentionnés au 2° du I de l'article L. 211-1.
 
 **Liens relatifs à cet article**
 
@@ -29796,17 +29743,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R141-7 (Ab)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article R214-5
@@ -29973,12 +29916,8 @@ peut assister à toutes les opérations aux côtés de l'ingénieur de l'Office 
 
 Ses observations ou oppositions sont consignées au procès-verbal.
 
-Le conseil régional, l'assemblée de Corse, le conseil général, le conseil municipal ou le conseil d'administration sont
+Le conseil régional, l'assemblée de Corse, le conseil départemental, le conseil municipal ou le conseil d'administration sont
 appelés à délibérer sur les conclusions du procès-verbal avant qu'il soit soumis à l'homologation du préfet.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -29986,13 +29925,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R142-2 (Ab)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 
 ###### Article R214-12
@@ -32174,25 +32109,21 @@ _Anciens textes_:
 Le mandat des délégués des communes et des sections de communes d'un groupement syndical forestier expire deux mois après
 celui des membres du conseil municipal. En cas de suspension ou de dissolution d'un ou de plusieurs conseils municipaux, ou
 de démission de tous les membres en exercice, le mandat des délégués est prorogé jusqu'à ce qu'il ait été pourvu à leur
-remplacement. 
+remplacement.
 
-Le mandat des délégués des départements expire deux mois après le renouvellement triennal du conseil général. 
+Le mandat des délégués des départements expire deux mois après le renouvellement triennal du conseil départemental.
 
-Les autres délégués sont élus pour quatre ans. 
+Les autres délégués sont élus pour quatre ans.
 
-Les délégués sortants du comité sont rééligibles. 
+Les délégués sortants du comité sont rééligibles.
 
 La démission des délégués des communes et des départements est régie respectivement par les dispositions des articles L.
-2121-4 et L. 3121-3 du code général des collectivités territoriales. 
+2121-4 et L. 3121-3 du code général des collectivités territoriales.
 
-La démission des autres délégués ne devient effective qu'après son acceptation par l'assemblée qui les a élus. 
+La démission des autres délégués ne devient effective qu'après son acceptation par l'assemblée qui les a élus.
 
 En cas de vacance parmi les délégués, par suite de décès, démission ou toute autre cause, il est pourvu au remplacement du
 délégué dans le délai d'un mois.
-
-**Nota:**
-
-
 
 **Liens relatifs à cet article**
 
@@ -32200,18 +32131,14 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
 
 _Cite_:
 
-  - Code général des collectivités territoriales - art. L2121-4 (V)
-  - Code général des collectivités territoriales - art. L3121-3 (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R148-12 (Ab)
+  - Code général des collectivités territoriales - art. L2121-4
+  - Code général des collectivités territoriales - art. L3121-3
 
 
 ###### Article R233-9
