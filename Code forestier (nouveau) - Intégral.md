@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-03-22
+Version Consolidée au 2015-06-14
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -504,7 +504,7 @@ Version Consolidée au 2015-03-22
       - [TITRE IV : DÉFRICHEMENTS (art. R341-1 à R341-9)](#501)
         - [Chapitre Ier : Régime d'autorisation préalable (art. R341-1 à R341-9)](#502)
           - [Section 1 : Demande (art. R341-1 à R341-3)](#503)
-          - [Section 2 : Instruction et décision (art. R341-4 à R341-7)](#504)
+          - [Section 2 : Instruction et décision (art. D341-7-1 à R341-7)](#504)
           - [Section 3 : Suites données aux infractions constatées  en matière de défrichement (art. R341-8 à R341-9)](#505)
       - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. D351-1 à D351-3)](#506)
         - [Chapitre Ier : Dispositions générales (art. D351-1 à D351-3)](#507)
@@ -16353,7 +16353,7 @@ Nul ne peut user du droit de défricher ses bois et forêts sans avoir préalabl
 
 L'autorisation est délivrée à l'issue d'une procédure fixée par décret en Conseil d'Etat.
 
-La validité des autorisations de défrichement est de cinq ans.
+La validité des autorisations de défrichement est fixée par décret.
 
 L'autorisation est expresse lorsque le défrichement :
 
@@ -16371,9 +16371,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Décret n°2015-656 du 10 juin 2015 - art. 1
 
 _Cité par_:
 
@@ -16615,15 +16615,15 @@ _Cite_:
 ###### Article L341-9
 
 Lorsque l'autorisation de défrichement est subordonnée à une des conditions mentionnées au 1° de l'article L. 341-6, le
-titulaire de cette autorisation dispose d'un délai maximal d'un an à compter de la notification de l'obligation à laquelle il
-est tenu pour transmettre à l'autorité administrative un acte d'engagement des travaux à réaliser ou verser au Fonds
-stratégique de la forêt et du bois une indemnité équivalente. A défaut, l'indemnité est mise en recouvrement dans les
+titulaire de cette autorisation dispose d'un délai maximal fixé par décret à compter de la notification de l'obligation à
+laquelle il est tenu pour transmettre à l'autorité administrative un acte d'engagement des travaux à réaliser ou verser au
+Fonds stratégique de la forêt et du bois une indemnité équivalente. A défaut, l'indemnité est mise en recouvrement dans les
 conditions prévues pour les créances de l'Etat étrangères à l'impôt et au domaine, sauf s'il renonce au défrichement
 projeté. 
 
-En cas de non-exécution dans un délai maximum de trois ans des travaux imposés en application de l'article L. 341-6, les
+En cas de non-exécution dans un délai maximum fixé par décret des travaux imposés en application de l'article L. 341-6, les
 lieux défrichés doivent être rétablis en nature de bois et forêts dans un délai fixé par l'autorité administrative compétente
-de l'Etat. Ce délai ne peut excéder trois années. 
+de l'Etat.  
 
 L'autorité administrative peut en outre, dans les conditions fixées à l'alinéa précédent, ordonner la remise en nature de
 bois des terrains devant être maintenus à l'état de réserves boisées.
@@ -16642,7 +16642,7 @@ _Cité par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+  - Décret n°2015-656 du 10 juin 2015 - art. 1
 
 _Cite_:
 
@@ -30281,9 +30281,10 @@ _Cite_:
 ###### Article R214-30
 
 Lorsque la demande est présentée sur le fondement de l'article L. 214-13 et dans les formes mentionnées aux articles R. 341-1
-et R. 341-4, l'autorisation est accordée par le préfet après avis de l'Office national des forêts. Elle ne prend effet
-qu'après l'intervention, lorsqu'elle est nécessaire du fait des conséquences définitives du défrichement, d'une décision
-mettant fin à l'application du régime forestier aux terrains en cause. 
+et R. 341-4, l'autorisation est accordée par le préfet et, si cette demande porte sur des bois et forêts relevant du régime
+forestier, après avis de l'Office national des forêts. Elle ne prend effet qu'après l'intervention, lorsqu'elle est
+nécessaire du fait des conséquences définitives du défrichement, d'une décision mettant fin à l'application du régime
+forestier aux terrains en cause.
 
 Sous réserve des dispositions de l'article R. 214-31, la demande d'autorisation est réputée rejetée à défaut de décision du
 préfet dans le délai de deux mois à compter de la réception du dossier complet.
@@ -30294,25 +30295,21 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
 _Cité par_:
 
   - Décret n°2014-450 du 2 mai 2014 - art. 37 (VT)
   - Décret n°2014-1296 du 23 octobre 2014 - art. (V)
   - Code forestier (nouveau) - art. R341-3 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code forestier - art. R312-4 (Ab)
+  - Décret n°2015-656 du 10 juin 2015 - art. 2
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L214-13 (V)
-  - Code forestier (nouveau) - art. R214-31 (V)
-  - Code forestier (nouveau) - art. R341-1 (V)
+  - Code forestier (nouveau) - art. L214-13
+  - Code forestier (nouveau) - art. R214-31
+  - Code forestier (nouveau) - art. R341-1
 
 
 ###### Article R214-31
@@ -40588,10 +40585,67 @@ _Cite_:
 
 ##### Section 2 : Instruction et décision<a id=504></a>
 
+###### Article D341-7-1
+
+La validité des autorisations de défrichement est de cinq ans.
+
+Ce délai est prorogé, dans une limite globale de trois ans :
+
+a) En cas de recours devant la juridiction administrative contre l'autorisation de défrichement ou contre une autorisation
+nécessaire à la réalisation des travaux en vue desquels le défrichement est envisagé, d'une durée égale à celle écoulée entre
+la saisine de la juridiction et le prononcé d'une décision juridictionnelle définitive au fond ou la date à laquelle aurait
+expiré l'autorisation de défrichement ;
+
+b) Sur décision de l'autorité administrative qui les a autorisés, en cas d'impossibilité matérielle d'exécuter les travaux de
+défrichement, établie par tous moyens par le bénéficiaire de l'autorisation, de la durée de la période pendant laquelle cette
+exécution est impossible.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-656 du 10 juin 2015 - art. 3
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. D341-7-2 (V)
+
+
+###### Article D341-7-2
+
+Le délai mentionné au premier alinéa de l'article L. 341-9 est au maximum d'un an.
+
+Le délai mentionné au deuxième alinéa de cet article est au maximum de cinq ans.
+
+En cas de non-exécution des travaux imposés en application de l'article L. 341-6 dans ce délai de cinq ans, le délai fixé par
+le préfet pour rétablir les lieux défrichés en nature de bois et forêts ne peut excéder trois années.
+
+Si la durée de validité de l'autorisation est prorogée en application de l'article D. 341-7-1, les délais mentionnés aux deux
+premiers alinéas sont prorogés de la même durée.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-656 du 10 juin 2015 - art. 3
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D341-7-1
+  - Code forestier (nouveau) - art. L341-6
+  - Code forestier (nouveau) - art. L341-9
+
+
 ###### Article R341-4
 
 Sous réserve des dispositions de l'article R. 341-6, la demande présentée sur le fondement de l'article L. 341-3 est réputée
 acceptée à défaut de décision du préfet notifiée dans le délai de deux mois à compter de la réception du dossier complet. 
+
+Le préfet fixe par arrêté les travaux dont devra s'acquitter tout bénéficiaire d'une autorisation tacite de défrichement,
+ainsi que la base de calcul et le montant de l'indemnité équivalente qu'il devra acquitter à défaut de réaliser ces travaux,
+conformément au dernier alinéa de l'article L. 341-6. Ces travaux sont choisis parmi ceux mentionnés au 1° de l'article L.
+341-6, sans application de coefficient multiplicateur. L'accusé de réception du dossier complet rappelle les termes de cet
+arrêté. 
 
 Lorsque le préfet estime, compte tenu des éléments du dossier, qu'une reconnaissance de la situation et de l'état des
 terrains est nécessaire, il porte le délai d'instruction à six mois et en informe le demandeur dans les deux mois suivant la
@@ -40604,18 +40658,15 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R312-1 (Ab)
+  - Décret n°2015-656 du 10 juin 2015 - art. 3
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L341-3 (V)
-  - Code forestier (nouveau) - art. R341-6 (V)
+  - Code forestier (nouveau) - art. L341-3
+  - Code forestier (nouveau) - art. L341-6 (V)
+  - Code forestier (nouveau) - art. R341-6
 
 _Cité par_:
 
@@ -40691,8 +40742,8 @@ _Cité par_:
 
 ###### Article R341-7
 
-La demande d'autorisation de défrichement est réputée rejetée à défaut de décision du préfet notifiée dans le délai de huit
-mois à compter de la réception du dossier complet.
+La demande d'autorisation de défrichement mentionnée au premier alinéa de l'article R. 341-6 est réputée rejetée à défaut de
+décision du préfet notifiée dans le délai de huit mois à compter de la réception du dossier complet.
 
 **Liens relatifs à cet article**
 
@@ -40700,13 +40751,17 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2015-656 du 10 juin 2015 - art. 3
 
 _Cité par_:
 
   - Code forestier (nouveau) - art. R214-31 (V)
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R341-6
 
 
 ##### Section 3 : Suites données aux infractions constatées  en matière de défrichement<a id=505></a>
