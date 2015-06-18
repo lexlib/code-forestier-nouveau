@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-06-15
+Version Consolidée au 2015-06-19
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -30075,6 +30075,33 @@ _Anciens textes_:
 _Cite_:
 
   - Code forestier (nouveau) - art. L221-6 (V)
+
+
+###### Article D214-21-1
+
+L'Office national des forêts propose, le cas échéant, à la collectivité ou personne morale propriétaire les coupes à inscrire
+à l'état d'assiette.
+
+Dans le cas de coupes prévues par le document d'aménagement de la forêt, la collectivité ou personne morale propriétaire
+dispose d'un délai d'un mois à compter de la date de réception de cette proposition pour faire connaître son éventuelle
+opposition. Le silence gardé au-delà de ce délai vaut acceptation de l'inscription des coupes à l'état d'assiette.
+
+Toute opposition doit faire l'objet d'une décision écrite et motivée, adressée au préfet de région. Si celui-ci considère,
+après avis de l'Office national des forêts, que les motifs d'ajournement invoqués par la collectivité ou personne morale
+propriétaire ne présentent pas de caractère réel et sérieux, il le notifie au représentant de la collectivité ou de la
+personne morale propriétaire dans les deux mois suivant la réception de la décision d'ajournement.
+
+Cette notification rappelle les termes de l'article L. 124-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-678 du 16 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. L124-1
 
 
 ###### Article R214-17
