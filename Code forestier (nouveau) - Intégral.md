@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-06-19
+Version Consolidée au 2015-06-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -490,37 +490,38 @@ Version Consolidée au 2015-06-19
               - [Paragraphe 7 : Compétences (art. R321-78 à R321-82)](#487)
             - [Sous-section 3 : Direction (art. R321-83)](#488)
             - [Sous-section 4 : Tutelle (art. R321-84 à R321-85)](#489)
-      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. R331-1 à D332-12)](#490)
+      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. R331-1 à D332-19)](#490)
         - [Chapitre Ier : Regroupement de la propriété (art. R331-1 à R331-16)](#491)
           - [Section 1 : Groupements forestiers (art. R331-1 à R331-3)](#492)
           - [Section 2 : Transformation d'une indivision en groupement forestier (art. R331-4 à R331-16)](#493)
-        - [Chapitre II : Regroupement pour la gestion (art. D332-1 à D332-12)](#494)
+        - [Chapitre II : Regroupement pour la gestion (art. D332-1 à D332-19)](#494)
           - [Section 1 : Protection des peuplements forestiers  contre les dégâts du gibier (art. D332-1)](#495)
           - [Section 2 : Organismes de gestion  et d'exploitation forestière en commun (art. D332-2 à D332-12)](#496)
             - [Sous-section 1 : Conditions d'agrément (art. D332-2 à D332-8)](#497)
             - [Sous-section 2 : Modalités de contrôle (art. D332-9 à D332-11)](#498)
             - [Sous-section 3 : Retrait d'agrément (art. D332-12)](#499)
-      - [TITRE IV : DÉFRICHEMENTS (art. R341-1 à R341-9)](#500)
-        - [Chapitre Ier : Régime d'autorisation préalable (art. R341-1 à R341-9)](#501)
-          - [Section 1 : Demande (art. R341-1 à R341-3)](#502)
-          - [Section 2 : Instruction et décision (art. D341-7-1 à R341-7)](#503)
-          - [Section 3 : Suites données aux infractions constatées  en matière de défrichement (art. R341-8 à R341-9)](#504)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. D351-1 à D351-3)](#505)
-        - [Chapitre Ier : Dispositions générales (art. D351-1 à D351-3)](#506)
-      - [TITRE VI : DISPOSITIONS PÉNALES (art. R361-1 à R363-1)](#507)
-        - [Chapitre Ier : Surveillance (art. R361-1 à R361-2)](#508)
-        - [Chapitre II : Infractions aux règles de gestion (art. R362-1)](#509)
-        - [Chapitre III : Infractions aux règles de défrichement (art. R363-1)](#510)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R371-1 à R378-1)](#511)
-        - [Chapitre Ier : Guadeloupe (art. R371-1)](#512)
-        - [Chapitre II : Guyane (art. R372-1 à R372-2)](#513)
-        - [Chapitre III : Martinique (art. R373-1)](#514)
-        - [Chapitre IV : La Réunion (art. R374-1 à R374-10)](#515)
-          - [Section 1 : Défrichement (art. R374-1 à R374-3)](#516)
-          - [Section 2 : Végétations spécifiques à La Réunion (art. R374-4 à R374-10)](#517)
-        - [Chapitre V : Mayotte (art. R375-1 à R375-2)](#518)
-        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. R378-1)](#519)
-    - [Annexes (art. Annexe I à Annexe II)](#520)
+          - [Section 3 : Le groupement d'intérêt économique et environnemental forestier (art. D332-14 à D332-19)](#500)
+      - [TITRE IV : DÉFRICHEMENTS (art. R341-1 à R341-9)](#501)
+        - [Chapitre Ier : Régime d'autorisation préalable (art. R341-1 à R341-9)](#502)
+          - [Section 1 : Demande (art. R341-1 à R341-3)](#503)
+          - [Section 2 : Instruction et décision (art. D341-7-1 à R341-7)](#504)
+          - [Section 3 : Suites données aux infractions constatées  en matière de défrichement (art. R341-8 à R341-9)](#505)
+      - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. D351-1 à D351-3)](#506)
+        - [Chapitre Ier : Dispositions générales (art. D351-1 à D351-3)](#507)
+      - [TITRE VI : DISPOSITIONS PÉNALES (art. R361-1 à R363-1)](#508)
+        - [Chapitre Ier : Surveillance (art. R361-1 à R361-2)](#509)
+        - [Chapitre II : Infractions aux règles de gestion (art. R362-1)](#510)
+        - [Chapitre III : Infractions aux règles de défrichement (art. R363-1)](#511)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R371-1 à R378-1)](#512)
+        - [Chapitre Ier : Guadeloupe (art. R371-1)](#513)
+        - [Chapitre II : Guyane (art. R372-1 à R372-2)](#514)
+        - [Chapitre III : Martinique (art. R373-1)](#515)
+        - [Chapitre IV : La Réunion (art. R374-1 à R374-10)](#516)
+          - [Section 1 : Défrichement (art. R374-1 à R374-3)](#517)
+          - [Section 2 : Végétations spécifiques à La Réunion (art. R374-4 à R374-10)](#518)
+        - [Chapitre V : Mayotte (art. R375-1 à R375-2)](#519)
+        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. R378-1)](#520)
+    - [Annexes (art. Annexe I à Annexe II)](#521)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS<a id=2></a>
@@ -40617,11 +40618,178 @@ _Cite_:
   - Code forestier (nouveau) - art. D332-2 (V)
 
 
-### TITRE IV : DÉFRICHEMENTS<a id=500></a>
+##### Section 3 : Le groupement d'intérêt économique et environnemental forestier<a id=500></a>
 
-#### Chapitre Ier : Régime d'autorisation préalable<a id=501></a>
+###### Article D332-14
 
-##### Section 1 : Demande<a id=502></a>
+Le dossier de demande de reconnaissance de la qualité de groupement d'intérêt économique et environnemental forestier
+comprend les documents suivants :
+
+1° La composition du groupement, ses statuts ou sa convention constitutive ;
+
+2° Le document de diagnostic dont le contenu est précisé à l'article D. 332-15 ;
+
+3° Le plan simple de gestion concerté mentionné à l'article L. 122-4, agréé par le centre régional de la propriété forestière
+dans le ressort duquel se situe la majorité des surfaces du projet.
+
+Le dossier est déposé par le groupement demandeur auprès du préfet de la région où se situe la majorité des superficies
+concernées.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D332-15
+  - Code forestier (nouveau) - art. L122-4
+
+
+###### Article D332-15
+
+Le document de diagnostic mentionné au 2° de l'article D. 332-14 démontre que les objectifs, éventuellement chiffrés, et les
+modalités de gestion du peuplement sont conformes aux orientations du schéma régional de gestion sylvicole et du programme
+régional de la forêt et du bois, que le territoire en cause est cohérent d'un point de vue sylvicole, économique et
+écologique avec ces objectifs et que les indicateurs mentionnés au 5° en permettent le suivi. Il comporte :
+
+1° La présentation, au regard du territoire dans lequel ils sont situés, des bois et forêts des propriétaires, tels que
+décrits dans le plan simple de gestion ;
+
+2° Une description qualitative et quantitative des objectifs assignés à la gestion des peuplements et visant une amélioration
+de la performance économique et environnementale ; cette description s'appuie sur une analyse sylvicole, économique,
+environnementale et sociale du territoire dans lequel s'inscrit le groupement ; elle peut notamment intégrer une description
+des travaux menés dans le cadre de stratégies locales de développement forestier au sens de l'article L. 123-1 ;
+
+3° Une description des modalités de gestion mises en œuvre pour atteindre les objectifs assignés à la gestion des peuplements
+ainsi que la présentation du mandat de gestion proposé aux propriétaires ;
+
+4° Une description des modalités de mise en marché concertée des coupes, ainsi que des travaux qui lui sont liés, notamment
+les travaux de desserte et d'équipement ;
+
+5° Les indicateurs de suivi des orientations de gestion et des objectifs suivants :
+
+a) Le taux annuel de réalisation des opérations de coupes et de travaux prévues dans le plan simple de gestion ;
+
+b) Le volume de bois récolté annuellement, en distinguant bois d'œuvre, bois d'industrie et bois d'énergie ;
+
+c) Le volume de bois commercialisé annuellement au travers de contrats d'approvisionnement reconductibles ;
+
+d) Le nombre de contrats Natura 2000 signés ;
+
+e) Le nombre de tiges à l'hectare désignées comme devant être conservées au titre de la biodiversité lors des passages en
+coupe.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. D332-14 (V)
+  - Code forestier (nouveau) - art. D332-16 (V)
+  - Code forestier (nouveau) - art. D332-17 (V)
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. L123-1
+
+
+###### Article D332-16
+
+Le suivi de la mise en œuvre du plan simple de gestion est assuré par le centre régional de la propriété forestière sur la
+base des bilans réalisés par le groupement d'intérêt économique et environnemental forestier, notamment au regard des
+indicateurs prévus au 5° de l'article D. 332-15.
+
+Le groupement établit un bilan au moins tous les cinq ans à compter de la date de publication de l'arrêté lui reconnaissant
+la qualité de groupement d'intérêt économique et environnemental forestier. Il l'adresse au centre régional de la propriété
+forestière au plus tard le 31 mars de l'année qui suit la période en cause. Avant la fin de la même année, après délibération
+de son conseil, le centre régional de la propriété forestière transmet le bilan accompagné de son analyse et de ses
+propositions au préfet de région.
+
+Au terme du plan simple de gestion, le groupement réalise un bilan final qui est transmis dans les mêmes conditions que le
+bilan périodique.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D332-15
+
+
+###### Article D332-17
+
+Toute organisation de producteurs du secteur forestier reconnue en application des articles D. 551-99 et D. 551-100 du code
+rural et de la pêche maritime qui souhaite se voir reconnaître la qualité de groupement d'intérêt économique et
+environnemental forestier dépose auprès du préfet de la région dans laquelle se situe son siège social un dossier de demande
+comprenant : 
+
+1° Le dossier de reconnaissance comme organisation de producteurs ; 
+
+2° Une analyse économique, environnementale et sociale du territoire concerné ; 
+
+3° Les indicateurs de suivi mentionnés au 5° de l'article D. 332-15 ; 
+
+4° La description des modalités de desserte et d'équipements nécessaires à l'activité du groupement ; 
+
+5° Le plan simple de gestion concerté prévu à l'article L. 122-4 agréé par le centre régional de la propriété forestière.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+_Cite_:
+
+  - Code rural - art. D551-99
+  - Code forestier (nouveau) - art. D332-15
+  - Code forestier (nouveau) - art. L122-4
+
+
+###### Article D332-18
+
+La qualité de groupement d'intérêt économique et environnemental forestier peut être retirée si les conditions de sa
+reconnaissance ne sont plus remplies ou, sur la base du rapport transmis par le centre régional de la propriété forestière,
+si les objectifs prévus n'ont pas été atteints ou si le plan simple de gestion n'a pas été appliqué sur au moins la moitié de
+la surface du groupement.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+
+###### Article D332-19
+
+Le préfet de région établit chaque année un rapport de présentation des groupements d'intérêt économique et environnemental
+forestiers reconnus au cours de l'année précédente. Ce document est transmis à la commission régionale de la forêt et du
+bois.
+
+Le centre régional de la propriété forestière élabore chaque année une synthèse des bilans établis l'année précédente par les
+groupements d'intérêt économique et environnemental forestiers existants. Cette synthèse est transmise à la commission
+régionale de la forêt et du bois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+
+### TITRE IV : DÉFRICHEMENTS<a id=501></a>
+
+#### Chapitre Ier : Régime d'autorisation préalable<a id=502></a>
+
+##### Section 1 : Demande<a id=503></a>
 
 ###### Article R341-1
 
@@ -40763,7 +40931,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-1 (V)
 
 
-##### Section 2 : Instruction et décision<a id=503></a>
+##### Section 2 : Instruction et décision<a id=504></a>
 
 ###### Article D341-7-1
 
@@ -40944,7 +41112,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-6
 
 
-##### Section 3 : Suites données aux infractions constatées  en matière de défrichement<a id=504></a>
+##### Section 3 : Suites données aux infractions constatées  en matière de défrichement<a id=505></a>
 
 ###### Article R341-8
 
@@ -40984,9 +41152,9 @@ _Créé par_:
   - Décret n°2012-836 du 29 juin 2012 - art. (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE<a id=505></a>
+### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE<a id=506></a>
 
-#### Chapitre Ier : Dispositions générales<a id=506></a>
+#### Chapitre Ier : Dispositions générales<a id=507></a>
 
 ###### Article D351-1
 
@@ -41087,9 +41255,9 @@ _Créé par_:
   - Décret n°2012-836 du 29 juin 2012 - art. (V)
 
 
-### TITRE VI : DISPOSITIONS PÉNALES<a id=507></a>
+### TITRE VI : DISPOSITIONS PÉNALES<a id=508></a>
 
-#### Chapitre Ier : Surveillance<a id=508></a>
+#### Chapitre Ier : Surveillance<a id=509></a>
 
 ###### Article R361-1
 
@@ -41134,7 +41302,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L161-4 (V)
 
 
-#### Chapitre II : Infractions aux règles de gestion<a id=509></a>
+#### Chapitre II : Infractions aux règles de gestion<a id=510></a>
 
 ###### Article R362-1
 
@@ -41159,7 +41327,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L312-11 (V)
 
 
-#### Chapitre III : Infractions aux règles de défrichement<a id=510></a>
+#### Chapitre III : Infractions aux règles de défrichement<a id=511></a>
 
 ###### Article R363-1
 
@@ -41181,9 +41349,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-4 (V)
 
 
-### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=511></a>
+### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=512></a>
 
-#### Chapitre Ier : Guadeloupe<a id=512></a>
+#### Chapitre Ier : Guadeloupe<a id=513></a>
 
 ###### Article R371-1
 
@@ -41210,7 +41378,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-5 (V)
 
 
-#### Chapitre II : Guyane<a id=513></a>
+#### Chapitre II : Guyane<a id=514></a>
 
 ###### Article R372-1
 
@@ -41260,7 +41428,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R312-1 (V)
 
 
-#### Chapitre III : Martinique<a id=514></a>
+#### Chapitre III : Martinique<a id=515></a>
 
 ###### Article R373-1
 
@@ -41287,9 +41455,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-5 (V)
 
 
-#### Chapitre IV : La Réunion<a id=515></a>
+#### Chapitre IV : La Réunion<a id=516></a>
 
-##### Section 1 : Défrichement<a id=516></a>
+##### Section 1 : Défrichement<a id=517></a>
 
 ###### Article R374-1
 
@@ -41372,7 +41540,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-4 (V)
 
 
-##### Section 2 : Végétations spécifiques à La Réunion<a id=517></a>
+##### Section 2 : Végétations spécifiques à La Réunion<a id=518></a>
 
 ###### Article R374-4
 
@@ -41611,7 +41779,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L174-16 (V)
 
 
-#### Chapitre V : Mayotte<a id=518></a>
+#### Chapitre V : Mayotte<a id=519></a>
 
 ###### Article R375-1
 
@@ -41685,7 +41853,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L375-3 (V)
 
 
-#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=519></a>
+#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=520></a>
 
 ###### Article R378-1
 
@@ -41703,7 +41871,7 @@ _Anciens textes_:
   - Code forestier - art. R254-1 (Ab)
 
 
-## Annexes<a id=520></a>
+## Annexes<a id=521></a>
 
 ###### Article Annexe I
 
