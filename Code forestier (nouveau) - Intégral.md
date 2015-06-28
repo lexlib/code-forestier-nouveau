@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-06-27
+Version Consolidée au 2015-06-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -490,17 +490,17 @@ Version Consolidée au 2015-06-27
               - [Paragraphe 7 : Compétences (art. R321-78 à R321-82)](#487)
             - [Sous-section 3 : Direction (art. R321-83)](#488)
             - [Sous-section 4 : Tutelle (art. R321-84 à R321-85)](#489)
-      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. R331-1 à D332-19)](#490)
+      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. R331-1 à R332-13)](#490)
         - [Chapitre Ier : Regroupement de la propriété (art. R331-1 à R331-16)](#491)
           - [Section 1 : Groupements forestiers (art. R331-1 à R331-3)](#492)
           - [Section 2 : Transformation d'une indivision en groupement forestier (art. R331-4 à R331-16)](#493)
-        - [Chapitre II : Regroupement pour la gestion (art. D332-1 à D332-19)](#494)
+        - [Chapitre II : Regroupement pour la gestion (art. D332-1 à R332-13)](#494)
           - [Section 1 : Protection des peuplements forestiers  contre les dégâts du gibier (art. D332-1)](#495)
           - [Section 2 : Organismes de gestion  et d'exploitation forestière en commun (art. D332-2 à D332-12)](#496)
             - [Sous-section 1 : Conditions d'agrément (art. D332-2 à D332-8)](#497)
             - [Sous-section 2 : Modalités de contrôle (art. D332-9 à D332-11)](#498)
             - [Sous-section 3 : Retrait d'agrément (art. D332-12)](#499)
-          - [Section 3 : Le groupement d'intérêt économique et environnemental forestier (art. D332-14 à D332-19)](#500)
+          - [Section 3 : Le groupement d'intérêt économique et environnemental forestier (art. D332-14 à R332-13)](#500)
       - [TITRE IV : DÉFRICHEMENTS (art. R341-1 à R341-9)](#501)
         - [Chapitre Ier : Régime d'autorisation préalable (art. R341-1 à R341-9)](#502)
           - [Section 1 : Demande (art. R341-1 à R341-3)](#503)
@@ -40805,6 +40805,27 @@ régionale de la forêt et du bois.
 _Créé par_:
 
   - Décret n°2015-728 du 24 juin 2015 - art. 1
+
+
+###### Article R332-13
+
+L'autorité administrative compétente de l'Etat mentionnée au IV de l'article L. 332-7 est le préfet de la région dans le
+ressort de laquelle se situe la majorité des surfaces d'un groupement d'intérêt économique et environnemental forestier.
+
+Si la demande de reconnaissance de la qualité de groupement d'intérêt économique et environnemental forestier est déposée par
+une organisation de producteurs dans le secteur forestier, reconnue en application des dispositions du chapitre 1er du titre
+V du livre V du code rural et de la pêche maritime, l'autorité compétente est le préfet de la région dans le ressort de
+laquelle se situe le siège social de cette organisation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2015-758 du 24 juin 2015 - art. 2
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. L332-7
 
 
 ### TITRE IV : DÉFRICHEMENTS<a id=501></a>
