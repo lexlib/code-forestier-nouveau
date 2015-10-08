@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-09-13
+Version Consolidée au 2015-10-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -133,7 +133,7 @@ Version Consolidée au 2015-09-13
           - [Section 6 : Défrichement (art. L214-13 à L214-14)](#130)
         - [Chapitre V : Bois et forêts indivis  relevant du régime forestier (art. L215-1 à L215-3)](#131)
       - [TITRE II : OFFICE NATIONAL DES FORÊTS (art. L221-1 à L224-2)](#132)
-        - [Chapitre Ier : Missions (art. L221-1 à L221-7)](#133)
+        - [Chapitre Ier : Missions (art. L221-1 à L221-8)](#133)
         - [Chapitre II : Organisation (art. L222-1 à L222-8)](#134)
           - [Section 1 : Conseil d'administration (art. L222-1 à L222-3)](#135)
           - [Section 2 : Directeur général (art. L222-4 à L222-5)](#136)
@@ -10365,6 +10365,22 @@ _Codifié par_:
 _Créé par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+
+
+###### Article L221-8
+
+L'Office national des forêts participe à la surveillance des dangers sanitaires que peuvent présenter les végétaux dans les
+bois et forêts relevant du régime forestier mentionné à l'article L. 211-1.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - ORDONNANCE n°2015-1242 du 7 octobre 2015 - art. 5
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. L211-1
 
 
 #### Chapitre II : Organisation<a id=134></a>
