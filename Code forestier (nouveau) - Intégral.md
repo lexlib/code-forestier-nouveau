@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2015-12-18
+Version Consolidée au 2016-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -579,7 +579,7 @@ _Cité par_:
 
 Sans préjudice des dispositions du présent code qui leur sont applicables, notamment en matière de défrichement et de coupe,
 les dispositions relatives aux espaces boisés classés, en particulier aux règles de classement et de gestion, sont fixées par
-les articles L. 130-1 à L. 130-6 du code de l'urbanisme.
+les articles L. 113-1 à L. 113-5 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -587,22 +587,13 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code de l'urbanisme - art. L130-1 (M)
-  - Code de l'urbanisme - art. L130-2 (VT)
-  - Code de l'urbanisme - art. L130-3 (VT)
-  - Code de l'urbanisme - art. L130-4 (VT)
-  - Code de l'urbanisme - art. L130-5 (VT)
-  - Code de l'urbanisme - art. L130-6 (VT)
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L130-1 (V)
+  - Code de l'urbanisme - art. L113-1 (VD)
 
 _Cité par_:
 
@@ -613,7 +604,7 @@ _Cité par_:
 
 Les dispositions relatives à la protection des haies, boisements linéaires ou arbres isolés sont fixées au chapitre VI du
 titre II du livre Ier du code rural et de la pêche maritime. Les dispositions relatives à leur classement sont fixées à
-l'article L. 130-1 du code de l'urbanisme.
+l'article L. 113-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -621,19 +612,13 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code rural et de la pêche maritime - art. L126-3 (V)
-  - Code rural et de la pêche maritime - art. L126-4 (V)
-  - Code rural et de la pêche maritime - art. L126-5 (M)
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L130-1 (V)
+  - Code de l'urbanisme - art. L113-1 (VD)
 
 
 #### Chapitre II : Principes généraux<a id=5></a>
@@ -1467,31 +1452,26 @@ _Cité par_:
 
 ###### Article L122-6
 
-Sans préjudice des dispositions de l'article L. 112-3 et de celles de l'article 4 de la loi n° 78-753 du 17 juillet 1978
-portant diverses mesures d'amélioration des relations entre l'administration et le public et diverses dispositions d'ordre
-administratif, social et fiscal, les programmes régionaux de la forêt et du bois, les directives et schémas régionaux ainsi
-que les documents d'aménagement pour leur partie technique sont communicables à toute personne, à sa demande et à ses frais.
+Sans préjudice des dispositions de l'article L. 112-3 et de celles de l'article L. 311-9 du code des relations entre le
+public et l'administration, les programmes régionaux de la forêt et du bois, les directives et schémas régionaux ainsi que
+les documents d'aménagement pour leur partie technique sont communicables à toute personne, à sa demande et à ses frais.
 
 **Liens relatifs à cet article**
 
-_Cite_:
-
-  - Loi n°78-753 du 17 juillet 1978 - art. 4
-  - Code forestier (nouveau) - art. L112-3
-
-_Codifié par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+  - ORDONNANCE n°2015-1341 du 23 octobre 2015 - art. 3 (V)
 
 _Cité par_:
 
   - Code de l'environnement - art. L414-8 (M)
-  - Code de l'environnement - art. L425-12 (V)
+  - Code de l'environnement - art. L425-12 (M)
   - Code forestier (nouveau) - art. D122-9 (V)
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. L112-3
+  - Code des relations entre le public et l'adminis... - art. L311-9 (V)
 
 
 ##### Section 2 : Coordination des procédures administratives<a id=13></a>
@@ -1632,16 +1612,12 @@ Dans les espaces boisés et forestiers ouverts au public, le document d'aménage
 l'article L. 212-2 intègre les objectifs d'accueil du public. 
 
 Le plan simple de gestion agréé en application de l'article L. 312-1 intègre ces mêmes objectifs lorsqu'il concerne des
-espaces boisés ouverts au public en vertu d'une convention signée avec une collectivité publique, notamment en application de
-l'article L. 130-5 du code de l'urbanisme.
+espaces boisés ouverts au public en vertu d'une convention signée avec une collectivité publique, notamment en application
+des articles L. 113-6 et L. 113-7 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
 _Codifié par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Créé par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
@@ -1652,15 +1628,19 @@ _Cité par_:
   - Code forestier (nouveau) - art. L176-1 (V)
   - Code forestier (nouveau) - art. R312-4 (V)
 
+_Modifié par_:
+
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
+
 _Anciens textes_:
 
   - Code forestier - art. L380-1 (VT), al 2.
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L130-5 (V)
-  - Code forestier (nouveau) - art. L212-2 (VD)
-  - Code forestier (nouveau) - art. L312-1 (VD)
+  - Code de l'urbanisme - art. L113-6 (VD)
+  - Code forestier (nouveau) - art. L212-2
+  - Code forestier (nouveau) - art. L312-1
 
 
 ###### Article L122-10
@@ -1996,18 +1976,22 @@ _Cite_:
 Dans les bois et forêts ne présentant pas de garantie de gestion durable, les coupes d'un seul tenant supérieures ou égales à
 un seuil fixé par le représentant de l'Etat dans le département et enlevant plus de la moitié du volume des arbres de futaie
 ne peuvent être réalisées que sur autorisation de cette autorité, après avis, pour les bois et forêts des particuliers, du
-Centre national de la propriété forestière. 
+Centre national de la propriété forestière.
 
 Le seuil mentionné au premier alinéa est déterminé, pour chaque département, après avis du Centre national de la propriété
-forestière et de l'Office national des forêts. 
+forestière et de l'Office national des forêts.
 
 L'autorisation, éventuellement assortie de conditions particulières de réalisation de la coupe et de travaux complémentaires,
-est délivrée conformément aux directives ou schémas régionaux dont ces bois et forêts relèvent. 
+est délivrée conformément aux directives ou schémas régionaux dont ces bois et forêts relèvent.
 
 Les coupes effectuées dans les peupleraies, ainsi que celles autorisées au titre d'une autre disposition du présent code ou
-de l'article L. 130-1 du code de l'urbanisme, ne relèvent pas des dispositions du présent article.
+de l'article L. 421-4 du code de l'urbanisme, ne relèvent pas des dispositions du présent article.
 
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
 _Cité par_:
 
@@ -2017,13 +2001,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. R124-1 (V)
   - Code forestier (nouveau) - art. R312-19 (V)
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Anciens textes_:
 
@@ -2031,7 +2011,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L130-1 (V)
+  - Code de l'urbanisme - art. L421-4 (VD)
 
 
 ##### Section 3 : Reconstitution après coupe<a id=19></a>
@@ -2921,7 +2901,7 @@ L'acte déclarant l'utilité publique détermine le périmètre de protection et
 ces travaux sont exécutés et les dispositions prévues aux articles L. 133-4 à L. 133-10 sont applicables. 
 
 Cette déclaration d'utilité publique emporte, si nécessaire, le déclassement des espaces boisés classés à protéger ou à créer
-en application de l'article L. 130-1 du code de l'urbanisme.
+en application de l'article L. 113-1 du code de l'urbanisme.
 
 **Liens relatifs à cet article**
 
@@ -2931,11 +2911,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - ORDONNANCE n°2014-1345 du 6 novembre 2014 - art. 5
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. L130-1
+  - Code de l'urbanisme - art. L113-1 (VD)
   - Code forestier (nouveau) - art. L133-2
 
 _Cité par_:
@@ -4471,8 +4451,9 @@ _Cité par_:
 
 ###### Article L143-3
 
-Aucune fouille ne peut être effectuée dans les dunes de mer du Pas-de-Calais en dehors des espaces urbanisés au sens des
-articles L. 146-2 et suivants du code de l'urbanisme, et ce, jusqu'à la distance de 200 mètres de la laisse de haute mer. 
+Aucune fouille ne peut être effectuée dans les dunes de mer du Pas-de-Calais en dehors des espaces urbanisés au sens de la
+section 1 du chapitre Ier du titre II du livre Ier du code de l'urbanisme, et ce, jusqu'à la distance de 200 mètres de la
+laisse de haute mer.
 
 Toutefois, des fouilles nécessitées par le maintien ou la restauration des dunes peuvent faire l'objet d'une autorisation
 administrative.
@@ -4483,10 +4464,6 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
 _Cité par_:
 
   - Décret n°2014-1297 du 23 octobre 2014 - art. (V)
@@ -4494,13 +4471,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. L163-16 (VD)
   - Code forestier (nouveau) - art. R143-5 (V)
 
-_Anciens textes_:
+_Modifié par_:
 
-  - Code forestier - art. L432-1 (VT), al 1.
-
-_Cite_:
-
-  - Code de l'urbanisme - art. L146-2 (V)
+  - ORDONNANCE n°2015-1174 du 23 septembre 2015 - art. 9
 
 
 ###### Article L143-4
@@ -15511,33 +15484,23 @@ _Anciens textes_:
 
 ###### Article L331-6
 
-I. ― Un groupement forestier peut, sur autorisation administrative, inclure, parmi les immeubles qu'il possède, leurs
-accessoires ou dépendances inséparables destinés à la réalisation de son objet social ainsi que les terrains à vocation
-pastorale nécessaires pour cantonner la pratique du pâturage hors des parties boisées justifiant d'une mise en défens ou des
-terrains à boiser du groupement. Le pourcentage maximum des surfaces qui peuvent être consacrées par un groupement forestier
-aux activités pastorales est fixé par décision de l'autorité administrative. 
+I. – Un groupement forestier peut inclure, parmi les immeubles qu'il possède, leurs accessoires ou dépendances inséparables
+destinés à la réalisation de son objet social ainsi que les terrains à vocation pastorale nécessaires pour cantonner la
+pratique du pâturage hors des parties boisées justifiant d'une mise en défens ou des terrains à boiser du groupement. Cette
+opération fait l'objet d'une déclaration auprès de l'autorité administrative, qui dispose d'un délai de deux mois pour s'y
+opposer. Le pourcentage maximum des surfaces qui peuvent être consacrées par un groupement forestier aux activités pastorales
+est fixé par décision de l'autorité administrative. 
 
-II. ― Les immeubles dont les collectivités et les autres personnes morales mentionnées au 2° du I de l'article L. 211-1
-peuvent faire apport aux groupements forestiers ne doivent consister qu'en fonds ne relevant pas du régime forestier. Pour
-les personnes morales mentionnées au c du 2° de cet article, l'apport est subordonné à une autorisation administrative
-préalable. 
+II. – Les immeubles dont les collectivités et les autres personnes morales mentionnées au 2° du I de l'article L. 211-1
+peuvent faire apport aux groupements forestiers ne doivent consister qu'en fonds ne relevant pas du régime forestier. 
 
-III. ― Tout propriétaire d'une parcelle boisée qui en fait l'apport à un groupement forestier peut continuer, à titre
+III. – Tout propriétaire d'une parcelle boisée qui en fait l'apport à un groupement forestier peut continuer, à titre
 personnel, à disposer de son droit de chasse sur cette parcelle pendant une durée de dix ans à condition qu'il reste
-propriétaire de la totalité des parts représentatives de cet apport.
+propriétaire de la totalité des parts représentatives de cet apport
 
 **Liens relatifs à cet article**
 
-_Anciens textes_:
-
-  - Loi n°85-1273 du 4 décembre 1985 - art. 17 (VT)
-  - Code forestier - art. L241-6 (VT)
-
 _Codifié par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Créé par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
@@ -15547,9 +15510,13 @@ _Cité par_:
   - Code forestier (nouveau) - art. R331-2 (V)
   - Code rural et de la pêche maritime - art. L125-10 (VD)
 
+_Modifié par_:
+
+  - Ordonnance n°2015-1682 du 17 décembre 2015 - art. 1
+
 _Cite_:
 
-  - Code forestier (nouveau) - art. L211-1 (VD)
+  - Code forestier (nouveau) - art. L211-1 (V)
 
 
 ###### Article L331-7
@@ -22210,7 +22177,7 @@ _Cite_:
 ###### Article R141-26
 
 Les coupes réalisées conformément à un règlement d'exploitation approuvé ou à une autorisation spéciale délivrée en
-application du présent chapitre sont dispensées de la demande d'autorisation prévue à l'article R. 130-1 du code de
+application du présent chapitre sont dispensées de la demande d'autorisation prévue à l'article    R. 421-23  du code de
 l'urbanisme.
 
 **Liens relatifs à cet article**
@@ -22219,17 +22186,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R412-8 (Ab)
+  - Décret n°2015-1783 du 28 décembre 2015 - art. 9
 
 _Cite_:
 
-  - Code de l'urbanisme - art. R*130-1 (V)
+  - Code de l'urbanisme - art. *R421-23
 
 
 ###### Article R141-27
