@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-08-10
+Version Consolidée au 2016-08-15
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -19888,9 +19888,24 @@ chartes forestières de territoire mentionnées à l'article L. 123-3, en vue de
 forestière. 
 
 Les stratégies locales de développement forestier sont soumises à l'évaluation environnementale si, dans les conditions
-prévues à l'article R. 122-17 du code de l'environnement, le préfet l'estime nécessaire. Dans ce cas, elle est réalisée dans
-les conditions prévues 
-à la section 2 du chapitre II du titre II du livre Ier du même code.
+prévues à l'article R. 122-17 du code de l'environnement, l'autorité environnementale l'estime nécessaire. Dans ce cas, elle
+est réalisée dans les conditions prévues à la section 2 du chapitre II du titre II du livre Ier du même code.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -19900,13 +19915,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-666 du 10 juin 2015 - art. 3
+  - Décret n°2016-1110 du 11 août 2016 - art. 6
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-6
+  - Code de l'environnement -  Section 2 : Evaluation de certains plans et doc... (V)
   - Code de l'environnement - art. R122-17
-  - Code de l'environnement - art. R122-20
   - Code forestier (nouveau) - art. L123-3
 
 
@@ -22523,17 +22537,34 @@ l'alimentation en énergie ou au contrôle de la station, des bâtiments, des vo
 3° L'indication pour chaque parcelle de la superficie des terrains d'emprise ; 
 
 4° L'exposé des motifs d'intérêt général qui s'attachent à l'installation d'un captage dans la forêt de protection au regard
-des conditions prévues à l'article R. 141-30 ; 
+des conditions prévues à l'article R. 141-30 
 
-5° Un rapport, établi par un hydrogéologue agréé en matière d'hygiène publique, démontrant l'insuffisance de la ressource
+; 5° Un rapport, établi par un hydrogéologue agréé en matière d'hygiène publique, démontrant l'insuffisance de la ressource
 disponible hors de ce périmètre ; 
 
-6° L'étude d'impact prévue à l'article L. 122-1 du code de l'environnement ; 
+6° L'étude d'impact prévue à l'article L. 122-1 du code de l'environnement ou la décision de l'autorité environnementale
+dispensant le demandeur de réaliser une évaluation environnementale ; 
 
 7° Les engagements de la collectivité publique compétente et, s'il y a lieu, ceux de son délégataire quant aux modalités
 d'exécution des travaux ; 
 
 8° Si le projet nécessite des défrichements, les éléments prévus à l'article R. 341-1 du présent code.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -22541,17 +22572,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R412-24 (Ab)
+  - Décret n°2016-1110 du 11 août 2016 - art. 6
 
 _Cite_:
 
-  - Code de l'environnement - art. L122-1 (V)
+  - Code de l'environnement - art. L122-1
   - Code forestier (nouveau) - art. R141-30 (V)
   - Code forestier (nouveau) - art. R341-1 (V)
 
@@ -40809,7 +40836,7 @@ déposer la demande ;
 7° L'indication de la superficie à défricher par parcelle cadastrale et du total de ces superficies ; 
 
 8° S'il y a lieu, l'étude d'impact définie à l'article R. 122-5 du code de l'environnement lorsqu'elle est requise en
-application des articles R. 122-2 et R. 122-3 du même code ; 
+application à l'article R. 122-2 du même code ; 
 
 9° Une déclaration du demandeur indiquant si, à sa connaissance, les terrains ont été ou non parcourus par un incendie durant
 les quinze années précédant l'année de la demande ; 
@@ -40817,6 +40844,22 @@ les quinze années précédant l'année de la demande ;
 10° La destination des terrains après défrichement ; 
 
 11° Un échéancier prévisionnel dans le cas d'exploitation de carrière.
+
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
 
 **Liens relatifs à cet article**
 
@@ -40827,7 +40870,7 @@ _Cite_:
   - Code de l'environnement - art. L512-1
   - Code de l'environnement - art. L512-7-1
   - Code de l'environnement - art. L555-27
-  - Code de l'environnement - art. R122-2
+  - Code de l'environnement - art. R122-2 (V)
   - Code de l'environnement - art. R122-5
   - Code minier (nouveau) - art. L322-1
   - Code minier (nouveau) - art. L333-1
@@ -40840,7 +40883,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-1272 du 27 décembre 2013 - art. 5
+  - Décret n°2016-1110 du 11 août 2016 - art. 6
 
 _Cité par_:
 
@@ -41796,7 +41839,8 @@ fraction à défricher ;
 est riveraine de bois et forêts ou de biens agroforestiers relevant du régime forestier, ou délimitée et balisée avec les
 propriétés voisines, lorsque celles-ci ne relèvent pas du régime forestier ; 
 
-" 5° Selon les cas, l'étude d'impact ou la notice prévue par les articles R. 122-3 et R. 122-9 du code de l'environnement ; 
+" 5° L'étude d'impact définie à l'article R. 122-5 du code de l'environnement lorsqu'elle est requise en application de
+l'article R. 122-2 du même code ; 
 
 " 6° Une déclaration de l'auteur de la demande indiquant si, à sa connaissance, les terrains ont été ou non parcourus par un
 incendie durant les quinze années précédant l'année de la demande ; 
@@ -41805,27 +41849,35 @@ incendie durant les quinze années précédant l'année de la demande ;
 
 " Le préfet peut demander toutes précisions complémentaires qu'il estime utiles pour l'instruction du dossier. "
 
+**Nota:**
+
+Le décret n° 2016-1110 a été pris pour l’application de l’ordonnance n° 2016-1058 dont l’article 6 prévoit que « Les
+dispositions de la présente ordonnance s'appliquent : 
+
+- aux projets relevant d'un examen au cas par cas pour lesquels la demande d'examen au cas par cas est déposée à compter du
+1er janvier 2017 ; 
+
+- aux projets faisant l'objet d'une évaluation environnementale systématique pour lesquels la première demande d'autorisation
+est déposée à compter du 16 mai 2017. Pour les projets pour lesquels l'autorité compétente est le maître d'ouvrage, ces
+dispositions s'appliquent aux projets dont l'enquête publique est ouverte à compter du premier jour du sixième mois suivant
+la publication de la présente ordonnance ; 
+
+- aux plans et programmes pour lesquels l'arrêté d'ouverture et d'organisation de l'enquête publique ou l'avis sur la mise à
+disposition du public est publié après le premier jour du mois suivant la publication de la présente ordonnance. »
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R311-1 (Ab)
+  - Décret n°2016-1110 du 11 août 2016 - art. 6
 
 _Cite_:
 
-  - Code de l'environnement - art. R122-3 (V)
-  - Code de l'environnement - art. R122-9 (V)
-  - Code forestier (nouveau) - art. L341-3 (V)
-  - Code forestier (nouveau) - art. L341-7 (V)
-  - Code forestier (nouveau) - art. L375-3 (V)
+  - Code forestier (nouveau) - art. R341-1 (V)
 
 
 #### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=521></a>
