@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-10-01
+Version Consolidée au 2016-12-16
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -38432,51 +38432,51 @@ _Cité par_:
 
 ###### Article R321-49
 
-I. ― Toute personne qui sollicite : 
+I. – Toute personne qui sollicite :
 
-1° Soit son inscription sur la liste électorale, celle d'une personne morale ou d'une indivision, en tant que propriétaire ; 
+1° Soit son inscription sur la liste électorale, celle d'une personne morale ou d'une indivision, en tant que propriétaire ;
 
 2° Soit la mention de son nom sur la liste électorale en tant que représentant d'une indivision ou en tant que représentant
-d'une personne morale dont il n'est pas le représentant légal, 
+d'une personne morale dont il n'est pas le représentant légal,
 
-adresse une demande écrite, dans le délai mentionné au deuxième alinéa de l'article R. 321-47, au service désigné par le
-préfet de région et mentionné dans l'avis prévu au cinquième alinéa du même article. 
+adresse une demande écrite, dans le délai mentionné au deuxième alinéa de l'article R. 321-47, au centre régional de la
+propriété forestière.
 
-II. ― L'intéressé indique dans cette demande datée et signée : 
+II. – L'intéressé indique dans cette demande datée et signée :
 
-1° Ses nom et prénoms et, le cas échéant, la dénomination de la personne morale ou de l'indivision ; 
+1° Ses nom et prénoms et, le cas échéant, la dénomination de la personne morale ou de l'indivision ;
 
-2° Pour une personne physique, ses date et lieu de naissance ; 
+2° Pour une personne physique, ses date et lieu de naissance ;
 
-3° Pour une personne physique, sa nationalité et, en cas de naturalisation, la référence du décret ayant prononcé celle-ci ; 
+3° Pour une personne physique, sa nationalité et, en cas de naturalisation, la référence du décret ayant prononcé celle-ci ;
 
-4° Son adresse et, le cas échéant, celle de la personne morale ou de l'indivision ; 
+4° Son adresse et, le cas échéant, celle de la personne morale ou de l'indivision ;
 
-5° La qualité en laquelle l'inscription est demandée ; 
+5° La qualité en laquelle l'inscription est demandée ;
 
-6° Les références cadastrales et la surface des parcelles en nature de bois et forêts justifiant l'inscription demandée ; 
+6° Les références cadastrales et la surface des parcelles en nature de bois et forêts justifiant l'inscription demandée ;
 
 7° Pour une personne physique, la ou les communes du département dans laquelle, ou dans lesquelles, il remplit également les
 conditions pour être inscrit comme propriétaire ou mentionné comme représentant d'une ou plusieurs indivisions ou personnes
-morales. 
+morales.
 
-III. ― Cette demande est accompagnée : 
+III. – Cette demande est accompagnée :
 
 1° Pour une personne physique de nationalité française, de la justification qu'elle remplit les conditions prévues pour être
-inscrite sur les listes établies pour les élections au suffrage universel ; 
+inscrite sur les listes établies pour les élections au suffrage universel ;
 
 2° Pour une personne physique qui n'a pas la nationalité française, d'une attestation de sa capacité électorale dans son Etat
 d'origine et de la justification qu'elle remplit les conditions légales autres que la nationalité pour être inscrite sur une
-liste électorale en France ; 
+liste électorale en France ;
 
 3° Pour le représentant d'une personne morale dont il n'est pas le représentant légal, d'une pièce justificative l'habilitant
-à voter en son nom ; 
+à voter en son nom ;
 
 4° Pour le représentant de propriétaires indivis, soit d'un document le désignant comme gérant ou titulaire d'un mandat
 général d'administration de l'indivision, soit de toute autre pièce justifiant de son habilitation à voter au nom de
-l'indivision. 
+l'indivision.
 
-IV. ― A l'exception des réclamations mentionnées au premier alinéa de l'article R. 321-48, qui doivent être faites par lettre
+IV. – A l'exception des réclamations mentionnées au premier alinéa de l'article R. 321-48, qui doivent être faites par lettre
 recommandée, les demandes d'inscription prévues au présent article, ainsi que les autres demandes de modification du projet
 de liste électorale peuvent être faites par message électronique si l'avis mentionné au cinquième alinéa de l'article R.
 321-47 le prévoit.
@@ -38489,7 +38489,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-472 du 14 avril 2016 - art. 2
+  - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 _Anciens textes_:
 
@@ -39159,8 +39159,7 @@ _Cite_:
 ###### Article R321-69
 
 Le vote a lieu par correspondance adressée au préfet de région suivant des modalités fixées par arrêté du ministre chargé des
-forêts. Le panachage n'est pas autorisé. L'élection a lieu à la majorité relative des suffrages exprimés. Dans le cas où
-plusieurs listes obtiennent le même nombre de voix, celle comportant le candidat le plus jeune est proclamée élue. 
+forêts. En cas d'égalité des restes pour l'attribution du dernier siège, le candidat le plus jeune est proclamé élu. 
 
 Procès-verbal du dépouillement est dressé en double exemplaire et signé par le préfet de région ou son représentant et les
 scrutateurs. Le préfet de région proclame les résultats du scrutin et les fait afficher à la préfecture de région et aux
@@ -39175,7 +39174,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-472 du 14 avril 2016 - art. 2
+  - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 
 ###### Article R321-70
@@ -39325,10 +39324,9 @@ _Cite_:
 
 ###### Article R321-76
 
-Pour l'application des dispositions du présent paragraphe, le préfet de région ou les préfets peuvent confier au directeur du
-centre régional de la propriété forestière l'exécution matérielle des tâches incombant à ces préfets ou aux commissions
-prévues par la présente sous-section. Dans ce cas, les agents désignés par le directeur exécutent ces tâches sous l'autorité
-du préfet de région ou du préfet concerné.
+Pour l'application des dispositions du présent paragraphe, le préfet de région peut confier au directeur du centre régional
+de la propriété forestière l'exécution matérielle des tâches correspondantes. Dans ce cas, les agents désignés par le
+directeur exécutent ces tâches sous l'autorité du préfet de région.
 
 **Liens relatifs à cet article**
 
@@ -39336,13 +39334,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R221-40 (Ab)
+  - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 
 ##### Paragraphe 6 : Représentant du personnel au conseil des centres régionaux<a id=487></a>
