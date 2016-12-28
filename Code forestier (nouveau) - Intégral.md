@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-12-16
+Version Consolidée au 2016-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -335,12 +335,12 @@ Version Consolidée au 2016-12-16
           - [Section 4 : Rôle de protection des forêts (art. R163-10 à R163-12)](#332)
           - [Section 5 : Protection des dunes (art. R163-13 à R163-15)](#333)
           - [Section 6 : Commercialisation de matériels forestiers de reproduction (art. R163-16)](#334)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R171-1 à D178-1)](#335)
-        - [Chapitre Ier : Guadeloupe (art. R171-1 à R171-2)](#336)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. D171-1-1 à D178-1)](#335)
+        - [Chapitre Ier : Guadeloupe (art. D171-1-1 à R171-2)](#336)
         - [Chapitre II : Guyane (art. D172-2 à R172-8)](#337)
-        - [Chapitre III : Martinique (art. R173-1 à R173-3)](#338)
-        - [Chapitre IV : La Réunion (art. R174-1 à R174-11)](#339)
-          - [Section 1 : Dispositions générales (art. R174-1 à R174-7)](#340)
+        - [Chapitre III : Martinique (art. D173-1-1 à R173-3)](#338)
+        - [Chapitre IV : La Réunion (art. D174-1-1 à R174-11)](#339)
+          - [Section 1 : Dispositions générales (art. D174-1-1 à R174-7)](#340)
           - [Section 2 : Forêts de protection (art. R174-8 à R174-9)](#341)
           - [Section 3 : Dispositions pénales (art. R174-10 à R174-11)](#342)
         - [Chapitre V : Mayotte (art. D175-1 à D175-9)](#343)
@@ -18751,7 +18751,7 @@ et un représentant de la chambre régionale des métiers et de l'artisanat ;
 
 20° Un représentant des experts forestiers ; 
 
-21° Un représentant des producteurs de plans forestiers ; 
+21° Un représentant des producteurs de plants forestiers ; 
 
 22° Cinq représentants des industries du bois ; 
 
@@ -18794,7 +18794,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-778 du 29 juin 2015 - art. 1
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 2
 
 _Cité par_:
 
@@ -18805,12 +18805,16 @@ _Cité par_:
   - Code forestier (nouveau) - art. D177-3 (V)
   - Code forestier (nouveau) - art. D178-1 (V)
 
+_Cite_:
+
+  - Code forestier (nouveau) - art. L211-1 (V)
+
 
 ###### Article D113-13
 
 Le comité mentionné au deuxième alinéa de l'article L. 113-2 est chargé d'élaborer le programme d'action permettant de
 favoriser l'établissement et le maintien d'un équilibre sylvo-cynégétique, après évaluation des dégâts de gibier réalisée en
-concertation avec les commissions départementales de la chasse et de la faune sauvage mentionnée à l'article R. 421-19 du
+concertation avec les commissions départementales de la chasse et de la faune sauvage mentionnée à l'article R. 421-29 du
 code de l'environnement. Il exerce ses attributions dans le cadre des orientations fixées par la commission régionale de la
 forêt et du bois. Il est également chargé de lui faire toute proposition pour atteindre et maintenir cet équilibre et lui
 rend compte de son évolution. 
@@ -18827,11 +18831,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-778 du 29 juin 2015 - art. 1
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 2
 
 _Cite_:
 
-  - Code de l'environnement - art. R421-19
+  - Code de l'environnement - art. R421-29 (V)
+  - Code forestier (nouveau) - art. L113-2 (V)
 
 
 ###### Article D113-14
@@ -18965,7 +18970,7 @@ naturels ou d'incendie ou la desserte forestière de plusieurs propriétés, l'a
 aux conditions mentionnées au premier alinéa de l'article L. 121-6. 
 
 L'attribution des aides publiques encourage les démarches territoriales et les opérations menées par les propriétaires
-particuliers pour une gestion regroupée de leurs forêts et des produits qui en sont issus. 
+forestiers pour une gestion regroupée de leurs forêts et des produits qui en sont issus. 
 
 Lorsque ces aides publiques sont prévues dans le cadre d'un contrat Natura 2000, seules les propriétés devant être gérées
 conformément à un document d'aménagement arrêté ou à un plan simple de gestion agréé sont soumises à la vérification des
@@ -18974,20 +18979,17 @@ un projet collectif ou d'entraver la réalisation de travaux urgents.
 
 L'attribution des aides publiques tient compte des difficultés particulières de mise en valeur ou de conservation des bois et
 forêts, notamment en montagne et en forêt méditerranéenne, et de l'intérêt économique, environnemental ou social que
-présentent la conservation et la gestion durable des bois et forêts considérés. 
-
-Elle encourage par des dispositifs spécifiques les opérations réalisées avec le concours d'un organisme de gestion et
-d'exploitation forestière en commun.
+présentent la conservation et la gestion durable des bois et forêts considérés.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-666 du 10 juin 2015 - art. 1
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 2
 
-_Anciens textes_:
+_Cite_:
 
-  - Code forestier (nouveau) - art. D121-1 (T)
+  - Code forestier (nouveau) - art. L121-6 (V)
 
 
 #### Chapitre II : Instruments et mise en œuvre  de la politique forestière<a id=253></a>
@@ -26269,6 +26271,24 @@ _Cite_:
 
 #### Chapitre Ier : Guadeloupe<a id=336></a>
 
+###### Article D171-1-1
+
+Pour l'application de l'article D. 113-12, le représentant des maires des communes de la région mentionné au 8° est désigné
+par l'association départementale des maires de Guadeloupe.
+
+L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D113-12 (V)
+
+
 ###### Article R171-1
 
 Pour la mise en œuvre des dispositions de l'article L. 121-4, l'arrêté mentionné à l'article L. 122-1 et approuvant les
@@ -26355,9 +26375,87 @@ _Cite_:
 
 ###### Article D172-3
 
-En Guyane, la commission régionale de la forêt et des produits forestiers comprend, outre les membres prévus à l'article D.
-113-12, des représentants des autorités coutumières des communautés d'habitants mentionnées à l'article L. 172-3, désignés
-par le préfet, ainsi qu'un représentant de l'établissement public gérant le Parc amazonien de Guyane.
+Pour son application à la Guyane, l'article D. 113-12 est ainsi rédigé :
+
+“ Art. D. 113-12.-La commission régionale de la forêt et du bois est présidée conjointement par le préfet de région et le
+président de l'Assemblée de Guyane. Elle comprend :
+
+“ 1° Le directeur régional des services de l'Etat compétents en matière de forêt ;
+
+“ 2° Le directeur régional des services de l'Etat compétents en matière d'environnement ;
+
+“ 3° Le directeur régional des services de l'Etat compétents en matière de construction ;
+
+“ 4° Le directeur régional des services de l'Etat compétents en matière de transport ;
+
+“ 5° Le directeur régional des services de l'Etat compétents en matière d'entreprises, de concurrence, de consommation, du
+travail et de l'emploi ;
+
+“ 6° Deux représentants de l'Assemblée de Guyane ;
+
+“ 7° Un représentant des maires des communes de la collectivité territoriale de Guyane désigné par l'association
+départementale des maires de Guyane ;
+
+“ 8° Des représentants des autorités coutumières des communautés d'habitants mentionnées à l'article L. 172-3, désignés par
+le préfet ;
+
+“ 9° Le cas échéant, un représentant des parcs naturels régionaux situés sur le territoire de la collectivité territoriale de
+Guyane ;
+
+“ 10° Un représentant de l'Office national des forêts ;
+
+“ 11° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+
+“ 12° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
+
+“ 13° Un représentant de la chambre régionale d'agriculture, un représentant de la chambre de commerce et d'industrie de
+région et un représentant de la chambre régionale des métiers et de l'artisanat ;
+
+“ 14° Deux représentants de la propriété forestière des particuliers ;
+
+“ 15° Un représentant de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ;
+
+“ 16° Un représentant des coopératives forestières ;
+
+“ 17° Un représentant des entreprises de travaux forestiers ;
+
+“ 18° Un représentant des experts forestiers ;
+
+“ 19° Un représentant des producteurs de plants forestiers ;
+
+“ 20° Deux représentants des industries du bois ;
+
+“ 21° Le président de la structure interprofessionnelle régionale du secteur de la forêt et du bois ;
+
+“ 22° Un représentant du secteur de la production d'énergie renouvelable ;
+
+“ 23° Un représentant des salariés de la forêt et des professions du bois ;
+
+“ 24° Un représentant d'associations d'usagers de la forêt ;
+
+“ 25° Deux représentants d'associations de protection de l'environnement agréées ;
+
+“ 26° Un représentant de l'établissement public gérant le Parc amazonien de Guyane.
+
+“ 27° Un représentant des gestionnaires d'espaces naturels ;
+
+“ 28° Un représentant des fédérations départementales des chasseurs ;
+
+“ 29° Des personnalités qualifiées, dans la limite de cinq, nommées sur proposition conjointe du préfet de région et du
+président l'Assemblée de Guyane ;
+
+“ Le préfet de région et le président de l'Assemblée de Guyane peuvent inviter des experts désignés en raison de leurs
+compétences notamment en matière scientifique ou environnementale à leur initiative conjointe ou à la demande d'un des
+membres de la commission régionale de la forêt et du bois. Ces experts n'ont pas voix délibérative.
+
+“ L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission.
+
+“ Les règles de fonctionnement de la commission territoriale de la forêt et du bois, notamment les modalités de prise de
+décision sont prévues par son règlement intérieur.
+
+“ Les membres de la commission régionale de la forêt et du bois autres que ceux mentionnés aux 1° à 5° et au 21° sont nommés
+par arrêté du préfet de région après avis du président de l'Assemblée de Guyane. Leur mandat est de cinq ans, renouvelable
+une fois. ”
 
 **Liens relatifs à cet article**
 
@@ -26365,18 +26463,15 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R4-3-1 (Ab)
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
 
 _Cite_:
 
   - Code forestier (nouveau) - art. D113-12 (V)
   - Code forestier (nouveau) - art. L172-3 (V)
+  - Code forestier (nouveau) - art. L211-1 (V)
 
 
 ###### Article D172-4
@@ -26542,6 +26637,96 @@ _Cite_:
 
 #### Chapitre III : Martinique<a id=338></a>
 
+###### Article D173-1-1
+
+Pour son application à la Martinique, l'article D. 113-12 est ainsi rédigé :
+
+“ Art. D. 113-12.-La commission régionale de la forêt et du bois est présidée conjointement par le préfet de région et le
+président du conseil exécutif de Martinique. Elle comprend :
+
+“ 1° Le directeur régional des services de l'Etat compétents en matière de forêt ;
+
+“ 2° Le directeur régional des services de l'Etat compétents en matière d'environnement ;
+
+“ 3° Le directeur régional des services de l'Etat compétents en matière de construction ;
+
+“ 4° Le directeur régional des services de l'Etat compétents en matière de transport ;
+
+“ 5° Le directeur régional des services de l'Etat compétents en matière d'entreprises, de concurrence, de consommation, du
+travail et de l'emploi ;
+
+“ 6° Un représentant de l'Assemblée de Martinique ;
+
+“ 7° Un représentant des maires des communes de la collectivité territoriale de Martinique désigné par l'association
+départementale de Martinique ;
+
+“ 8° Un représentant du parc naturel régional de la Martinique
+
+“ 9° Un représentant de l'Office national des forêts ;
+
+“ 10° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+
+“ 11° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
+
+“ 12° Un représentant de la chambre régionale d'agriculture, un représentant de la chambre de commerce et d'industrie de
+région et un représentant de la chambre régionale des métiers et de l'artisanat ;
+
+“ 13° Deux représentants de la propriété forestière des particuliers ;
+
+“ 14° Un représentant de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ;
+
+“ 15° Un représentant des coopératives forestières ;
+
+“ 16° Un représentant des entreprises de travaux forestiers ;
+
+“ 17° Un représentant des experts forestiers ;
+
+“ 18° Un représentant des producteurs de plants forestiers ;
+
+“ 19° Trois représentants des industries du bois ;
+
+“ 20° Le président de la structure interprofessionnelle régionale du secteur de la forêt et du bois ;
+
+“ 21° Un représentant du secteur de la production d'énergie renouvelable ;
+
+“ 22° Deux représentants des salariés de la forêt et des professions du bois ;
+
+“ 23° Un représentant d'associations d'usagers de la forêt ;
+
+“ 24° Deux représentants d'associations de protection de l'environnement agréées ;
+
+“ 25° Un représentant des gestionnaires d'espaces naturels ;
+
+“ 26° Un représentant des fédérations départementales des chasseurs ;
+
+“ 27° Des personnalités qualifiées, dans la limite de cinq, nommées sur proposition conjointe du préfet de région et du
+président du conseil exécutif de Martinique.
+
+“ Le préfet de région et le président du conseil exécutif de Martinique peuvent inviter des experts désignés en raison de
+leurs compétences notamment en matière scientifique ou environnementale à leur initiative conjointe ou à la demande d'un des
+membres de la commission régionale de la forêt et du bois. Ces experts n'ont pas voix délibérative.
+
+“ L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission.
+
+“ Les règles de fonctionnement de la commission régionale de la forêt et du bois, notamment les modalités de prise de
+décision sont prévues par son règlement intérieur.
+
+“ Les membres de la commission régionale de la forêt et du bois autres que ceux mentionnés aux 1° à 5° et au 20° sont nommés
+par arrêté du préfet de région après avis du président du conseil exécutif de Martinique. Leur mandat est de cinq ans,
+renouvelable une fois. ”
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D113-12 (V)
+  - Code forestier (nouveau) - art. L211-1 (V)
+
+
 ###### Article R173-1
 
 Pour l'application en Martinique de la partie réglementaire du présent code, les références au " conseil général " et au "
@@ -26621,6 +26806,95 @@ _Cite_:
 #### Chapitre IV : La Réunion<a id=339></a>
 
 ##### Section 1 : Dispositions générales<a id=340></a>
+
+###### Article D174-1-1
+
+Pour son application à La Réunion, l'article D. 113-12 est ainsi rédigé :
+
+“ Art. D. 113-12.-La commission régionale de la forêt et du bois de La Réunion est présidée conjointement par le préfet de
+région et le président du conseil régional. Elle comprend :
+
+“ 1° Le directeur régional des services de l'Etat compétents en matière de forêt ;
+
+“ 2° Le directeur régional des services de l'Etat compétents en matière d'environnement ;
+
+“ 3° Le directeur régional des services de l'Etat compétents en matière de construction ;
+
+“ 4° Le directeur régional des services de l'Etat compétents en matière de transport ;
+
+“ 5° Le directeur régional des services de l'Etat compétents en matière d'entreprises, de concurrence, de consommation, du
+travail et de l'emploi ;
+
+“ 6° Un représentant du conseil régional ;
+
+“ 7° Un représentant du conseil départemental de la région ;
+
+“ 8° Un représentant des maires des communes de la région désigné par l'association départementale des maires de La Réunion ;
+
+“ 9° Un représentant de l'Office national des forêts ;
+
+“ 10° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+
+“ 11° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
+
+“ 12° Un représentant de la chambre régionale d'agriculture, un représentant de la chambre de commerce et d'industrie de
+région et un représentant de la chambre régionale des métiers et de l'artisanat ;
+
+“ 13° Deux représentants de la propriété forestière des particuliers ;
+
+“ 14° Un représentant de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ;
+
+“ 15° Un représentant des coopératives forestières ;
+
+“ 16° Un représentant des entreprises de travaux forestiers ;
+
+“ 17° Un représentant des experts forestiers ;
+
+“ 18° Un représentant des producteurs de plants forestiers ;
+
+“ 19° Trois représentants des industries du bois ;
+
+“ 20° Le président d'une structure professionnelle régionale représentative du secteur de la forêt et du bois ;
+
+“ 21° Un représentant du secteur de la production d'énergie renouvelable ;
+
+“ 22° Un représentants des salariés de la forêt et des professions du bois ;
+
+“ 23° Un représentant d'associations d'usagers de la forêt ;
+
+“ 24° Deux représentants d'associations de protection de l'environnement agréées ;
+
+“ 25° Un représentant des gestionnaires d'espaces naturels ;
+
+“ 26° Un représentant des fédérations départementales des chasseurs ;
+
+“ 27° Des personnalités qualifiées, dans la limite de cinq, nommées sur proposition conjointe du préfet de région et du
+président du conseil régional.
+
+“ Le préfet de région et le président du conseil régional peuvent inviter des experts désignés en raison de leurs compétences
+notamment en matière scientifique ou environnementale à leur initiative conjointe ou à la demande d'un des membres de la
+commission régionale de la forêt et du bois. Ces experts n'ont pas voix délibérative.
+
+“ L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission.
+
+“ Les règles de fonctionnement de la commission régionale de la forêt et du bois, notamment les modalités de prise de
+décision sont prévues par son règlement intérieur.
+
+“ Les membres de la commission régionale de la forêt et du bois autres que ceux mentionnés aux 1° à 5° et au 20° sont nommés
+par arrêté du préfet de région après avis du président du conseil régional. Leur mandat est de cinq ans, renouvelable une
+fois. ”
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D113-12 (V)
+  - Code forestier (nouveau) - art. L211-1 (V)
+
 
 ###### Article R174-1
 
@@ -27114,40 +27388,53 @@ _Cite_:
 
 ###### Article D175-4
 
-La commission de la forêt et des produits forestiers du Département de Mayotte est présidée par le préfet et comprend : 
+La commission départementale de la forêt et du bois du Département de Mayotte est présidée conjointement par le préfet de
+Mayotte et le président du conseil départemental. Elle comprend :
 
-1° Le directeur de l'alimentation, de l'agriculture et de la forêt ; 
+1° Le directeur de l'alimentation, de l'agriculture et de la forêt ;
 
-2° Le directeur de l'environnement, de l'aménagement et du logement ; 
+2° Le directeur de l'environnement, de l'aménagement et du logement ;
 
-3° Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ; 
+3° Le directeur des entreprises, de la concurrence, de la consommation, du travail et de l'emploi ;
 
-4° Des représentants du conseil général et de l'association des maires de Mayotte ; 
+4° Un représentant du conseil départemental ;
 
-5° Des représentants de la propriété forestière des particuliers ; 
+5° Un représentant des maires des communes du département de Mayotte désigné par l'association départementale des maires de
+Mayotte ;
 
-6° Des représentants de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ; 
+6° Un représentant de la propriété forestière des particuliers ;
 
-7° Des représentants de l'Office national des forêts ; 
+7° Un représentant de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ;
 
-8° Des représentants de l'industrie du bois ; 
+8° Un représentant de l'Office national des forêts ;
 
-9° Des représentants des prestataires de services dans le secteur de la forêt et du bois ; 
+9° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
 
-10° Des représentants des structures interprofessionnelles dans le secteur de la forêt et du bois ; 
+10° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
-11° Des représentants d'associations d'usagers de la forêt, de protection de l'environnement et de gestionnaires d'espaces
-naturels ; 
+11° Cinq représentants des activités économiques privées dans le secteur de la forêt et du bois ;
 
-12° Des représentants de la chambre d'agriculture, de la pêche et de l'aquaculture, de la chambre de commerce et d'industrie
-et de la chambre des métiers ; 
+12° Trois représentants d'associations d'usagers de la forêt, de protection de l'environnement et de gestionnaires d'espaces
+naturels ;
 
-13° Des personnalités qualifiées. 
+13° Un représentant de la chambre d'agriculture de la pêche et de l'aquaculture, un représentant de la chambre de commerce et
+d'industrie et un représentant de la chambre des métiers et de l'artisanat ;
 
-Le nombre de membres de la commission nommés au titre du 5°, du 6° et du 7° est fonction des surfaces respectives de chacun
-des régimes de propriété forestière dans la région. 
+14° Des personnalités qualifiées, dans la limite de cinq, nommées sur proposition conjointe du préfet de Mayotte et du
+président du conseil départemental de Mayotte.
 
-Le préfet désigne les membres des catégories mentionnées aux 5° à 11° et constate par arrêté la composition de la commission.
+Le préfet de Mayotte et le président du conseil départemental de Mayotte peuvent inviter des experts désignés en raison de
+leurs compétences notamment en matière scientifique ou environnementale à leur initiative conjointe ou à la demande d'un des
+membres de la commission départementale de la forêt et du bois. Ces experts n'ont pas voix délibérative.
+
+L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission.
+
+Les règles de fonctionnement de la commission départementale de la forêt et du bois, notamment les modalités de prise de
+décision sont prévues par son règlement intérieur.
+
+Les membres de la commission départementale de la forêt et du bois autres que ceux mentionnés aux 1° à 3° sont nommés par
+arrêté du préfet de Mayotte après avis du président du conseil départemental de Mayotte. Leur mandat est de cinq ans,
+renouvelable une fois.
 
 **Liens relatifs à cet article**
 
@@ -27155,13 +27442,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier de Mayotte - art. R022 (Ab)
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
 
 _Cite_:
 
@@ -27360,8 +27643,8 @@ _Cite_:
 
 Pour son application à Saint-Martin, l'article D. 113-12 est ainsi rédigé : 
 
-" Art. D. 113-12.-La commission territoriale de la forêt et des produits forestiers est présidée par le représentant de
-l'Etat à Saint-Martin et comprend : 
+" Art. D. 113-12.-La commission territoriale de la forêt et du bois est présidée conjointement par le préfet délégué et le
+président du conseil territorial. Elle comprend : 
 
 " 1° Le directeur des services de l'Etat compétents en matière de forêts ; 
 
@@ -27399,13 +27682,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. D113-12 (V)
 
 
 ###### Article R177-1
@@ -27471,39 +27754,37 @@ _Cite_:
 
 ###### Article D178-1
 
-Pour son application à Saint-Pierre-et-Miquelon, l'article D. 113-12 est ainsi rédigé : 
+Pour son application à Saint-Pierre-et-Miquelon, l'article D. 113-12 est ainsi rédigé :
 
-" Art. D. 113-12.-La commission territoriale de la forêt et des produits forestiers est présidée par le représentant de
-l'Etat à Saint-Pierre-et-Miquelon et comprend : 
+“ Art. D. 113-12. - La commission territoriale de la forêt et du bois est présidée par le préfet de Saint-Pierre-et-Miquelon
+et le président du conseil territorial. Elle comprend :
 
-" 1° Le directeur des territoires, de l'alimentation et de la mer ; 
+“ 1° Le directeur des territoires, de l'alimentation et de la mer ;
 
-" 2° Le directeur la cohésion sociale, du travail, de l'emploi et de la formation ; 
+“ 2° Le directeur la cohésion sociale, du travail, de l'emploi et de la formation ;
 
-" 3° Des représentants du conseil territorial ; 
+“ 3° Un représentant du conseil territorial ;
 
-" 4° Des représentants du conseil municipal de Saint-Pierre et de celui de Miquelon ; 
+“ 4° Un représentant du conseil municipal de Saint-Pierre et un représentant de celui de Miquelon ;
 
-" 5° Des représentants de la propriété forestière des particuliers ; 
+“ 5° Un représentant de la propriété forestière des particuliers ;
 
-" 6° Des représentants de la propriété forestière des bois et forêts relevant du 2° du I de l'article L. 211-1 ; 
+“ 6° Un représentant de l'Office national des forêts ;
 
-" 7° Des représentants de l'Office national des forêts ; 
+“ 7° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
 
-" 8° Des représentants des structures interprofessionnelles, de l'industrie et des prestataires de services dans le secteur
-de la forêt et du bois ; 
+“ 8° Un représentant des structures interprofessionnelles, de l'industrie et des prestataires de services dans le secteur de
+la forêt et du bois ;
 
-" 9° Des représentants d'associations d'usagers de la forêt, de protection de l'environnement et de gestionnaires d'espaces
-naturels ; 
+“ 9° Trois représentants d'associations d'usagers de la forêt, de protection de l'environnement et de gestionnaires d'espaces
+naturels ;
 
-" 10° Des représentants de la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat ; 
+“ 10° Un représentant de la chambre d'agriculture, de commerce, d'industrie, de métiers et de l'artisanat ;
 
-" 11° Des personnalités qualifiées. 
+“ 11° Des personnalités qualifiées, dans la limite de cinq, nommées sur proposition conjointe du représentant de l'Etat à
+Saint-Pierre-et-Miquelon et du président du conseil territorial.
 
-" Le nombre de membres de la commission nommés au titre du 5°, du 6° et du 7° est fonction des surfaces respectives de chacun
-des régimes de propriété forestière dans la collectivité. 
-
-" L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission. "
+“ L'absence de représentants d'une catégorie ne fait pas obstacle à la constitution de la commission. ”
 
 **Liens relatifs à cet article**
 
@@ -27511,13 +27792,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. D113-12 (V)
 
 
 ## LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER<a id=352></a>
