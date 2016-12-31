@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2016-12-30
+Version Consolidée au 2017-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -16952,8 +16952,8 @@ forestiers et sociétés d'épargne forestière établis en France, dans un autr
 Etat ou un territoire ayant conclu avec la France une convention d'assistance administrative en vue de lutter contre la
 fraude et l'évasion fiscales, qui remplissent les conditions suivantes : 
 
-1° Etre propriétaire de bois et forêts et s'engager à y appliquer l'une des garanties de gestion durable mentionnées à
-l'article L. 124-1 ; 
+1° Etre propriétaire de bois et forêts et s'engager à y appliquer l'une des garanties de gestion durable mentionnées aux
+articles L. 124-1 et L. 124-3 ; 
 
 2° Avoir souscrit, pour tout ou partie de la surface forestière détenue, une assurance, couvrant notamment le risque de
 tempête. 
@@ -16970,7 +16970,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 38
 
 _Cité par_:
 
@@ -16992,23 +16992,23 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L124-1
+  - Code forestier (nouveau) - art. L124-1 (V)
+  - Code forestier (nouveau) - art. L124-3 (VT)
 
 
 ###### Article L352-2
 
-Le  montant des dépôts autorisés sur un compte d'investissement forestier  et d'assurance est égal à 2 500 € par hectare de
-forêt assuré  conformément au 2° de l'article L. 352-1. 
+Le montant des dépôts autorisés sur un compte d'investissement forestier et d'assurance est égal à 2 500 € par hectare de
+forêt assuré conformément au 2° de l'article L. 352-1. 
 
-Le  compte ne peut être alimenté que par des produits de coupe issus de  l'exploitation des parcelles en nature de bois et
-forêts dont le  titulaire du compte est propriétaire. Le titulaire du compte doit  démontrer, lors de chaque dépôt, que les
-sommes qu'il dépose proviennent  uniquement des parcelles en nature de bois et forêts dont il est  propriétaire. 
+Le compte ne peut être alimenté que par des produits de coupe issus de l'exploitation des parcelles en nature de bois et
+forêts dont le titulaire du compte est propriétaire. 
 
-La condition prévue au deuxième  alinéa ne s'applique pas lors du premier dépôt effectué à la suite de  l'ouverture du
-compte, dans la limite de 2 000 €. 
+La condition prévue au deuxième alinéa ne s'applique pas lors du premier dépôt effectué à la suite de l'ouverture du compte,
+dans la limite de 2 000 €. 
 
-Le titulaire du compte justifie chaque année auprès du teneur du compte  du nombre d'hectares de surface forestière pour
-lesquels la condition  prévue au 2° de l'article L. 352-1 est remplie.
+Le titulaire du compte fournit à l'ouverture du compte les pièces qui attestent que les conditions prévues aux 1° et 2° de
+l'article L. 352-1 sont satisfaites.
 
 **Liens relatifs à cet article**
 
@@ -17018,7 +17018,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 38
 
 _Anciens textes_:
 
@@ -17034,12 +17034,13 @@ _Cité par_:
 
 ###### Article L352-3
 
-Les  sommes déposées sur le compte d'investissement forestier et d'assurance  sont employées pour financer les travaux de
-reconstitution forestière à  la suite de la survenance d'un sinistre naturel d'origine sanitaire,  climatologique,
-météorologique ou lié à l'incendie, ou les travaux de  prévention d'un tel sinistre. 
+Les sommes déposées sur le compte d'investissement forestier et d'assurance sont employées pour financer les travaux de
+reconstitution forestière à la suite de la survenance d'un sinistre naturel d'origine sanitaire, climatologique,
+météorologique ou lié à l'incendie, ou les travaux de prévention d'un tel sinistre. 
 
-Elles peuvent  également être utilisées au titre d'une année, dans la limite de 30 %  des sommes déposées sur le compte, pour
-procéder à des travaux  forestiers de nature différente de ceux mentionnés au premier alinéa.
+Elles peuvent également être utilisées au titre d'une année, dans la limite de 30 % des sommes déposées sur le compte pour le
+financement d'un document de gestion durable prévu au 2° de l'article L. 122-3 ou, pour procéder à des travaux forestiers de
+nature différente de ceux mentionnés au premier alinéa.
 
 **Liens relatifs à cet article**
 
@@ -17049,7 +17050,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
+  - Loi n°2016-1918 du 29 décembre 2016 - art. 38
 
 _Cité par_:
 
@@ -17065,29 +17066,9 @@ _Anciens textes_:
 
   - Code forestier - art. L261-1 (VT), al 6.
 
+_Cite_:
 
-###### Article L352-4
-
-L'emploi  des sommes, dans les conditions prévues à l'article L. 352-3, est opéré  par le teneur du compte, après
-vérification des justificatifs présentés  par le titulaire du compte.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Modifié par_:
-
-  - Loi n°2013-1279 du 29 décembre 2013 - art. 32
-
-_Abrogé par_:
-
-  - Loi n°2016-1918 du 29 décembre 2016 - art. 38
-
-_Cité par_:
-
-  - Code monétaire et financier - art. D221-123 (M)
+  - Code forestier (nouveau) - art. L122-3 (VD)
 
 
 ###### Article L352-5
