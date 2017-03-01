@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-03-01
+Version Consolidée au 2017-03-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -12707,6 +12707,10 @@ Ne sont pas applicables en Guyane les dispositions suivantes du présent livre :
 
 1° La section 7 du chapitre III et la section 5 du chapitre IV du titre Ier ; 
 
+1° bis Le 2° de l'article L. 223-1, s'agissant de la cession de foncier forestier par l'Etat à la collectivité territoriale
+de Guyane pour une période de trois ans à compter de la publication de la loi n° 2017-256 du 28 février 2017 de programmation
+relative à l'égalité réelle outre-mer et portant autres dispositions en matière sociale et économique ; 
+
 2° L'article L. 223-4 ; 
 
 3° Le titre IV, à l'exception des articles L. 241-1, L. 242-3 et L. 241-4.
@@ -12717,20 +12721,18 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. L172-1 (VT)
-
 _Cite_:
 
-  - Code forestier (nouveau) - art. L223-4 (V)
-  - Code forestier (nouveau) - art. L241-1 (V)
-  - Code forestier (nouveau) - art. L241-4 (V)
-  - Code forestier (nouveau) - art. L242-3 (V)
+  - Loi n°2017-256 du 28 février 2017 (V)
+  - Code forestier (nouveau) - art. L223-1 (V)
+  - Code forestier (nouveau) - art. L223-4
+  - Code forestier (nouveau) - art. L241-1
+  - Code forestier (nouveau) - art. L241-4
+  - Code forestier (nouveau) - art. L242-3
+
+_Modifié par_:
+
+  - Loi n°2017-256 du 28 février 2017 - art. 120
 
 
 ###### Article L272-2
