@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-04-28
+Version Consolidée au 2017-09-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -289,7 +289,7 @@ Version Consolidée au 2017-04-28
           - [Section 1 : Classement des massifs (art. R141-1 à R141-11)](#286)
           - [Section 2 : Régime spécial des forêts de protection (art. R141-12 à R141-38)](#287)
             - [Sous-section 1 : Dispositions applicables à toutes les forêts de protection (art. R141-12 à R141-18)](#288)
-            - [Sous-section 2 : Dispositions applicables aux forêts de protection  ne relevant pas du régime forestier (art. R141-19 à R141-29)](#289)
+            - [Sous-section 2 : Dispositions applicables aux forêts de protection  ne relevant pas du régime forestier (art. R141-19 à R141-29-1)](#289)
             - [Sous-section 3 : Dispositions relatives aux travaux de recherche et aux captages d'eau  destinée à la consommation humaine dans les forêts de protection (art. R141-30 à R141-38)](#290)
               - [Paragraphe 1 : Dispositions communes (art. R141-30 à R141-32)](#291)
               - [Paragraphe 2 : Travaux nécessaires à la recherche  de la ressource en eau dans les forêts de protection (art. R141-33)](#292)
@@ -387,7 +387,7 @@ Version Consolidée au 2017-04-28
           - [Section 3 : Aménagements (art. D214-15 à R214-20)](#384)
           - [Section 4 : Ventes des coupes et produits des coupes (art. D214-22 à R214-27)](#385)
           - [Section 5 : Pâturage, produits accessoires et droits de jouissance collectifs (art. R214-28 à R214-29)](#386)
-          - [Section 6 : Défrichement (art. R214-30 à R214-31)](#387)
+          - [Section 6 : Défrichement (art. R*214-30-1 à R214-31)](#387)
         - [Chapitre V : Bois et forêts indivis relevant du régime forestier (art. R215-1 à R215-3)](#388)
       - [TITRE II : OFFICE NATIONAL DES FORÊTS (art. D221-1 à D224-1)](#389)
         - [Chapitre Ier : Missions (art. D221-1 à D221-6)](#390)
@@ -445,7 +445,7 @@ Version Consolidée au 2017-04-28
           - [Section 2 : Dispositions pénales (art. R274-5)](#442)
         - [Chapitre V : Mayotte (art. R275-1 à R275-15)](#443)
           - [Section 1 : Régime forestier (art. R275-1 à R275-2)](#444)
-          - [Section 2 : Ventes de coupes et produits de coupes (art. R275-3 à R275-5)](#445)
+          - [Section 2 : Ventes de coupes et produits de coupes (art. R275-3 à R275-5-1)](#445)
           - [Section 3 : Réglementation des scieries (art. R275-6 à R275-7)](#446)
           - [Section 4 : Dispositions pénales (art. R275-8 à R275-15)](#447)
         - [Chapitre VI : Saint-Barthélemy (art. R276-1)](#448)
@@ -456,7 +456,7 @@ Version Consolidée au 2017-04-28
           - [Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté (art. R312-1 à R312-10)](#453)
             - [Sous-section 1 : Critères d'application (art. R312-1 à R312-3)](#454)
             - [Sous-section 2 : Contenu (art. R312-4 à R312-5)](#455)
-            - [Sous-section 3 : Modalités d'agrément (art. R312-6 à R312-10)](#456)
+            - [Sous-section 3 : Modalités d'agrément (art. R*312-7-1 à R312-10)](#456)
           - [Section 2 : Droits et obligations  résultant des plans simples de gestion (art. R312-11 à R312-18)](#457)
           - [Section 3 : Régime d'autorisation administrative (art. R312-19 à R312-21-1)](#458)
           - [Section 4 : Coupes illicites et coupes abusives (art. D312-22)](#459)
@@ -465,7 +465,7 @@ Version Consolidée au 2017-04-28
           - [Section 2 : Codes des bonnes pratiques sylvicoles (art. D313-8 à D313-11)](#462)
         - [Chapitre IV : Droits d'usage (art. D314-2 à R314-1)](#463)
         - [Chapitre V : Modalités contractuelles de gestion (art. D314-3 à R315-8)](#464)
-          - [Section 1 : Gestionnaires forestiers professionnels (art. D314-3 à D314-8)](#465)
+          - [Section 1 : Gestionnaires forestiers professionnels (art. D314-3 à R314-6-1)](#465)
           - [Section 2 : Gestion contractuelle par l'Office national des forêts (art. D315-1 à R315-8)](#466)
       - [TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE  EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS (art. R321-1 à R321-85)](#467)
         - [Chapitre Ier : Centre national de la propriété forestière (art. R321-1 à R321-85)](#468)
@@ -518,8 +518,8 @@ Version Consolidée au 2017-04-28
         - [Chapitre II : Guyane (art. R372-1 à R372-2)](#515)
         - [Chapitre III : Martinique (art. R373-1)](#516)
         - [Chapitre IV : La Réunion (art. R374-1 à R374-10)](#517)
-          - [Section 1 : Défrichement (art. R374-1 à R374-3)](#518)
-          - [Section 2 : Végétations spécifiques à La Réunion (art. R374-4 à R374-10)](#519)
+          - [Section 1 : Défrichement (art. R374-1 à R374-3-1)](#518)
+          - [Section 2 : Végétations spécifiques à La Réunion (art. R*374-6-1 à R374-10)](#519)
         - [Chapitre V : Mayotte (art. R375-1 à R375-2)](#520)
         - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. R378-1)](#521)
     - [Annexes (art. Annexe I à Annexe II)](#522)
@@ -22241,6 +22241,22 @@ _Anciens textes_:
   - Code forestier - art. R412-12 (Ab)
 
 
+###### Article R141-29-1
+
+Le silence gardé par le préfet sur une demande d'autorisation d'établissement de droits d'usage dans une forêt de protection
+ne relevant pas du régime forestier, mentionnée à l'article R. 141-29, vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R141-29 (V)
+
+
 ##### Sous-section 3 : Dispositions relatives aux travaux de recherche et aux captages d'eau  destinée à la consommation humaine dans les forêts de protection<a id=290></a>
 
 ##### Paragraphe 1 : Dispositions communes<a id=291></a>
@@ -23757,8 +23773,8 @@ _Anciens textes_:
 
 ###### Article R143-7
 
-La demande d'autorisation de fouilles est réputée rejetée à défaut de décision du préfet notifiée dans le délai de quatre
-mois à compter de la réception du dossier complet.
+Le silence gardé par le préfet du Pas-de-Calais pendant un délai de quatre mois sur une demande d'autorisation de fouilles,
+mentionnée à l'article R. 143-5, vaut décision d'acceptation.
 
 **Liens relatifs à cet article**
 
@@ -23766,13 +23782,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
 
-_Anciens textes_:
+_Cite_:
 
-  - Code forestier - art. R432-3 (Ab)
+  - Code forestier (nouveau) - art. R143-5
 
 
 ###### Article R143-8
@@ -30634,6 +30650,23 @@ _Cite_:
 
 ##### Section 6 : Défrichement<a id=387></a>
 
+###### Article R*214-30-1
+
+Sous réserve des dispositions de l'article R. 214-31, le silence gardé par le préfet sur une demande d'autorisation de
+défrichement, mentionnée à l'article R. 214-30, vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R214-30 (V)
+  - Code forestier (nouveau) - art. R214-31
+
+
 ###### Article R214-30
 
 Lorsque la demande est présentée sur le fondement de l'article L. 214-13 et dans les formes mentionnées aux articles R. 341-1
@@ -30641,9 +30674,6 @@ et R. 341-4, l'autorisation est accordée par le préfet et, si cette demande po
 forestier, après avis de l'Office national des forêts. Elle ne prend effet qu'après l'intervention, lorsqu'elle est
 nécessaire du fait des conséquences définitives du défrichement, d'une décision mettant fin à l'application du régime
 forestier aux terrains en cause.
-
-Sous réserve des dispositions de l'article R. 214-31, la demande d'autorisation est réputée rejetée à défaut de décision du
-préfet dans le délai de deux mois à compter de la réception du dossier complet.
 
 **Liens relatifs à cet article**
 
@@ -30655,16 +30685,17 @@ _Cité par_:
 
   - Décret n°2014-450 du 2 mai 2014 - art. 37 (VT)
   - Décret n°2014-1296 du 23 octobre 2014 - art. (V)
+  - Code forestier (nouveau) - art. R*214-30-1 (V)
+  - Code forestier (nouveau) - art. R214-31 (V)
   - Code forestier (nouveau) - art. R341-3 (V)
 
 _Modifié par_:
 
-  - Décret n°2015-656 du 10 juin 2015 - art. 2
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
 
 _Cite_:
 
   - Code forestier (nouveau) - art. L214-13
-  - Code forestier (nouveau) - art. R214-31
   - Code forestier (nouveau) - art. R341-1
 
 
@@ -35177,6 +35208,23 @@ _Cite_:
   - Code forestier (nouveau) - art. L275-13 (V)
 
 
+###### Article R275-5-1
+
+Le silence gardé par le préfet de Mayotte sur une demande d'autorisation de réaliser, au sein ou dans l'entourage de bois et
+forêts relevant du régime forestier, certains établissements ou constructions, mentionnée à l'article R. 275-5, vaut décision
+de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R275-5 (V)
+
+
 ##### Section 3 : Réglementation des scieries<a id=446></a>
 
 ###### Article R275-6
@@ -35749,6 +35797,27 @@ _Cite_:
 
 ##### Sous-section 3 : Modalités d'agrément<a id=456></a>
 
+###### Article R*312-7-1
+
+Sous réserve des dispositions de l'article R. 312-10, le silence gardé par le centre régional de la propriété forestière sur
+une demande d'agrément d'un plan simple de gestion, mentionnée à l'article R. 312-7, vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R312-10
+  - Code forestier (nouveau) - art. R312-7
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. R312-7-2 (V)
+
+
 ###### Article R312-6
 
 Tout propriétaire de bois et forêts remplissant les conditions fixées à l'article L. 312-1 présente un plan simple de gestion
@@ -35823,10 +35892,22 @@ _Modifié par_:
   - Décret n°2016-472 du 14 avril 2016 - art. 1
 
 
-###### Article R312-8
+###### Article R312-7-2
 
-Le centre régional de la propriété forestière notifie sa décision sur le plan simple de gestion au propriétaire dans le délai
-de six mois à compter du jour de la réception de celui-ci ; à défaut de réponse dans ce délai, le plan est réputé rejeté.
+La décision mentionnée à l'article R. * 312-7-1 naît au terme d'un délai de six mois.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R*312-7-1 (V)
+
+
+###### Article R312-8
 
 Si l'agrément est refusé, le centre notifie sa décision et les motifs du refus au propriétaire par tout moyen permettant
 d'établir date certaine.
@@ -35841,13 +35922,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
-_Anciens textes_:
-
-  - Code forestier - art. R222-9 (Ab)
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
 
 _Cité par_:
 
@@ -36857,18 +36934,17 @@ La demande d'attestation mentionnée à l'article D. 314-3 et D. 314-4 est adres
 laquelle est situé le lieu principal d'exercice de l'activité du demandeur ou le siège social de l'entreprise dans laquelle
 il travaille.
 
-Dans un délai de deux mois suivant la réception d'un dossier complet, attestée par récépissé, le préfet de région délivre,
-après avis du Centre national de la propriété forestière, une attestation reconnaissant au demandeur la qualité de
-gestionnaire forestier professionnel.
+Après réception d'un dossier complet, attestée par récépissé, le préfet de région délivre, après avis du Centre national de
+la propriété forestière, une attestation reconnaissant au demandeur la qualité de gestionnaire forestier professionnel.
 
 Cette attestation, nominative, est délivrée pour une durée de cinq ans. Un arrêté du ministre chargé des forêts fixe le
 contenu du dossier de demande d'attestation.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-1042 du 11 septembre 2012 - art. 1
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
 
 _Cite_:
 
@@ -36924,6 +37000,23 @@ _Cité par_:
 _Cite_:
 
   - Code forestier (nouveau) - art. L332-6
+
+
+###### Article R314-6-1
+
+Le silence gardé par le préfet pendant un délai de quatre mois sur une demande d'attestation reconnaissant la qualité de
+gestionnaire forestier professionnel, mentionnée aux articles D. 314-3 et D. 314-4, vaut décision d'acceptation.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D314-3
+  - Code forestier (nouveau) - art. D314-4
 
 
 ##### Section 2 : Gestion contractuelle par l'Office national des forêts<a id=466></a>
@@ -41680,7 +41773,35 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-4 (V)
 
 
+###### Article R374-3-1
+
+Le silence gardé par le préfet de La Réunion sur une demande de dérogation à l'interdiction générale de défrichement,
+mentionnée à l'article R. 374-3, vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R374-3 (V)
+
+
 ##### Section 2 : Végétations spécifiques à La Réunion<a id=519></a>
+
+###### Article R*374-6-1
+
+Le silence gardé par l'Office national des forêts sur une demande de laissez-passer pour le transport, la mise en vente et
+l'enlèvement de choux-palmistes, mentionnée à l'article R. 374-6, vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
 
 ###### Article R374-4
 
@@ -41727,6 +41848,22 @@ _Cite_:
 
   - Code forestier (nouveau) - art. L174-3 (V)
   - Code forestier (nouveau) - art. L374-8 (V)
+
+
+###### Article R374-4-1
+
+Le silence gardé par le préfet de La Réunion sur une demande d'autorisation d'exploiter des parcelles portant des végétations
+spécifiques, mentionnée à l'article R. 374-4, vaut décision de rejet.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2017-1411 du 27 septembre 2017 - art. 1
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. R374-4 (V)
 
 
 ###### Article R374-5
