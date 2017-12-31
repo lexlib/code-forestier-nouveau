@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2017-09-29
+Version Consolidée au 2018-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -18845,7 +18845,8 @@ _Cite_:
 En Corse, la commission régionale de la forêt et du bois est présidée conjointement par le préfet de Corse et le président du
 conseil exécutif ou leurs représentants, qui nomment les membres.
 
-Les représentants de la région sont ceux de la collectivité de Corse désignés par l'assemblée de Corse.
+Les représentants du conseil régional et des conseils départementaux sont remplacés par un conseiller exécutif désigné par le
+président du conseil exécutif de Corse et un conseiller à l'Assemblée de Corse désigné par celle-ci.
 
 **Liens relatifs à cet article**
 
@@ -18855,7 +18856,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-512 du 7 avril 2017 - art. 1
+  - Décret n°2017-1822 du 28 décembre 2017 - art. 2
 
 
 ###### Article R113-16
@@ -22891,7 +22892,7 @@ Le dossier est ensuite transmis à une commission spéciale composée :
 1° Du préfet ou de son représentant, président, avec voix prépondérante ;
 
 2° D'un membre du conseil départemental délégué par cette assemblée et ne représentant pas le canton où se trouvent les
-terrains en cause ;
+terrains en cause ou, en Corse, un conseiller à l'Assemblée de Corse désigné par celle-ci ;
 
 3° De deux délégués de chaque commune intéressée, désignés par le conseil municipal, en dehors des propriétaires de terrains
 compris dans le périmètre ;
@@ -22906,7 +22907,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2013-938 du 18 octobre 2013 - art. 1 (VD)
+  - Décret n°2017-1822 du 28 décembre 2017 - art. 2
 
 _Cité par_:
 
