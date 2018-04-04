@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-01-01
+Version Consolidée au 2018-04-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -26887,6 +26887,29 @@ _Cite_:
 
   - Code forestier (nouveau) - art. D113-12 (V)
   - Code forestier (nouveau) - art. L211-1 (V)
+
+
+###### Article D174-4-1
+
+Pour l'application à la Guyane du deuxième alinéa de l'article D. 122-1, le programme régional comporte, en annexe, pour les
+bois et forêts mentionnés au premier alinéa de l'article L. 272-2, outre les orientations de gestion relatives aux
+itinéraires sylvicoles, un schéma pluriannuel de desserte forestière préparé par l'Office national des forêts. 
+
+Ce schéma décrit et planifie, pour chaque massif exploité, les évolutions du réseau de voies destinées aux engins
+d'exploitation forestière et d'entretien des parcelles forestières accessibles aux ensembles routiers de transport de bois.
+Il contient des cartes au 1/100.000 réalisées sur la base des données disponibles et présentant les zones prévisionnelles
+d'emprise des pistes à créer.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-239 du 3 avril 2018 - art. 2
+
+_Cite_:
+
+  - Code forestier (nouveau) - art. D122-1
+  - Code forestier (nouveau) - art. L272-2
 
 
 ###### Article R174-1
