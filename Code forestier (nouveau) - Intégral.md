@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-04-09
+Version Consolidée au 2018-07-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -41564,7 +41564,7 @@ _Cite_:
 
 La validité des autorisations de défrichement est de cinq ans.
 
-Ce délai est prorogé, dans une limite globale de trois ans :
+Ce délai est prorogé, dans une limite globale de cinq ans :
 
 a) En cas de recours devant la juridiction administrative contre l'autorisation de défrichement ou contre une autorisation
 nécessaire à la réalisation des travaux en vue desquels le défrichement est envisagé, d'une durée égale à celle écoulée entre
@@ -41575,11 +41575,16 @@ b) Sur décision de l'autorité administrative qui les a autorisés, en cas d'im
 défrichement, établie par tous moyens par le bénéficiaire de l'autorisation, de la durée de la période pendant laquelle cette
 exécution est impossible.
 
+**Nota:**
+
+Conformément aux dispositions de l'article 2 du décret n° 2018-575 du 3 juillet 2018, ces dispositions sont applicables aux
+autorisations en cours de validité à la date de la publication dudit décret.
+
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2015-656 du 10 juin 2015 - art. 3
+  - Décret n°2018-575 du 3 juillet 2018 - art. 1
 
 _Cité par_:
 
