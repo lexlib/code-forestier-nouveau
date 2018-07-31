@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-07-06
+Version Consolidée au 2018-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -25769,8 +25769,8 @@ _Cité par_:
 
 Les agents mentionnés aux articles R. 161-1 et R. 161-2 sont autorisés, sur la décision de l'autorité compétente pour les
 commissionner, à porter, pour leur défense dans l'exercice de leurs fonctions, une arme de catégorie B à l'exception des 3°,
-6° et 7° et une arme classée au b du 2° de la catégorie D, conformément aux articles R. 312-22, R. 312-24 et R. 312-25 du
-code de la sécurité intérieure.
+6° et 7° et une arme classée au b de la catégorie D, conformément aux articles R. 312-22, R. 312-24 et R. 312-25 du code de
+la sécurité intérieure.
 
 **Liens relatifs à cet article**
 
@@ -25780,7 +25780,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2014-1253 du 27 octobre 2014 - art. 7
+  - Décret n°2018-542 du 29 juin 2018 - art. 26
 
 _Anciens textes_:
 
