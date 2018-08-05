@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-08-01
+Version Consolidée au 2018-08-06
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -765,32 +765,22 @@ Le Conseil supérieur de la forêt et du bois participe à la définition, à la
 l'évaluation de la politique forestière et de ses modulations régionales. A cette fin, il concourt à l'élaboration de la
 stratégie de recherche en matière de forêts et de produits forestiers. Il est associé à l'évaluation du rôle économique,
 social et environnemental des activités liées à la forêt et à l'exploitation et à la transformation des produits forestiers,
-ainsi qu'au suivi du financement de la politique forestière. 
+ainsi qu'au suivi du financement de la politique forestière.
 
-Il est composé de membres du Parlement ainsi que de représentants des ministères intéressés, des collectivités territoriales
-et de leurs groupements, des établissements publics intéressés, des organisations professionnelles représentatives, des
-organisations syndicales de salariés représentatives, des associations de protection de l'environnement agréées mentionnées
-aux articles L. 141-1 et L. 141-3 du code de l'environnement qui exercent leurs activités sur l'ensemble du territoire
-national, et des intérêts associés à la forêt. 
+Il est composé de deux députés et deux sénateurs ainsi que de représentants des ministères intéressés, des collectivités
+territoriales et de leurs groupements, des établissements publics intéressés, des organisations professionnelles
+représentatives, des organisations syndicales de salariés représentatives, des associations de protection de l'environnement
+agréées mentionnées aux articles L. 141-1 et L. 141-3 du code de l'environnement qui exercent leurs activités sur l'ensemble
+du territoire national, et des intérêts associés à la forêt.
 
 Lorsque les questions sur lesquelles il doit se prononcer ont une incidence sur les productions agricoles, le Conseil
-supérieur d'orientation et de coordination de l'économie agricole et alimentaire y est représenté à titre consultatif. 
+supérieur d'orientation et de coordination de l'économie agricole et alimentaire y est représenté à titre consultatif.
 
 Le Conseil supérieur de la forêt et du bois est informé de tout projet d'implantation industrielle de transformation du bois
 et formule un avis dès lors qu'il estime que ce projet implique une modification du programme national de la forêt et du
 bois, défini à l'article L. 121-2-2.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Code de l'environnement - art. L141-1 (V)
-  - Code de l'environnement - art. L141-3 (V)
-  - Code forestier (nouveau) - art. L121-2-2 (V)
-
-_Cité par_:
-
-  - Code forestier (nouveau) - art. D113-1 (V)
 
 _Anciens textes_:
 
@@ -803,7 +793,17 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 67
+  - Loi n°2018-699 du 3 août 2018 - art. 74
+
+_Cite_:
+
+  - Code de l'environnement - art. L141-1
+  - Code de l'environnement - art. L141-3
+  - Code forestier (nouveau) - art. L121-2-2
+
+_Cité par_:
+
+  - Code forestier (nouveau) - art. D113-1 (V)
 
 
 ##### Section 2 : Institutions régionales<a id=8></a>
