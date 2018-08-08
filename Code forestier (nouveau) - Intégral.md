@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-08-06
+Version Consolidée au 2018-08-09
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -26030,8 +26030,9 @@ La proposition de transaction mentionnée à l'article L. 161-25 est adressée p
 l'agriculture et de la forêt, en double exemplaire, au mis en cause par tout moyen permettant d'établir date certaine, dans
 le délai de deux mois pour les contraventions et de six mois pour les délits, à compter de la clôture du procès-verbal.
 
-Elle comporte toutes les mentions prévues à cet article et l'indication que la proposition, une fois acceptée par le
-contrevenant, doit être homologuée par le procureur de la République.
+Elle comporte la nature des faits reprochés et leur qualification juridique ainsi que toutes les mentions prévues à cet
+article et l'indication que la proposition, une fois acceptée par le contrevenant, doit être homologuée par le procureur de
+la République.
 
 Le mis en cause dispose d'un délai d'un mois pour accepter cette proposition. En ce cas, il en retourne un exemplaire signé.
 
@@ -26047,13 +26048,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
-
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
-
 _Cité par_:
 
   - Décret n°2018-721 du 3 août 2018 (V)
+
+_Modifié par_:
+
+  - Décret n°2018-721 du 3 août 2018 - art. 4
 
 _Anciens textes_:
 
@@ -26062,7 +26063,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L161-25 (V)
+  - Code forestier (nouveau) - art. L161-25
 
 
 ###### Article R161-10
