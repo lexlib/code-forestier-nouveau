@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-08-09
+Version Consolidée au 2018-08-12
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -5595,7 +5595,9 @@ dater de sa clôture, par les agents mentionnés aux 1° et 2° de l'article L. 
 
 2° Lorsque l'infraction est constitutive d'une contravention, au directeur régional de l'administration chargée des forêts.
 
-Une copie du procès-verbal est adressée simultanément à l'autorité qui n'est pas destinataire de l'original.
+Une copie du procès-verbal est adressée simultanément à l'autorité qui n'est pas destinataire de l'original. Sauf instruction
+contraire du procureur de la République, une copie du procès-verbal est également transmise au contrevenant, lorsqu'il est
+connu, dans un délai fixé par décret en Conseil d'Etat.
 
 Les procès-verbaux dressés pour constater des infractions forestières par les agents mentionnés au 3° de l'article L. 161-4
 sont transmis selon les modalités énoncées à l'article 27 du code de procédure pénale.
@@ -5609,16 +5611,16 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2018-727 du 10 août 2018 - art. 39
 
 _Cite_:
 
   - Code de procédure pénale - art. 27
   - Code de procédure pénale - art. 29
-  - Code forestier (nouveau) - art. L161-4 (V)
-  - Code forestier (nouveau) - art. L161-6 (V)
+  - Code forestier (nouveau) - art. L161-4
+  - Code forestier (nouveau) - art. L161-6
 
 _Anciens textes_:
 
