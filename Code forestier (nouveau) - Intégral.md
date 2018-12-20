@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-08-12
+Version Consolidée au 2018-12-21
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -326,10 +326,10 @@ Version Consolidée au 2018-08-12
           - [Section 3 : Fonds stratégique de la forêt et du bois (art. D156-12 à D156-14)](#323)
       - [TITRE VI : DISPOSITIONS PÉNALES (art. R161-1 à R163-16)](#324)
         - [Chapitre Ier : Règles de procédure pénale  applicables aux infractions forestières (art. R161-1 à R161-10)](#325)
-          - [Section 1 : Recherche et constatations des infractions (art. R161-1 à R161-7)](#326)
+          - [Section 1 : Recherche et constatations des infractions (art. R161-1 à R161-7-1)](#326)
             - [Sous-section 1 : Agents habilités à constater les infractions (art. R161-1 à R161-4)](#327)
             - [Sous-section 2 : Assermentation et valeur probante des procès-verbaux (art. R161-5 à R161-6)](#328)
-            - [Sous-section 3 : Transmission des procédures (art. R161-7)](#329)
+            - [Sous-section 3 : Transmission des procédures (art. R161-7 à R161-7-1)](#329)
           - [Section 2 : Saisie conservatoire et cautionnement (art. R161-8)](#330)
           - [Section 3 : Poursuites et alternatives aux poursuites (art. R161-9 à R161-10)](#331)
         - [Chapitre II : Dispositions relatives aux peines (art. R162-1 à R162-4)](#332)
@@ -25891,6 +25891,19 @@ _Cite_:
 
   - Code forestier (nouveau) - art. L161-12 (V)
   - Code forestier (nouveau) - art. R161-1 (V)
+
+
+###### Article R161-7-1
+
+Le délai prévu au quatrième alinéa de l'article L. 161-12 est de cinq jours au moins et de dix jours au plus suivant la
+transmission du procès-verbal de constatation d'infraction au procureur de la République ou au directeur régional de
+l'administration chargée des forêts.
+
+**Liens relatifs à cet article**
+
+_Créé par_:
+
+  - Décret n°2018-1177 du 18 décembre 2018 - art. 3
 
 
 ##### Section 2 : Saisie conservatoire et cautionnement<a id=330></a>
