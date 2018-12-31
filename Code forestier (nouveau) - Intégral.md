@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2018-04-09
+Version Consolidée au 2019-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -39073,7 +39073,7 @@ informe le préfet de région.
 Dans le cas où le centre régional refuse d'inscrire ou radie un propriétaire ou le représentant d'une personne morale ou
 d'une indivision pour d'autres causes que le décès, cette décision motivée est notifiée dans les meilleurs délais à
 l'intéressé par tout moyen permettant d'établir date certaine. L'intéressé peut faire une réclamation auprès du centre
-régional jusqu'au 10 septembre. Le centre régional en informe le préfet de région.
+régional jusqu'au 10 septembre. Le centre régional en informe le préfet de région. 
 
 Avant le 30 septembre, après examen des réclamations, notification à leur auteur de la réponse apportée et examen des
 éventuelles observations des réclamants, le centre régional de la propriété forestière établit la liste électorale de chaque
@@ -39087,7 +39087,7 @@ cas échéant, par tout autre moyen.
 
 La liste électorale peut être consultée sans frais, dans les lieux où elle a été déposée en application de l'alinéa
 précédent, par tout intéressé qui peut en prendre copie, à ses frais, à condition de s'engager à ne pas en faire un usage
-commercial, conformément aux dispositions de l'article R. 16 du code électoral.
+commercial, conformément aux dispositions de l'alinéa 1 de l'article L. 37 du code électoral.
 
 **Liens relatifs à cet article**
 
@@ -39097,11 +39097,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-472 du 14 avril 2016 - art. 2
+  - Décret n°2018-350 du 14 mai 2018 - art. 3
 
 _Cite_:
 
-  - Code électoral - art. R*16
+  - Code électoral - art. L37
 
 _Anciens textes_:
 
