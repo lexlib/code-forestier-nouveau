@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2019-05-24
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -15908,28 +15908,28 @@ _Anciens textes_:
 En cas de vente d'une propriété classée au cadastre en nature de bois et forêts et d'une superficie totale inférieure à 4
 hectares, les propriétaires d'une parcelle boisée contiguë, tels qu'ils sont désignés sur les documents cadastraux,
 bénéficient d'un droit de préférence dans les conditions définies au présent article. Les mêmes dispositions sont applicables
-en cas de cession de droits indivis ou de droits réels de jouissance relatifs à cette propriété. 
+en cas de cession de droits indivis ou de droits réels de jouissance relatifs à cette propriété.
 
 Le vendeur est tenu de notifier aux propriétaires des parcelles boisées contiguës mentionnées au premier alinéa le prix et
 les conditions de la cession projetée, par lettre recommandée avec demande d'avis de réception, à l'adresse enregistrée au
 cadastre ou par remise contre récépissé. Lorsque le nombre de notifications est égal ou supérieur à dix, le vendeur peut
 rendre publics le prix et les conditions de la cession projetée par voie d'affichage en mairie durant un mois et de
-publication d'un avis dans un journal d'annonces légales. 
+publication d'un avis sur un support habilité à recevoir des annonces légales.
 
 Tout propriétaire d'une parcelle boisée contiguë dispose d'un délai de deux mois à compter de la date d'affichage en mairie
 ou à compter de la notification pour faire connaître au vendeur, par lettre recommandée avec demande d'avis de réception ou
 par remise contre récépissé, qu'il exerce son droit de préférence aux prix et conditions qui lui sont indiqués par le
-vendeur. 
+vendeur.
 
 Lorsque plusieurs propriétaires de parcelles contiguës exercent leur droit de préférence, le vendeur choisit librement celui
-auquel il souhaite céder son bien. 
+auquel il souhaite céder son bien.
 
 Le droit de préférence n'est plus opposable au vendeur en l'absence de réalisation de la vente résultant d'une défaillance de
 l'acheteur dans un délai de quatre mois à compter de la réception de la déclaration d'exercice de ce droit dans les
-conditions mentionnées au troisième alinéa. 
+conditions mentionnées au troisième alinéa.
 
 Ce droit de préférence s'exerce sous réserve du droit de préemption, et de la rétrocession qui en découle, prévu au bénéfice
-de personnes morales chargées d'une mission de service public par le code rural et de la pêche maritime  ou par le  code de
+de personnes morales chargées d'une mission de service public par le code rural et de la pêche maritime ou par le code de
 l'urbanisme.
 
 **Liens relatifs à cet article**
@@ -15940,7 +15940,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
+  - Loi n°2019-486 du 22 mai 2019 - art. 3
 
 _Anciens textes_:
 
@@ -15949,7 +15949,7 @@ _Anciens textes_:
 _Cité par_:
 
   - Code forestier (nouveau) - art. L331-20 (V)
-  - Code forestier (nouveau) - art. L331-21 (V)
+  - Code forestier (nouveau) - art. L331-21 (M)
   - Code forestier (nouveau) - art. L331-22 (V)
   - Code forestier (nouveau) - art. L331-23 (V)
   - Code forestier (nouveau) - art. L331-24 (V)
