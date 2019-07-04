@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-05-24
+Version Consolidée au 2019-07-05
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -5052,19 +5052,19 @@ Lorsque les ventes se font à un prix global déterminé au moment de la vente e
 signalés ou marqués comme objet de la vente, dans le respect des conditions d'exploitation définies par le contrat. Le
 contrat fixe, au sein de la période d'exploitation, une ou plusieurs dates auxquelles tout ou partie des bois objet de la
 vente seront regardés comme livrés. Ces dates de livraison constituent le point de départ des délais de règlement, sans
-pouvoir excéder les délais de quarante-cinq jours fin de mois ou soixante jours mentionnés à l'article L. 441-6 du code de
-commerce, à compter de la date de livraison. Une facture peut néanmoins être émise dès la signature du contrat pour la
-totalité des bois vendus.
+pouvoir excéder les délais de quarante-cinq jours fin de mois ou soixante jours mentionnés aux deuxième et troisième alinéas
+du I de l'article L. 441-10 du code de commerce, à compter de la date de livraison. Une facture peut néanmoins être émise dès
+la signature du contrat pour la totalité des bois vendus.
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Loi n°2014-344 du 17 mars 2014 - art. 124
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 5
 
 _Cite_:
 
-  - Code de commerce - art. L441-6
+  - Code de commerce - art. L441-10
 
 
 #### Chapitre VI : Dispositions économiques et financières<a id=64></a>
@@ -9190,7 +9190,7 @@ _Cité par_:
 ###### Article L213-10
 
 Les ventes de coupes obtenues par le recours à des pratiques prohibées par l'article L. 420-1 du code de commerce ou
-réprimées par le I de l'article L. 443-2 du même code sont déclarées nulles.
+réprimées par le I de l'article L. 442-9 du même code sont déclarées nulles.
 
 **Liens relatifs à cet article**
 
@@ -9198,14 +9198,15 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 5
 
 _Cite_:
 
   - Code de commerce - art. L420-1
-  - Code de commerce - art. L443-2 (V)
+  - Code de commerce - art. L442-9
+  - Code de commerce - art. L443-2
 
 _Anciens textes_:
 
@@ -12313,8 +12314,8 @@ _Anciens textes_:
 ###### Article L261-3
 
 Lors des ventes de coupes, le recours à des pratiques prohibées par l'article L. 420-1 du code de commerce est puni des
-peines prévues à l'article L. 420-6 de ce code. Il en va de même des pratiques prohibées et réprimées par les articles L.
-443-2 et L. 443-3 du même code.
+peines prévues à l'article L. 420-6 de ce code. Il en va de même des pratiques prohibées et réprimées par l'article L. 442-9
+du même code.
 
 **Liens relatifs à cet article**
 
@@ -12322,15 +12323,16 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-698 du 3 juillet 2019 - art. 5
 
 _Cite_:
 
   - Code de commerce - art. L420-1
-  - Code de commerce - art. L420-6 (V)
-  - Code de commerce - art. L443-2 (V)
+  - Code de commerce - art. L420-6
+  - Code de commerce - art. L442-9
+  - Code de commerce - art. L443-2
 
 _Anciens textes_:
 
