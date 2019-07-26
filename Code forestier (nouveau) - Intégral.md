@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-07-05
+Version Consolidée au 2019-07-27
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -5314,15 +5314,18 @@ _Anciens textes_:
 
 ###### Article L161-4
 
-Sont habilités à rechercher et constater les infractions forestières, outre les officiers et agents de police judiciaire :
+Sont habilités à rechercher et constater les infractions forestières, outre les officiers et agents de police judiciaire : 
 
 1° Les agents des services de l'Etat chargés des forêts, commissionnés à raison de leurs compétences en matière forestière et
-assermentés à cet effet ;
+assermentés à cet effet ; 
 
 2° Les agents en service à l'Office national des forêts ainsi que ceux de l'établissement public du domaine national de
-Chambord, commissionnés à raison de leurs compétences en matière forestière et assermentés à cet effet ;
+Chambord, commissionnés à raison de leurs compétences en matière forestière et assermentés à cet effet ; 
 
-3° Les gardes champêtres et les agents de police municipale.
+3° Les gardes champêtres et les agents de police municipale. 
+
+Lorsque les agents mentionnés aux 1° à 3° sont également investis par le code de l'environnement de missions de police
+judiciaire, ils interviennent dans les conditions définies aux articles L. 172-5 à L. 172-15 du même code.
 
 **Liens relatifs à cet article**
 
@@ -5330,9 +5333,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2019-773 du 24 juillet 2019 - art. 7
 
 _Anciens textes_:
 
@@ -5345,12 +5348,16 @@ _Anciens textes_:
   - Code forestier - art. L432-4 (VT)
   - Code forestier - art. L532-2 (VT)
 
+_Cite_:
+
+  - Code de l'environnement - art. L172-5 (V)
+
 _Cité par_:
 
   - Code forestier (nouveau) - art. L135-1 (VD)
   - Code forestier (nouveau) - art. L153-5 (VD)
   - Code forestier (nouveau) - art. L161-11 (V)
-  - Code forestier (nouveau) - art. L161-12 (M)
+  - Code forestier (nouveau) - art. L161-12 (V)
   - Code forestier (nouveau) - art. L161-14 (V)
   - Code forestier (nouveau) - art. L161-15 (V)
   - Code forestier (nouveau) - art. L161-16 (V)
@@ -5367,15 +5374,15 @@ _Cité par_:
 
 ###### Article L161-5
 
-Sont également habilités, dans l'exercice de leurs fonctions, à rechercher et constater les infractions forestières : 
+Outre les agents mentionnés à l'article L. 161-4, sont également habilités, dans l'exercice de leurs fonctions, à rechercher
+et constater les infractions forestières : 
 
 1° Les fonctionnaires et agents publics commissionnés et assermentés, habilités par une disposition du code de
 l'environnement à constater les infractions pénales en matière de chasse, de pêche, de protection de l'eau, des milieux
 aquatiques, des parcs nationaux ou des espaces naturels ; 
 
-Les inspecteurs de l'environnement mentionnés à l'article L. 172-1 du code de l'environnement interviennent dans les
-conditions définies aux articles L. 172-1 à L. 172-17 du même code. Toutefois, l'article L. 161-12 du présent code leur est
-applicable ; 
+Ils interviennent dans les conditions définies à la section 2 du chapitre II du titre VII du livre Ier du code de
+l'environnement. Toutefois, l'article L. 161-12 du présent code leur est applicable ; 
 
 2° Les agents publics habilités par la loi ou le règlement à effectuer des missions de surveillance, des inspections ou des
 contrôles de police administrative dans les bois et forêts, lorsqu'ils sont assermentés et habilités par la loi à rechercher
@@ -5389,7 +5396,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1087 du 8 août 2016 - art. 164
+  - Loi n°2019-773 du 24 juillet 2019 - art. 7
 
 _Anciens textes_:
 
@@ -5398,11 +5405,11 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code de l'environnement - art. L172-1 (V)
+  - Code de l'environnement - art. L161-4 (V)
 
 _Cité par_:
 
-  - Code forestier (nouveau) - art. L161-12 (M)
+  - Code forestier (nouveau) - art. L161-12 (V)
   - Code forestier (nouveau) - art. L176-6 (V)
 
 
@@ -5613,7 +5620,10 @@ dater de sa clôture, par les agents mentionnés aux 1° et 2° de l'article L. 
 
 Une copie du procès-verbal est adressée simultanément à l'autorité qui n'est pas destinataire de l'original. Sauf instruction
 contraire du procureur de la République, une copie du procès-verbal est également transmise au contrevenant, lorsqu'il est
-connu, dans un délai fixé par décret en Conseil d'Etat.
+connu, dans un délai fixé par décret en Conseil d'Etat. Sur autorisation du procureur de la République, les nom et prénoms
+des personnes apparaissant dans les copies de ce procès-verbal, à l'exception de ceux du contrevenant, peuvent être cancellés
+lorsque ces mentions sont susceptibles de mettre en danger la vie ou l'intégrité physique de ces personnes ou celles de leurs
+proches.
 
 Les procès-verbaux dressés pour constater des infractions forestières par les agents mentionnés au 3° de l'article L. 161-4
 sont transmis selon les modalités énoncées à l'article 27 du code de procédure pénale.
@@ -5629,13 +5639,14 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2018-727 du 10 août 2018 - art. 39
+  - Loi n°2019-773 du 24 juillet 2019 - art. 4
 
 _Cite_:
 
   - Code de procédure pénale - art. 27
   - Code de procédure pénale - art. 29
-  - Code forestier (nouveau) - art. L161-4
+  - Code forestier (nouveau) - art. L161-4 (V)
+  - Code forestier (nouveau) - art. L161-5 (V)
   - Code forestier (nouveau) - art. L161-6
 
 _Anciens textes_:
@@ -5645,7 +5656,6 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code forestier (nouveau) - art. L161-5 (V)
   - Code forestier (nouveau) - art. L179-2 (V)
   - Code forestier (nouveau) - art. L179-3 (V)
   - Code forestier (nouveau) - art. L361-2 (VD)
