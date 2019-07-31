@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-07-27
+Version Consolidée au 2019-08-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -32403,22 +32403,22 @@ _Modifié par_:
 ###### Article D223-14
 
 Les modalités de création et de fonctionnement des régies de dépenses et de recettes sont fixées par arrêté du ministre
-chargé du budget, sur proposition du directeur général de l'office, conformément aux dispositions du décret n° 92-681 du 20
-juillet 1992 relatif aux régies de recettes et aux régies d'avances des organismes publics.
+chargé du budget, sur proposition du directeur général de l'office, conformément aux dispositions du décret n° 2019-798 du 26
+juillet 2019 relatif aux régies de recettes et aux régies d'avances des organismes publics.
 
 **Liens relatifs à cet article**
-
-_Cite_:
-
-  - Décret n°92-681 du 20 juillet 1992 (V)
 
 _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Cite_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2019-798 du 26 juillet 2019
+
+_Modifié par_:
+
+  - Décret n°2019-798 du 26 juillet 2019 - art. 20
 
 _Anciens textes_:
 
