@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-10-23
+Version Consolidée au 2019-12-29
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -3506,7 +3506,7 @@ _Cité par_:
 
 ###### Article L134-9
 
-Si les intéressés n'exécutent pas les travaux prescrits en application des articles L. 134-4 à L. 134-6, la commune y
+I. - Si les intéressés n'exécutent pas les travaux prescrits en application des articles L. 134-4 à L. 134-6, la commune y
 pourvoit d'office après mise en demeure du propriétaire et à la charge de celui-ci.
 
 Les dépenses auxquelles donnent lieu les travaux sont des dépenses obligatoires pour la commune.
@@ -3519,15 +3519,30 @@ présent article, le représentant de l'Etat dans le département se substitue �
 résultat. Le coût des travaux de débroussaillement effectués par l'Etat est mis à la charge de la commune qui procède au
 recouvrement de cette somme dans les conditions prévues à l'alinéa précédent.
 
+II.-Le maire peut assortir la mise en demeure prévue au I d'une astreinte d'un montant maximal de 100 € par jour de retard.
+Le montant total des sommes demandées ne peut être supérieur à 5 000 €.
+
+L'astreinte court à compter de la date de notification de la mise en demeure et jusqu'à l'exécution complète des mesures
+prescrites ou jusqu'à l'exécution d'office par la commune. Le recouvrement des sommes est engagé par trimestre échu.
+
+Le maire peut, lors de la liquidation trimestrielle de l'astreinte, consentir une exonération partielle ou totale de son
+produit si le redevable établit que la non-exécution de l'intégralité de ses obligations est due à des circonstances qui ne
+sont pas de son fait.
+
+L'astreinte est recouvrée dans les conditions prévues par les dispositions relatives aux produits communaux.
+
+L'application de l'astreinte et sa liquidation ne font pas obstacle à l'exécution d'office des mesures prescrites, dans les
+conditions prévus au premier alinéa du I.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 52
 
 _Anciens textes_:
 
@@ -3535,7 +3550,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L134-4 (V)
+  - Code forestier (nouveau) - art. L134-4
 
 _Cité par_:
 
@@ -10756,7 +10771,7 @@ _Cité par_:
 ###### Article L223-3
 
 La compensation financière résultant du transfert à la collectivité territoriale de Corse des revenus, charges et obligations
-afférents aux bois et forêts mentionnés à l'article L. 211-2 est calculée dans les conditions prévues à l'article L. 4425-2
+afférents aux bois et forêts mentionnés à l'article L. 211-2 est calculée dans les conditions prévues à l'article L. 4425-24
 du code général des collectivités territoriales.
 
 **Liens relatifs à cet article**
@@ -10765,9 +10780,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 80
 
 _Anciens textes_:
 
@@ -10775,7 +10790,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L211-2 (VD)
+  - Code forestier (nouveau) - art. L211-2
 
 _Cité par_:
 
@@ -16592,6 +16607,9 @@ _Anciens textes_:
 
 ###### Article L341-4
 
+L'autorité administrative compétente de l'Etat notifie dès sa réception le dépôt de toute demande d'autorisation au maire de
+la commune sur laquelle se situe le terrain dont le défrichement est envisagé.
+
 L'autorisation de défrichement fait l'objet, par les soins du bénéficiaire, d'un affichage sur le terrain de manière visible
 de l'extérieur ainsi qu'à la mairie de situation du terrain. L'affichage a lieu quinze jours au moins avant le début des
 opérations de défrichement ; il est maintenu à la mairie pendant deux mois et sur le terrain pendant la durée des opérations
@@ -16607,13 +16625,9 @@ Un arrêté du ministre chargé des forêts précise les modalités et les forme
 
 **Liens relatifs à cet article**
 
-_Codifié par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2019-1461 du 27 décembre 2019 - art. 51
 
 _Anciens textes_:
 
