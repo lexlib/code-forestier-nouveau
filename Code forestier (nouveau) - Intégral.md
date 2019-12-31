@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-12-29
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -2603,11 +2603,15 @@ du bord extérieur de la voie.
 Dans le mois qui suit le débroussaillement, les propriétaires des bois et forêts peuvent enlever tout ou partie des produits,
 le propriétaire d'infrastructures ferroviaires restant chargé de faire disparaître le surplus.
 
-Les contestations auxquelles peuvent donner lieu l'exercice de la servitude sont portées, selon la nature et le montant de la
-demande, devant le tribunal d'instance ou de grande instance.
+Les contestations auxquelles peuvent donner lieu l'exercice de la servitude sont portées devant le tribunal judiciaire.
 
 L'exercice de la servitude ne doit restreindre en rien le droit pour le propriétaire d'exploiter sa propriété à son gré, sous
 réserve des prescriptions de l'article L. 341-3.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -2617,12 +2621,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Ordonnance n°2016-131 du 10 février 2016 - art. 6
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 10
 
 _Cite_:
 
-  - Code civil - art. 1240 (VT)
-  - Code forestier (nouveau) - art. L341-3 (V)
+  - Code civil - art. 1240
+  - Code forestier (nouveau) - art. L341-3
 
 _Anciens textes_:
 
@@ -5498,28 +5502,33 @@ _Cite_:
 ###### Article L161-8
 
 I. – Sans préjudice des règles de compétence territoriale applicables aux officiers et agents de police judiciaire, les
-agents de l'Etat mentionnés à l'article L. 161-4 exercent leurs compétences sur l'étendue :
+agents de l'Etat mentionnés à l'article L. 161-4 exercent leurs compétences sur l'étendue : 
 
-1° Du territoire national lorsqu'ils sont affectés à un service de compétence nationale ;
+1° Du territoire national lorsqu'ils sont affectés à un service de compétence nationale ; 
 
-2° De la région dans laquelle se trouve leur résidence administrative lorsqu'ils sont affectés dans un service déconcentré ;
+2° De la région dans laquelle se trouve leur résidence administrative lorsqu'ils sont affectés dans un service déconcentré ; 
 
 3° Du territoire concerné par leur mission, lorsque, affectés à un service déconcentré, ils sont chargés d'une mission
-dépassant les limites territoriales de ce service.
+dépassant les limites territoriales de ce service. 
 
 II. – Dans les bois et forêts relevant du régime forestier ou gérés contractuellement par l'Office national des forêts, les
 agents de l'établissement habilités à rechercher et constater des infractions exercent leurs compétences dans les mêmes
-conditions que les agents de l'Etat.
+conditions que les agents de l'Etat. 
 
-Il en est de même, dans le domaine national de Chambord, des agents de l'établissement public.
+Il en est de même, dans le domaine national de Chambord, des agents de l'établissement public. 
 
 III. – Les agents mis temporairement à disposition d'un service autre que celui dans lequel ils sont affectés ont la même
-compétence territoriale que celle des agents du service d'accueil.
+compétence territoriale que celle des agents du service d'accueil. 
 
-IV. – Lorsque les nécessités de l'enquête l'exigent, les agents peuvent se transporter dans les ressorts des tribunaux de
-grande instance limitrophes de la région dans laquelle ils sont affectés à l'effet d'y poursuivre les opérations de recherche
-ou de constatation initiées dans leur ressort de compétence. Le procureur de la République du lieu où les opérations sont
+IV. – Lorsque les nécessités de l'enquête l'exigent, les agents peuvent se transporter dans les ressorts des   tribunaux
+judiciaires limitrophes de la région dans laquelle ils sont affectés à l'effet d'y poursuivre les opérations de recherche ou
+de constatation initiées dans leur ressort de compétence. Le procureur de la République du lieu où les opérations sont
 poursuivies en est informé sans délai.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5529,7 +5538,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 73
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -5545,16 +5554,21 @@ _Cite_:
 ###### Article L161-9
 
 I. – Les gardes champêtres et les agents de police municipale exercent leurs compétences sur l'étendue du territoire communal
-ou du groupement de communes qui les emploie.
+ou du groupement de communes qui les emploie. 
 
 II. – Les gardes champêtres et les agents de police municipale mis temporairement à disposition d'une collectivité autre que
-celle dans laquelle ils sont affectés ont la même compétence territoriale que celle des agents de la collectivité d'accueil.
+celle dans laquelle ils sont affectés ont la même compétence territoriale que celle des agents de la collectivité d'accueil. 
 
 III. – Lorsque les nécessités de l'enquête l'exigent, les gardes champêtres et les agents de police municipale peuvent se
 transporter dans les communes limitrophes de celles dans lesquelles ils sont affectés à l'effet d'y poursuivre les opérations
 de recherche ou de constatation initiées dans leur ressort de compétence. Le maire de la commune où les opérations sont
 poursuivies en est informé sans délai, ainsi que le procureur de la République si cette commune n'est pas située dans le même
-ressort de tribunal de grande instance que celui dans lequel l'intéressé est normalement habilité à exercer.
+ressort de   tribunal judiciaire que celui dans lequel l'intéressé est normalement habilité à exercer.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -5562,9 +5576,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -9157,10 +9171,15 @@ partie principale, soit comme associé ou caution :
 exercent leurs fonctions, les fonctionnaires chargés de présider ou de concourir aux ventes et les receveurs du produit des
 coupes ;
 
-2° Les membres des tribunaux administratifs, les magistrats et greffiers des tribunaux d'instance et de grande instance, dans
-le ressort de leur juridiction.
+2° Les membres des tribunaux administratifs, les magistrats et greffiers des tribunaux judiciaires, dans le ressort de leur
+juridiction.
 
 Toute vente faite en violation des dispositions du présent article est déclarée nulle.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -9168,9 +9187,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 10
 
 _Anciens textes_:
 
@@ -13521,10 +13540,15 @@ _Cite_:
 Sans préjudice des dispositions de la section 2 du chapitre Ier du titre IV du présent livre relatives à l'affranchissement
 des droits d'usage, dans le cas où s'exercent, sur un bien de l'Etat susceptible de constituer une unité de gestion
 forestière ou agroforestière, des droits d'usage ou d'exploitation incompatibles avec la réalisation de l'aménagement de
-cette unité, l'Office national des forêts peut, à défaut d'accord amiable, demander au tribunal de grande instance une
-modification des modalités d'exercice de ces droits, notamment leur localisation sur d'autres terrains propriété de l'Etat.
-Le tribunal alloue, s'il y a lieu, des indemnités compensatrices. Les dispositions du présent article sont applicables aux
-servitudes de droit privé.
+cette unité, l'Office national des forêts peut, à défaut d'accord amiable, demander au   tribunal judiciaire une modification
+des modalités d'exercice de ces droits, notamment leur localisation sur d'autres terrains propriété de l'Etat. Le tribunal
+alloue, s'il y a lieu, des indemnités compensatrices. Les dispositions du présent article sont applicables aux servitudes de
+droit privé.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -13532,9 +13556,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -15686,22 +15710,27 @@ _Cité par_:
 La décision de constituer un groupement forestier dans les conditions fixées par l'article L. 331-8 est signifiée aux
 indivisaires. A compter de la date de cette signification, les indivisaires disposent d'un délai de trois mois pour mettre en
 demeure les promoteurs de l'opération d'acquérir à l'amiable leurs droits dans l'indivision moyennant des prix payés
-comptant.
+comptant. 
 
-En cas de contestation, le tribunal de grande instance, saisi par la partie la plus diligente, fixe le prix de vente, sur le
+En cas de contestation, le   tribunal judiciaire, saisi par la partie la plus diligente, fixe le prix de vente, sur le
 rapport d'un expert qu'il désigne. La vente doit être passée par acte authentique dans un délai de deux mois. Ce délai court
 soit du jour de la fixation du prix par les parties, soit du jour où la fixation du prix par l'autorité judiciaire est
-devenue définitive. Faute d'observer ledit délai, la procédure antérieure est réputée non intervenue.
+devenue définitive. Faute d'observer ledit délai, la procédure antérieure est réputée non intervenue. 
 
 A défaut d'avoir procédé à la mise en demeure prévue au premier alinéa du présent article, l'indivisaire minoritaire est
 réputé donner son adhésion à la constitution du groupement. En cas d'opposition ou de carence, il lui est nommé un
-représentant provisoire, dans les conditions prévues à l'article L. 331-12.
+représentant provisoire, dans les conditions prévues à l'article L. 331-12. 
 
 En cas de désaccord entre les promoteurs de l'opération sur l'étendue de l'acquisition des droits par chacun d'eux, celle-ci
-sera réalisée, dans chaque cas, au prorata de leurs propres droits dans l'indivision.
+sera réalisée, dans chaque cas, au prorata de leurs propres droits dans l'indivision. 
 
-En cas de désaccord entre les apporteurs sur la valeur de leurs apports, le tribunal de grande instance, saisi par la partie
-la plus diligente, fixe cette valeur sur le rapport d'un expert qu'il désigne.
+En cas de désaccord entre les apporteurs sur la valeur de leurs apports, le   tribunal judiciaire, saisi par la partie la
+plus diligente, fixe cette valeur sur le rapport d'un expert qu'il désigne.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15709,9 +15738,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -15725,8 +15754,8 @@ _Cité par_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L331-12 (V)
-  - Code forestier (nouveau) - art. L331-8 (V)
+  - Code forestier (nouveau) - art. L331-12
+  - Code forestier (nouveau) - art. L331-8
 
 
 ###### Article L331-10
@@ -15756,18 +15785,23 @@ _Cite_:
 ###### Article L331-11
 
 La constitution d'un groupement forestier dans les conditions prévues à l'article L. 331-8 doit être effective dans le délai
-de trois mois à compter du jour de l'acte authentique réalisant la vente.
+de trois mois à compter du jour de l'acte authentique réalisant la vente. 
 
 En cas de pluralité de ventes, ce délai est porté à un an à compter du jour de la première vente. Pour la computation de ce
 délai, les procédures ayant abouti à la fixation du prix par décision de justice ou à la nomination d'un représentant
-provisoire sont suspensives.
+provisoire sont suspensives. 
 
 Si, à l'expiration du délai déterminé aux deux alinéas précédents, le groupement n'est pas constitué, tout vendeur dispose
-d'un délai de trois mois pour demander au tribunal de grande instance de constater, après audition des promoteurs de
-l'opération, la nullité de la vente de ses droits.
+d'un délai de trois mois pour demander au   tribunal judiciaire de constater, après audition des promoteurs de l'opération,
+la nullité de la vente de ses droits. 
 
 Le président du tribunal peut, toutefois, à la demande d'un des promoteurs de l'opération, proroger le délai à l'expiration
 duquel le groupement doit être constitué.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15775,9 +15809,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -15785,7 +15819,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L331-8 (V)
+  - Code forestier (nouveau) - art. L331-8
 
 _Cité par_:
 
@@ -15796,11 +15830,15 @@ _Cité par_:
 
 Lorsque, par empêchement ou pour toute autre cause, un indivisaire n'accomplit pas un des actes ou formalités nécessaires à
 la constitution du groupement, les autres indivisaires peuvent, dans le délai d'un mois suivant une mise en demeure restée
-infructueuse, demander au président du tribunal de grande instance de désigner à l'indivisaire défaillant un représentant
+infructueuse, demander au président du   tribunal judiciaire de désigner à l'indivisaire défaillant un représentant
 provisoire. Ce représentant exerce tous les droits de l'indivisaire en vue d'accomplir ces actes et formalités, et notamment
 de régulariser ses apports au groupement ou la vente de ses droits. L'indivisaire peut être contraint, sous astreinte
-prononcée par le président du tribunal de grande instance, de remettre à son représentant provisoire tous documents estimés
-utiles.
+prononcée par le président du   tribunal judiciaire, de remettre à son représentant provisoire tous documents estimés utiles.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15808,9 +15846,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -15825,9 +15863,13 @@ _Cité par_:
 
 ###### Article L331-13
 
-En cas d'inscription d'une hypothèque légale contre un des apporteurs, mainlevée pourra en être ordonnée par le tribunal de
-grande instance compétent, qui devra, en ce cas, prescrire toutes mesures conservatoires pour garantir les droits des
-créanciers.
+En cas d'inscription d'une hypothèque légale contre un des apporteurs, mainlevée pourra en être ordonnée par le   tribunal
+judiciaire compétent, qui devra, en ce cas, prescrire toutes mesures conservatoires pour garantir les droits des créanciers.
+
+**Nota:**
+
+Conformément à l'article 36 de l'ordonnance n° 2019-964 du 18 septembre 2019, ces dispositions entrent en vigueur au 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -15835,9 +15877,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Ordonnance n°2019-964 du 18 septembre 2019 - art. 35 (VD)
 
 _Anciens textes_:
 
@@ -18345,126 +18387,132 @@ _Cite_:
 ###### Article D113-1
 
 Le Conseil supérieur de la forêt et du bois comprend, outre le ministre chargé des forêts, ou son représentant, qui le
-préside : 
+préside :
 
-A.-Des représentants de l'Etat : 
+A.-Des représentants de l'Etat :
 
-1° Le directeur général de la performance économique et environnementale des entreprises au ministère chargé des forêts ; 
+1° Le directeur général de la performance économique et environnementale des entreprises au ministère chargé des forêts ;
 
-2° Le directeur général des finances publiques ; 
+2° Le directeur général des finances publiques ;
 
-3° Le directeur de l'eau et de la biodiversité ; 
+3° Le directeur de l'eau et de la biodiversité ;
 
-4° Le directeur de l'énergie ; 
+4° Le directeur de l'énergie ;
 
-5° Le directeur général des collectivités locales ; 
+5° Le directeur général des collectivités locales ;
 
-6° Le directeur de l'habitat, de l'urbanisme et des paysages ; 
+6° Le directeur de l'habitat, de l'urbanisme et des paysages ;
 
-7° Le directeur général des infrastructures, des transports et de la mer ; 
+7° Le directeur général des infrastructures, des transports et de la mer ;
 
-8° Le directeur général des entreprises ; 
+8° Le directeur général des entreprises ;
 
-9° Le directeur général de la recherche et de l'innovation ; 
+9° Le directeur général de la recherche et de l'innovation ;
 
-10° Le directeur général des outre-mer ; 
+10° Le directeur général des outre-mer ;
 
-11° Le commissaire général à l'égalité des territoires ; 
+11° Le commissaire général à l'égalité des territoires ;
 
-12° Le vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ; 
+12° Le vice-président du Conseil général de l'alimentation, de l'agriculture et des espaces ruraux ;
 
-B.-Un collège d'élus comprenant : 
+B.-Un collège d'élus comprenant :
 
-13° Deux députés et deux sénateurs ; 
+13° Deux députés et deux sénateurs ;
 
 14° Deux représentants des conseils régionaux et deux représentants des conseils départementaux désignés respectivement par
-l'Association des régions de France et l'Assemblée des départements de France ; 
+l'Association des régions de France et l'Assemblée des départements de France ;
 
 15° Deux représentants des communes dont un désigné par l'Association des maires de France et un désigné par la Fédération
-nationale des communes forestières de France ; 
+nationale des communes forestières de France ;
 
-16° Le président de la Fédération des parcs naturels régionaux ; 
+16° Le président de la Fédération des parcs naturels régionaux ;
 
-C.-Un collège de représentants d'établissements publics et d'institutions comprenant : 
+C.-Un collège de représentants d'établissements publics et d'institutions comprenant :
 
-17° Le président du conseil d'administration du Centre national de la propriété forestière ; 
+17° Le président du conseil d'administration du Centre national de la propriété forestière ;
 
-18° Le président du conseil d'administration de l'Office national des forêts ; 
+18° Le président du conseil d'administration de l'Office national des forêts ;
 
-19° Le président du conseil d'administration de l'Office national de la chasse et de la faune sauvage ; 
+19° Le président du conseil d'administration de l'Office national de la chasse et de la faune sauvage ;
 
-20° Le président du conseil d'administration de l'Institut national de l'information géographique et forestière ; 
+20° Le président du conseil d'administration de l'Institut national de l'information géographique et forestière ;
 
-21° Le président du conseil d'administration de l'Institut technologique forêt, cellulose, bois-construction et
-ameublement ; 
+21° Le président du conseil d'administration de l'Institut technologique forêt, cellulose, bois-construction et ameublement ;
 
-22° Le président du conseil d'administration du Centre technique du papier ; 
+22° Le président du conseil d'administration du Centre technique du papier ;
 
-23° Le président du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie ; 
+23° Le président du conseil d'administration de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
-24° Le président de l'Institut national de la recherche agronomique ; 
+24° Le président de l'Institut national de recherche pour l'agriculture, l'alimentation et l'environnement ;
 
-25° Le président de l'interprofession nationale de la filière forêt bois France Bois Forêt ; 
+25° Le président de l'interprofession nationale de la filière forêt bois France Bois Forêt ;
 
-26° Le président de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture ; 
+26° Le président de l'Institut national de recherche en sciences et technologies pour l'environnement et l'agriculture ;
 
-27° Le président de l'Assemblée permanente des chambres d'agriculture ; 
+27° Le président de l'Assemblée permanente des chambres d'agriculture ;
 
 28° En application du troisième alinéa de l'article L. 113-1, un représentant du Conseil supérieur d'orientation et de
 coordination de l'économie agricole et alimentaire, lorsque les questions abordées ont une incidence sur les productions
-agricoles ; 
+agricoles ;
 
-D.-Un collège de représentants de l'amont de la filière forêt bois comprenant : 
+D.-Un collège de représentants de l'amont de la filière forêt bois comprenant :
 
-29° Quatre représentants des propriétaires forestiers particuliers ; 
+29° Quatre représentants des propriétaires forestiers particuliers ;
 
-30° Le président de l'Association des sociétés et groupements fonciers et forestiers ; 
+30° Le président de l'Association des sociétés et groupements fonciers et forestiers ;
 
-31° Un représentant des coopératives forestières ; 
+31° Un représentant des coopératives forestières ;
 
-32° Un représentant des experts forestiers ; 
+32° Un représentant des experts forestiers ;
 
-33° Un représentant des producteurs de plants forestiers ; 
+33° Un représentant des producteurs de plants forestiers ;
 
-34° Un représentant des entrepreneurs de travaux forestiers ; 
+34° Un représentant des entrepreneurs de travaux forestiers ;
 
-35° Un représentant des exploitants forestiers ; 
+35° Un représentant des exploitants forestiers ;
 
-E.-Un collège de représentants de l'aval de la filière forêt bois comprenant : 
+E.-Un collège de représentants de l'aval de la filière forêt bois comprenant :
 
-36° Un représentant des scieurs ; 
+36° Un représentant des scieurs ;
 
-37° Trois représentants des industries du bois et de l'ameublement ; 
+37° Trois représentants des industries du bois et de l'ameublement ;
 
-38° Un représentant des producteurs de pâtes pour papiers et textiles artificiels ; 
+38° Un représentant des producteurs de pâtes pour papiers et textiles artificiels ;
 
-39° Le président de France Bois Industrie Entreprises ; 
+39° Le président de France Bois Industrie Entreprises ;
 
-40° Un représentant du commerce du bois ; 
+40° Un représentant du commerce du bois ;
 
-41° Un représentant des architectes ; 
+41° Un représentant des architectes ;
 
-42° Un représentant des professionnels de la construction ; 
+42° Un représentant des professionnels de la construction ;
 
-43° Le président du Syndicat des énergies renouvelables ; 
+43° Le président du Syndicat des énergies renouvelables ;
 
-F.-Un collège des représentants des autres parties intéressées comprenant : 
+F.-Un collège des représentants des autres parties intéressées comprenant :
 
-44° Trois représentants des salariés de la forêt et des professions du bois ; 
+44° Trois représentants des salariés de la forêt et des professions du bois ;
 
-45° Deux représentants des associations d'usagers de la forêt ; 
+45° Deux représentants des associations d'usagers de la forêt ;
 
-46° Quatre représentants des associations de protection de l'environnement agréées ; 
+46° Quatre représentants des associations de protection de l'environnement agréées ;
 
-47° Le président de la Fédération nationale des chasseurs ; 
+47° Le président de la Fédération nationale des chasseurs ;
 
-48° Le président de l'Assemblée générale du groupement d'intérêt public " ECOFOR ". 
+48° Le président de l'Assemblée générale du groupement d'intérêt public " ECOFOR ".
 
 Les membres mentionnés aux 29°, 31° à 38°, 40° à 42°, 44° et 45° sont nommés par le ministre chargé des forêts sur
-proposition des organisations représentatives du secteur concerné. 
+proposition des organisations représentatives du secteur concerné.
 
 Les membres mentionnés aux 16° et 46° sont nommés par le ministre chargé des forêts sur proposition du ministre chargé de
 l'environnement.
+
+**Nota:**
+
+Conformément aux dispositions de l'article 27 du décret n° 2019-1046 du 10 octobre 2019, les mots : "Institut national de
+recherche en sciences et technologies pour l'environnement et l'agriculture" sont remplacés par les mots : "Institut national
+de recherche pour l'agriculture, l'alimentation et l'environnement" INRAE, ce dernier résultant de la fusion de L'INRA et de
+l'IRSTEA.
 
 **Liens relatifs à cet article**
 
@@ -18474,7 +18522,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1256 du 8 octobre 2015 - art. 1
+  - Décret n°2019-1046 du 10 octobre 2019 - art. 27
 
 _Anciens textes_:
 
@@ -18482,7 +18530,7 @@ _Anciens textes_:
 
 _Cité par_:
 
-  - Code forestier (nouveau) - art. D113-2 (V)
+  - Code forestier (nouveau) - art. D113-2 (M)
   - Code forestier (nouveau) - art. D113-9 (V)
 
 _Cite_:
@@ -25910,9 +25958,14 @@ _Cite_:
 ###### Article R161-4
 
 Les agents mentionnés aux articles R. 161-1 et R. 161-2 sont dotés chacun d'un marteau particulier dont l'empreinte et les
-conditions d'utilisation sont déterminées par arrêté du ministre chargé des forêts.
+conditions d'utilisation sont déterminées par arrêté du ministre chargé des forêts. 
 
-L'empreinte de ces marteaux particuliers est déposée au greffe du tribunal de grande instance de Paris.
+L'empreinte de ces marteaux particuliers est déposée au greffe du   tribunal judiciaire de Paris.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -25922,7 +25975,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2017-512 du 7 avril 2017 - art. 1
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -25941,13 +25994,19 @@ _Cite_:
 ###### Article R161-5
 
 Les agents mentionnés aux articles R. 161-1 et R. 161-2, qui ne sont pas assermentés pour l'exercice d'une autre mission
-judiciaire, prêtent, devant le tribunal de grande instance de leur résidence administrative, le serment suivant : " Je jure
-et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je jure
-également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes fonctions.
-"
+judiciaire, prêtent, au siège du tribunal judiciaire ou, le cas échéant, de l'une de ses chambres de proximité de leur
+résidence administrative, le serment suivant : " Je jure et promets de bien et loyalement remplir mes fonctions et d'observer
+en tout les devoirs qu'elles m'imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma
+connaissance à l'occasion de l'exercice de mes fonctions. "
 
 La prestation de serment n'est pas renouvelée en cas de changement de grade ou d'emploi ou de changement de résidence
 administrative.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -25955,13 +26014,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2019-913 du 30 août 2019 - art. 13
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. R161-1 (V)
+  - Code forestier (nouveau) - art. R161-1
 
 
 ###### Article R161-6
@@ -26871,7 +26930,7 @@ Guyane ;
 
 “ 10° Un représentant de l'Office national des forêts ;
 
-“ 11° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+“ 11° Un représentant de la délégation interrégionale outre-mer de l'Office français de la biodiversité ;
 
 “ 12° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
@@ -26932,7 +26991,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -26940,9 +26999,9 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. D113-12 (V)
-  - Code forestier (nouveau) - art. L172-3 (V)
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. D113-12
+  - Code forestier (nouveau) - art. L172-3
+  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article D172-4
@@ -27135,7 +27194,7 @@ départementale de Martinique ;
 
 “ 9° Un représentant de l'Office national des forêts ;
 
-“ 10° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+“ 10° Un représentant de la délégation interrégionale outre-mer de l'Office français de la biodiversité ;
 
 “ 11° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
@@ -27188,14 +27247,14 @@ renouvelable une fois. ”
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. D113-12 (V)
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. D113-12
+  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article R173-1
@@ -27300,7 +27359,7 @@ travail et de l'emploi ;
 
 “ 9° Un représentant de l'Office national des forêts ;
 
-“ 10° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+“ 10° Un représentant de la délégation interrégionale outre-mer de l'Office français de la biodiversité ;
 
 “ 11° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
@@ -27353,14 +27412,14 @@ fois. ”
 
 **Liens relatifs à cet article**
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. D113-12 (V)
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. D113-12
+  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article D174-4-1
@@ -27898,7 +27957,7 @@ Mayotte ;
 
 8° Un représentant de l'Office national des forêts ;
 
-9° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+9° Un représentant de la délégation interrégionale outre-mer de l'Office français de la biodiversité ;
 
 10° Un représentant de l'Agence de l'environnement et de la maîtrise de l'énergie ;
 
@@ -27934,7 +27993,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -27942,7 +28001,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L211-1 (V)
+  - Code forestier (nouveau) - art. L211-1
 
 
 ###### Article D175-5
@@ -28261,7 +28320,7 @@ et le président du conseil territorial. Elle comprend :
 
 “ 6° Un représentant de l'Office national des forêts ;
 
-“ 7° Un représentant de la délégation interrégionale outre-mer de l'Office national de la chasse et de la faune sauvage ;
+“ 7° Un représentant de la délégation interrégionale outre-mer de l'Office français de la biodiversité ;
 
 “ 8° Un représentant des structures interprofessionnelles, de l'industrie et des prestataires de services dans le secteur de
 la forêt et du bois ;
@@ -28284,11 +28343,11 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-1885 du 26 décembre 2016 - art. 3
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. D113-12 (V)
+  - Code forestier (nouveau) - art. D113-12
 
 
 ## LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER<a id=357></a>
@@ -29935,22 +29994,22 @@ _Cité par_:
 
 ###### Article R213-51
 
-Les locations de gré à gré sont ouvertes : 
+Les locations de gré à gré sont ouvertes :
 
-1° Aux locataires sortants qui sont locataires depuis au moins trois ans sur un lot ; 
+1° Aux locataires sortants qui sont locataires depuis au moins trois ans sur un lot ;
 
 2° Aux associations communales et intercommunales de chasse agréées mentionnées à l'article L. 422-2 du code de
-l'environnement ; 
+l'environnement ;
 
-3° A l'Office national de la chasse et de la faune sauvage ou tout organisme scientifique ou de recherche agréé afin de
-conduire des recherches ou des expérimentations sur la gestion de la faune sauvage et ses habitats ; 
+3° A l'Office français de la biodiversité ou tout organisme scientifique ou de recherche agréé afin de conduire des
+recherches ou des expérimentations sur la gestion de la faune sauvage et ses habitats ;
 
 4° Aux locataires des territoires de chasse voisins, lorsque la location d'un terrain domanial d'un seul tenant d'une surface
 au plus égale à 100 hectares permet de résorber des enclaves cynégétiques ou lorsque le terrain domanial est en situation
-enclavée au sein d'un seul territoire de chasse ; 
+enclavée au sein d'un seul territoire de chasse ;
 
 5° A l'initiative de l'Office national des forêts, aux titulaires de licences collectives annuelles successives depuis au
-moins trois ans sur le même lot. 
+moins trois ans sur le même lot.
 
 Pour les lots n'ayant pas trouvé preneur à l'adjudication publique, les locations de gré à gré sont ouvertes à tous les
 candidats intéressés y compris ceux qui n'auraient pas pris part à l'adjudication.
@@ -29963,7 +30022,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-260 du 4 mars 2015 - art. 1
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Anciens textes_:
 
@@ -29972,10 +30031,6 @@ _Anciens textes_:
 _Cite_:
 
   - Code de l'environnement - art. L422-2
-
-_Cité par_:
-
-  - Code forestier (nouveau) - art. R213-52 (V)
 
 
 ###### Article R213-52
@@ -31604,7 +31659,7 @@ a) Le directeur de l'eau et de la biodiversité ou son représentant ;
 
 b) Le directeur général de la prévention des risques ou son représentant ;
 
-7° Le directeur du développement des territoires au Commissariat général à l'égalité des territoires ou son représentant ;
+7° Un représentant du ministre chargé de l'aménagement du territoire désigné par celui-ci ;
 
 8° Le directeur de la modernisation et de l'action territoriale au ministère de l'intérieur ou son représentant ;
 
@@ -31627,6 +31682,11 @@ nature. L'une d'entre elles peut être un parlementaire.
 Ne peuvent être membres du conseil d'administration que des personnes ressortissantes de pays membres de l'Union européenne
 et jouissant de leurs droits civiques.
 
+**Nota:**
+
+Conformément à l’article 14 du décret n° 2019-1190 du 18 novembre 2019, les présentes dispositions entrent en vigueur le 1
+  <sup>er</sup> janvier 2020.
+
 **Liens relatifs à cet article**
 
 _Codifié par_:
@@ -31635,7 +31695,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2016-408 du 5 avril 2016 - art. 1
+  - Décret n°2019-1190 du 18 novembre 2019 - art. 3
 
 _Anciens textes_:
 
@@ -39444,34 +39504,39 @@ _Cité par_:
 ###### Article R321-50
 
 Jusqu'au 10 novembre de l'année précédent le scrutin, les réclamants et les personnes intéressées peuvent saisir le tribunal
-d'instance dans le ressort duquel la direction régionale de l'alimentation, de l'agriculture et de la forêt a son siège. 
+judiciaire dans le ressort duquel la direction régionale de l'alimentation, de l'agriculture et de la forêt a son siège.
 
-Le tribunal d'instance est saisi par déclaration faite, remise ou adressée au greffe. Il statue sans frais ni forme et sur
-avertissement donné trois jours à l'avance à toutes les parties intéressées, dans les dix jours du recours. 
+Le tribunal judiciaire est saisi par requête faite, remise ou adressée au greffe. Il statue sans frais ni forme et sur
+avertissement donné trois jours à l'avance à toutes les parties intéressées, dans les dix jours du recours.
 
-La décision prise par le tribunal d'instance est notifiée dans les trois jours par le greffe aux personnes intéressées et au
+La décision prise par le tribunal judiciaire est notifiée dans les trois jours par le greffe aux personnes intéressées et au
 préfet de région, par lettre recommandée avec demande d'avis de réception. Le préfet de région en informe le centre régional
-de la propriété forestière. 
+de la propriété forestière.
 
-La décision du tribunal d'instance n'est pas susceptible d'appel, ni d'opposition. 
+La décision du tribunal judiciaire n'est pas susceptible d'appel, ni d'opposition.
 
 Le pourvoi en cassation est formé, instruit et jugé dans les conditions prévues par les articles 999 à 1008 du code de
 procédure civile. Le greffe de la Cour de cassation transmet copie de l'arrêt au préfet de région, qui en informe le centre
 régional de la propriété forestière.
 
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
+
+Conformément au I de l’article 55 du décret n° 2019-1333 du 11 décembre 2019, ces dispositions entrent en vigueur le 1er
+janvier 2020. Elles sont applicables aux instances en cours à cette date.
+
 **Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Décret n°2012-836 du 29 juin 2012 (V)
 
 _Modifié par_:
 
-  - Décret n°2016-472 du 14 avril 2016 - art. 2
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
+  - Décret n°2019-1333 du 11 décembre 2019 - art. 22
 
 _Cite_:
 
-  - Code de procédure civile - art. 999 (V)
+  - Code de procédure civile - art. 999
 
 _Anciens textes_:
 
@@ -40972,8 +41037,13 @@ _Cite_:
 
 ###### Article R331-15
 
-Le jugement rendu par le tribunal de grande instance pour l'application du troisième alinéa de l'article L. 331-11 est publié
-au bureau des hypothèques.
+Le jugement rendu par le   tribunal judiciaire pour l'application du troisième alinéa de l'article L. 331-11 est publié au
+bureau des hypothèques.
+
+**Nota:**
+
+Conformément à l’article 9 du décret n° 2019-966 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1er
+janvier 2020.
 
 **Liens relatifs à cet article**
 
@@ -40981,9 +41051,9 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2019-966 du 18 septembre 2019 - art. 8
 
 _Anciens textes_:
 
@@ -40991,7 +41061,7 @@ _Anciens textes_:
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. L331-11 (V)
+  - Code forestier (nouveau) - art. L331-11
 
 
 ###### Article R331-16
