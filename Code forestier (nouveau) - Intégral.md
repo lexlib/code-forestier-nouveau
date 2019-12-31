@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-08-01
+Version Consolidée au 2020-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -25866,13 +25866,19 @@ _Cite_:
 ###### Article R161-5
 
 Les agents mentionnés aux articles R. 161-1 et R. 161-2, qui ne sont pas assermentés pour l'exercice d'une autre mission
-judiciaire, prêtent, devant le tribunal de grande instance de leur résidence administrative, le serment suivant : " Je jure
-et promets de bien et loyalement remplir mes fonctions et d'observer en tout les devoirs qu'elles m'imposent. Je jure
-également de ne rien révéler ou utiliser de ce qui sera porté à ma connaissance à l'occasion de l'exercice de mes fonctions.
-"
+judiciaire, prêtent, au siège du tribunal judiciaire ou, le cas échéant, de l'une de ses chambres de proximité de leur
+résidence administrative, le serment suivant : " Je jure et promets de bien et loyalement remplir mes fonctions et d'observer
+en tout les devoirs qu'elles m'imposent. Je jure également de ne rien révéler ou utiliser de ce qui sera porté à ma
+connaissance à l'occasion de l'exercice de mes fonctions. "
 
 La prestation de serment n'est pas renouvelée en cas de changement de grade ou d'emploi ou de changement de résidence
 administrative.
+
+**Nota:**
+
+<font color="black">Conformément à l’article 36 du décret n° 2019-913 du 30 août 2019, ces dispositions entrent en vigueur le
+1
+    <sup>er</sup> janvier 2020.</font>
 
 **Liens relatifs à cet article**
 
@@ -25880,13 +25886,13 @@ _Codifié par_:
 
   - Décret n°2012-836 du 29 juin 2012 (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Décret n°2012-836 du 29 juin 2012 - art. (V)
+  - Décret n°2019-913 du 30 août 2019 - art. 13
 
 _Cite_:
 
-  - Code forestier (nouveau) - art. R161-1 (V)
+  - Code forestier (nouveau) - art. R161-1
 
 
 ###### Article R161-6
