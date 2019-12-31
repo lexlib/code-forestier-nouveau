@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2020-01-01
+Version Consolidée au 2020-01-01 00:00:01 +0100
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -18433,7 +18433,7 @@ C.-Un collège de représentants d'établissements publics et d'institutions com
 
 18° Le président du conseil d'administration de l'Office national des forêts ;
 
-19° Le président du conseil d'administration de l'Office national de la chasse et de la faune sauvage ;
+19° Le président du conseil d'administration de l'Office français de la biodiversité ;
 
 20° Le président du conseil d'administration de l'Institut national de l'information géographique et forestière ;
 
@@ -18522,7 +18522,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2019-1046 du 10 octobre 2019 - art. 27
+  - Décret n°2019-1580 du 31 décembre 2019 - art. 4
 
 _Anciens textes_:
 
