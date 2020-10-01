@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2020-01-01 00:00:01 +0100
+Version Consolidée au 2020-10-02
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -25627,14 +25627,24 @@ _Cite_:
 ###### Article D156-9
 
 Les subventions sont accordées sur la base d'un devis estimatif et descriptif hors taxes, conformément aux règles générales
-applicables aux subventions de l'Etat pour des projets d'investissement. 
+applicables aux subventions de l'Etat pour des projets d'investissement.
 
-Toutefois, les montants des subventions pour les opérations mentionnées au 5° de l'article D. 156-7 peuvent être établis sur
-la base de barèmes régionaux arrêtés par les préfets de région, dans les conditions prévues à l'article D. 156-10. 
+Toutefois, pour les plantations en plein, les montants des subventions pour les opérations de reboisement mentionnées au 1°
+et les opérations mentionnées au 2° de l'article D. 156-7 sont établis sur la base d'un barème national, sauf pour les
+opérations dont le coût, en raison de contraintes techniques ou d'enjeux environnementaux, est d'un montant significativement
+supérieur aux montants fixés par ce barème.
+
+Les montants des subventions pour les opérations mentionnées au 5° de l'article D. 156-7 peuvent être établis sur la base de
+barèmes régionaux arrêtés par les préfets de région, dans les conditions prévues à l'article D. 156-10.
 
 Pour les opérations prévues aux 1°, 2° et 3° de l'article D. 156-7, les subventions sont imputées sur les crédits du fonds
 stratégique de la forêt et du bois mis en œuvre par l'établissement mentionné à l'article L. 313-1 du code rural et de la
 pêche maritime ou, en Corse, par l'établissement mentionné à l'article L. 112-11 du même code.
+
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-1206 du 29 septembre 2020, ces dispositions sont applicables aux demandes de
+subventions en cours d'instruction à la date de sa publication.
 
 **Liens relatifs à cet article**
 
@@ -25649,12 +25659,12 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1282 du 13 octobre 2015 - art. 3
+  - Décret n°2020-1206 du 29 septembre 2020 - art. 1
 
 _Cite_:
 
-  - Code rural - art. L112-11 (V)
-  - Code rural - art. L313-1 (V)
+  - Code rural - art. L112-11
+  - Code rural - art. L313-1
 
 _Cité par_:
 
@@ -25663,7 +25673,8 @@ _Cité par_:
 
 ###### Article D156-10
 
-Les barèmes prévus à l'article D. 156-9 sont établis par le préfet de région conformément aux principes suivants :
+I.-Les barèmes régionaux prévus à l'article D. 156-9 sont établis par arrêté du préfet de région, après avis de la commission
+régionale de la forêt et du bois, conformément aux principes suivants :
 
 1° Catégories de travaux autorisés sur barème :
 
@@ -25716,6 +25727,23 @@ Un seul niveau de barème est autorisé.
 
 Une seule option est possible : maîtrise d'œuvre.
 
+II.-Le barème national prévu au deuxième alinéa de l'article D. 156-9 est établi par arrêté du ministre chargé de la forêt,
+après avis du comité de gouvernance du Fonds stratégique de la forêt et du bois, conformément aux principes suivants :
+
+1° Le barème fixe la liste des catégories de travaux et prestations associées autorisées, y compris optionnelles, ainsi que
+les essences auxquelles ils s'appliquent ;
+
+2° Le barème précise, par zone territoriale, le niveau des coûts afférents à ces travaux, achats de fournitures et
+prestations associées.
+
+Le barème peut être décliné par tranche de surface de chantiers forestiers pour chacune des catégories de travaux autorisés,
+essences et zones territoriales sur lesquelles il s'applique.
+
+**Nota:**
+
+Conformément à l’article 3 du décret n° 2020-1206 du 29 septembre 2020, ces dispositions sont applicables aux demandes de
+subventions en cours d'instruction à la date de sa publication.
+
 **Liens relatifs à cet article**
 
 _Anciens textes_:
@@ -25728,7 +25756,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Décret n°2015-1282 du 13 octobre 2015 - art. 4
+  - Décret n°2020-1206 du 29 septembre 2020 - art. 2
 
 _Cité par_:
 
