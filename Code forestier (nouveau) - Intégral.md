@@ -1,5 +1,5 @@
 # Code forestier (nouveau)  
-Version Consolidée au 2019-01-01
+Version Consolidée au 2022-01-01
 ## Contenu: 
   - [Partie législative (art. L111-1 à L378-1)](#1)
     - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. L111-1 à L179-4)](#2)
@@ -183,351 +183,350 @@ Version Consolidée au 2019-01-01
           - [Section 2 : Droits et obligations résultant  des plans simples de gestion (art. L312-4 à L312-8)](#180)
           - [Section 3 : Régime d'autorisation administrative (art. L312-9 à L312-10)](#181)
           - [Section 4 : Coupes illicites et coupes abusives (art. L312-11 à L312-12)](#182)
-        - [Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles (art. L313-1 à L313-3)](#183)
+        - [Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles (art. L313-1 à L313-2)](#183)
           - [Section 1 : Règlements types de gestion (art. L313-1 à L313-2)](#184)
-          - [Section 2 : Code des bonnes pratiques sylvicoles (art. L313-3)](#185)
-        - [Chapitre IV : Droits d'usage (art. L314-1 à L314-3)](#186)
-        - [Chapitre V : Modalités contractuelles de gestion (art. L315-1 à L315-2)](#187)
-          - [Section 1 : Gestionnaires forestiers professionnels (art. L315-1)](#188)
-          - [Section 2 : Gestion contractuelle  par l'Office national des forêts (art. L315-2)](#189)
-      - [TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS (art. L321-1 à L322-1)](#190)
-        - [Chapitre Ier : Centre national de la propriété forestière (art. L321-1 à L321-15)](#191)
-          - [Section 1 : Centre national (art. L321-1 à L321-4)](#192)
-            - [Sous-section 1 : Missions (art. L321-1)](#193)
-            - [Sous-section 2 : Conseil d'administration (art. L321-2)](#194)
-            - [Sous-section 3 : Personnel (art. L321-3 à L321-4)](#195)
-          - [Section 2 : Centres régionaux (art. L321-5 à L321-12)](#196)
-            - [Sous-section 1 : Missions (art. L321-5 à L321-6)](#197)
-            - [Sous-section 2 : Composition du conseil  et élection des conseillers (art. L321-7 à L321-12)](#198)
-          - [Section 3 : Dispositions financières communes au centre national  et aux centres régionaux de la propriété forestière (art. L321-13 à L321-14)](#199)
-          - [Section 4 : Application (art. L321-15)](#200)
-        - [Chapitre II : Rôle des chambres d'agriculture  en matière forestière (art. L322-1)](#201)
-      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. L331-1 à L332-8)](#202)
-        - [Chapitre Ier : Regroupement de la propriété (art. L331-1 à L331-24)](#203)
-          - [Section 1 : Groupements forestiers (art. L331-1 à L331-7)](#204)
-          - [Section 2 : Transformation d'une indivision  en groupement forestier (art. L331-8 à L331-15)](#205)
-          - [Section 3 : Groupements fonciers ruraux (art. L331-16)](#206)
-          - [Section 4 : Aménagement foncier (art. L331-17 à L331-18)](#207)
-          - [Section 5 : Droit de préférence des propriétaires de terrains boisés (art. L331-19 à L331-21)](#208)
-          - [Section 6 : Prérogatives des communes et de l'Etat (art. L331-22 à L331-24)](#209)
-        - [Chapitre II : Regroupement pour la gestion (art. L332-1 à L332-8)](#210)
-          - [Section 1 : Association syndicale de gestion forestière (art. L332-1 à L332-4)](#211)
-          - [Section 2 : Protection des peuplements forestiers  contre les dégâts du gibier (art. L332-5)](#212)
-          - [Section 3 : Organismes de gestion  et d'exploitation forestière en commun (art. L332-6)](#213)
-          - [Section 4 : Le groupement d'intérêt économique et environnemental forestier (art. L332-7 à L332-8)](#214)
-      - [TITRE IV : DÉFRICHEMENTS (art. L341-1 à L342-1)](#215)
-        - [Chapitre Ier : Régime d'autorisation préalable (art. L341-1 à L341-10)](#216)
-        - [Chapitre II : Exemptions (art. L342-1)](#217)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. L351-1 à L352-6)](#218)
-        - [Chapitre Ier : Dispositions générales (art. L351-1 à L351-2)](#219)
-        - [Chapitre II : Compte d'investissement forestier et d'assurance (art. L352-1 à L352-6)](#220)
-      - [TITRE VI : DISPOSITIONS PÉNALES (art. L361-1 à L363-5)](#221)
-        - [Chapitre Ier : Surveillance (art. L361-1 à L361-2)](#222)
-        - [Chapitre II : Infractions aux règles de gestion (art. L362-1 à L362-4)](#223)
-          - [Section 1 : Infractions aux règles de coupe  et de repeuplement (art. L362-1 à L362-3)](#224)
-          - [Section 2 : Infraction en matière de marquage (art. L362-4)](#225)
-        - [Chapitre III : Infractions aux règles de défrichement (art. L363-1 à L363-5)](#226)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. L371-1 à L378-1)](#227)
-        - [Chapitre Ier : Guadeloupe (art. L371-1)](#228)
-        - [Chapitre II : Guyane (art. L372-1 à L372-4)](#229)
-        - [Chapitre III : Martinique (art. L373-1)](#230)
-        - [Chapitre IV : La Réunion (art. L374-1 à L374-10)](#231)
-          - [Section 1 : Défrichement (art. L374-1 à L374-6)](#232)
-          - [Section 2 : Végétations spécifiques à La Réunion (art. L374-7 à L374-8)](#233)
-          - [Section 3 : Dispositions pénales (art. L374-9)](#234)
-          - [Section 4 : Missions assignées au Centre national de la propriété forestière (art. L374-10)](#235)
-        - [Chapitre V : Mayotte (art. L375-1 à L375-9)](#236)
-          - [Section 1 : Généralités (art. L375-1 à L375-2)](#237)
-          - [Section 2 : Défrichement (art. L375-3 à L375-8)](#238)
-          - [Section 3 : Dispositions pénales (art. L375-9)](#239)
-        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. L378-1)](#240)
-  - [Partie réglementaire (art. D113-1 à Annexe II)](#241)
-    - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. D113-1 à D178-1)](#242)
-      - [TITRE Ier : CHAMP D'APPLICATION, PRINCIPES GÉNÉRAUX  ET INSTITUTIONS (art. D113-1 à R113-16)](#243)
-        - [Chapitre III : Institutions (art. D113-1 à R113-16)](#244)
-          - [Section 1 : Institutions nationales (art. D113-1 à R113-10)](#245)
-            - [Sous-section 1 : Conseil supérieur de la forêt et du bois (art. D113-1 à D113-5)](#246)
-            - [Sous-section 2 : Comité de gouvernance du fonds stratégique de la forêt et du bois (art. D113-7 à D113-9)](#247)
-            - [Sous-section 3 : Dispositions communes (art. R113-10)](#248)
-          - [Section 2 : Commissions régionales de la forêt et du bois (art. D113-11 à R113-16)](#249)
-            - [Sous-section 1 (art. D113-11 à R113-16)](#250)
-      - [TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE (art. D121-1 à D125-1)](#251)
-        - [Chapitre Ier : Orientations générales (art. D121-1 à D121-3)](#252)
-        - [Chapitre II : Instruments et mise en œuvre  de la politique forestière (art. D122-1 à R122-25)](#253)
-          - [Section 1 : Documents d'orientation et de gestion (art. D122-1 à D122-12)](#254)
-            - [Sous-section 1 : Programme régional de la forêt et du bois (art. D122-1 à D122-1-2)](#255)
-            - [Sous-section 2 : Directives régionales d'aménagement (art. D122-2 à D122-5)](#256)
-            - [Sous-section 3 : Schémas régionaux d'aménagement (art. D122-6 à D122-7)](#257)
-            - [Sous-section 4 : Schémas régionaux de gestion sylvicole des bois  et forêts des particuliers (art. D122-8 à D122-12)](#258)
-          - [Section 2 : Coordination des procédures administratives (art. D122-13 à R122-25)](#259)
-            - [Sous-section 1 : Elaboration et approbation des annexes  aux directives ou aux schémas régionaux (art. D122-13 à R122-19)](#260)
-            - [Sous-section 2 : Approbation ou agrément d'un document de gestion  au titre de la coordination des procédures (art. D122-22 à R122-24)](#261)
-            - [Sous-section 3 : Reconstitution après coupe (art. R122-25)](#262)
-        - [Chapitre III : Stratégies locales de développement forestier (art. D123-1 à D123-2)](#263)
-        - [Chapitre IV : Gestion durable (art. R124-1 à R124-2)](#264)
-        - [Chapitre V : Protection contre les atteintes à la propriété foncière forestière (art. D125-1)](#265)
-      - [TITRE III : DÉFENSE ET LUTTE  CONTRE LES INCENDIES DE FORÊTS (art. D131-1 à R134-6)](#266)
-        - [Chapitre Ier : Mesures applicables sur l'ensemble du territoire national (art. D131-1 à R131-17)](#267)
-          - [Section 1 : Dispositions générales (art. D131-1)](#268)
-          - [Section 2 : Actions de prévention (art. R131-2 à R131-12)](#269)
-          - [Section 3 : Débroussaillement (art. R131-13 à R131-16)](#270)
-          - [Section 4 : Plan de prévention des risques naturels prévisibles  en matière d'incendies de forêt (art. R131-17)](#271)
-        - [Chapitre II : Mesures applicables aux bois et forêts classés  "à risque d'incendie" (art. R132-1 à R132-9)](#272)
-          - [Section 1 : Procédure de classement (art. R132-1 à R132-5)](#273)
-          - [Section 2 : Travaux proposés par les associations syndicales libres  ou autorisées (art. R132-6 à R132-9)](#274)
-        - [Chapitre III : Mesures applicables aux territoires réputés  particulièrement exposés au risque d'incendie (art. R133-1 à R133-19)](#275)
-          - [Section 1 : Plan départemental ou interdépartemental  de protection des forêts contre les incendies (art. R133-1 à R133-11)](#276)
-            - [Sous-section 1 : Contenu du plan de protection des forêts  contre les incendies (art. R133-1 à R133-5)](#277)
-            - [Sous-section 2 : Modalités d'élaboration et de révision  du plan de protection des forêts contre les incendies (art. R133-6 à R133-11)](#278)
-          - [Section 2 : Travaux déclarés d'utilité publique (art. R133-12 à R133-17)](#279)
-          - [Section 3 : Coupures agricoles (art. R133-18 à R133-19)](#280)
-        - [Chapitre IV : Servitudes de voirie et obligations de débroussaillement communes aux territoires, bois et forêts exposés aux risques d'incendie (art. R134-1 à R134-6)](#281)
-          - [Section 1 : Dispositions générales (art. R134-1 à R134-3)](#282)
-          - [Section 2 : Débroussaillement (art. R134-4 à R134-6)](#283)
-      - [TITRE IV : RÔLE DE PROTECTION DES FORÊTS (art. R141-1 à R143-9)](#284)
-        - [Chapitre Ier : Forêts de protection (art. R141-1 à R141-42)](#285)
-          - [Section 1 : Classement des massifs (art. R141-1 à R141-11)](#286)
-          - [Section 2 : Régime spécial des forêts de protection (art. R141-12 à R141-38-9)](#287)
-            - [Sous-section 1 : Dispositions applicables à toutes les forêts de protection (art. R141-12 à R141-18)](#288)
-            - [Sous-section 2 : Dispositions applicables aux forêts de protection  ne relevant pas du régime forestier (art. R141-19 à R141-29-1)](#289)
-            - [Sous-section 3 : Dispositions relatives aux travaux de recherche et aux captages d'eau  destinée à la consommation humaine dans les forêts de protection (art. R141-30 à R141-38)](#290)
-              - [Paragraphe 1 : Dispositions communes (art. R141-30 à R141-32)](#291)
-              - [Paragraphe 2 : Travaux nécessaires à la recherche  de la ressource en eau dans les forêts de protection (art. R141-33)](#292)
-              - [Paragraphe 3 : Travaux et ouvrages nécessaires au captage d'eau  dans les forêts de protection (art. R141-34 à R141-38)](#293)
-            - [Sous-section 4 : Dispositions relatives aux fouilles et sondages archéologiques dans les forêts de protection (art. R141-38-1 à R141-38-4)](#294)
-            - [Sous-section 5 : Dispositions relatives à la recherche ou à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection. (art. R141-38-5 à R141-38-9)](#295)
-              - [Paragraphe 1 : Dispositions communes (art. R141-38-5)](#296)
-              - [Paragraphe 2 : Travaux nécessaires à la recherche des gisements d'intérêt national de gypse dans les forêts de protection (art. R141-38-6 à R141-38-7)](#297)
-              - [Paragraphe 3 : Travaux et ouvrages nécessaires à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection (art. R141-38-8 à R141-38-9)](#298)
-          - [Section 3 : Indemnités et acquisitions par l'Etat (art. R141-39 à R141-42)](#299)
-        - [Chapitre II : Conservation et restauration des forêts en montagne (art. R142-1 à R142-30)](#300)
-          - [Section 1 : Mise en défens (art. R142-1 à R142-13)](#301)
-          - [Section 2 : Réglementation des pâturages communaux en montagne (art. R142-14 à R142-16)](#302)
-          - [Section 3 : Mise en valeur des terrains en montagne (art. D142-17 à D142-20)](#303)
-          - [Section 4 : Restauration des terrains en montagne (art. R142-21 à R142-30)](#304)
-        - [Chapitre III : Fixation des dunes (art. R143-1 à R143-9)](#305)
-          - [Section 1 : Dispositions générales (art. R143-1 à R143-4)](#306)
-          - [Section 2 : Dispositions spéciales aux dunes du département  du Pas-de-Calais (art. R143-5 à R143-9)](#307)
-      - [TITRE V : MISE EN VALEUR DES FORÊTS (art. R151-1 à D156-14)](#308)
-        - [Chapitre Ier : Inventaire forestier national (art. R151-1)](#309)
-        - [Chapitre III : Commercialisation des matériels forestiers  de reproduction (art. D153-1 à R153-25)](#310)
-          - [Section 1 : Champ d'application (art. D153-1 à D153-3)](#311)
-          - [Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base (art. R153-4 à R153-20)](#312)
-            - [Sous-section 1 : Admission des matériels de base (art. R153-4 à R153-8)](#313)
-            - [Sous-section 2 : Obligations incombant aux entreprises de commercialisation  des matériels forestiers de reproduction (art. R153-9 à R153-13)](#314)
-            - [Sous-section 3 : Commercialisation des matériels forestiers de reproduction (art. R153-14 à R153-20)](#315)
-          - [Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers (art. R153-21 à R153-23)](#316)
-          - [Section 4 : Surveillance et police administrative (art. R153-24 à R153-25)](#317)
-        - [Chapitre IV : Règles applicables au travail en milieu forestier (art. R154-1)](#318)
-        - [Chapitre V : Valorisation des produits de la sylviculture (art. D155-1)](#319)
-        - [Chapitre VI : Dispositions économiques et financières (art. R156-1 à D156-14)](#320)
-          - [Section 1 : Créances du Fonds forestier national (art. R156-1 à R156-5)](#321)
-          - [Section 2 : Aides publiques en matière forestière (art. D156-6 à D156-11)](#322)
-          - [Section 3 : Fonds stratégique de la forêt et du bois (art. D156-12 à D156-14)](#323)
-      - [TITRE VI : DISPOSITIONS PÉNALES (art. R161-1 à R163-16)](#324)
-        - [Chapitre Ier : Règles de procédure pénale  applicables aux infractions forestières (art. R161-1 à R161-10)](#325)
-          - [Section 1 : Recherche et constatations des infractions (art. R161-1 à R161-7)](#326)
-            - [Sous-section 1 : Agents habilités à constater les infractions (art. R161-1 à R161-4)](#327)
-            - [Sous-section 2 : Assermentation et valeur probante des procès-verbaux (art. R161-5 à R161-6)](#328)
-            - [Sous-section 3 : Transmission des procédures (art. R161-7)](#329)
-          - [Section 2 : Saisie conservatoire et cautionnement (art. R161-8)](#330)
-          - [Section 3 : Poursuites et alternatives aux poursuites (art. R161-9 à R161-10)](#331)
-        - [Chapitre II : Dispositions relatives aux peines (art. R162-1 à R162-4)](#332)
-        - [Chapitre III : Infractions communes à tous les bois et forêts (art. R163-1 à R163-16)](#333)
-          - [Section 1 : Infractions relatives aux coupes (art. R163-1)](#334)
-          - [Section 2 : Défense des forêts contre l'incendie (art. R163-2 à R163-3)](#335)
-          - [Section 3 : Infractions commises en forêt d'autrui (art. R163-4 à R163-9)](#336)
-          - [Section 4 : Rôle de protection des forêts (art. R163-10 à R163-12)](#337)
-          - [Section 5 : Protection des dunes (art. R163-13 à R163-15)](#338)
-          - [Section 6 : Commercialisation de matériels forestiers de reproduction (art. R163-16)](#339)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. D171-1-1 à D178-1)](#340)
-        - [Chapitre Ier : Guadeloupe (art. D171-1-1 à R171-2)](#341)
-        - [Chapitre II : Guyane (art. D172-2 à R172-8)](#342)
-        - [Chapitre III : Martinique (art. D173-1-1 à R173-3)](#343)
-        - [Chapitre IV : La Réunion (art. D174-1-1 à R174-11)](#344)
-          - [Section 1 : Dispositions générales (art. D174-1-1 à R174-7)](#345)
-          - [Section 2 : Forêts de protection (art. R174-8 à R174-9)](#346)
-          - [Section 3 : Dispositions pénales (art. R174-10 à R174-11)](#347)
-        - [Chapitre V : Mayotte (art. D175-1 à D175-9)](#348)
-          - [Section 1 : Champ d'application (art. D175-1)](#349)
-          - [Section 2 : Dispositions générales (art. D175-2)](#350)
-          - [Section 3 : Institutions (art. D175-3 à R175-6)](#351)
-          - [Section 4 : Rôle des forêts de protection (art. R175-7 à R175-8)](#352)
-          - [Section 5 : Commercialisation des matériels forestiers de reproduction (art. D175-9)](#353)
-        - [Chapitre VI : Saint-Barthélemy (art. R176-1 à R176-2)](#354)
-        - [Chapitre VII : Saint-Martin (art. D177-3 à R177-2)](#355)
-        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. D178-1)](#356)
-    - [LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER (art. D212-1 à R277-1)](#357)
-      - [TITRE Ier : RÉGIME FORESTIER (art. D212-1 à R215-3)](#358)
-        - [Chapitre II : Principes d'aménagement (art. D212-1 à R212-8)](#359)
-          - [Section 1 : Document d'aménagement (art. D212-1 à R212-4)](#360)
-          - [Section 2 : Règlement type de gestion (art. D212-9 à R212-8)](#361)
-        - [Chapitre III : Bois et forêts de l'Etat (art. R213-1 à R213-75)](#362)
-          - [Section 1 : Acquisition, affectation et aliénation (art. R213-1 à R213-2)](#363)
-          - [Section 2 : Délimitation et bornage (art. D213-4 à R213-18)](#364)
-            - [Sous-section 1 : Délimitation générale (art. D213-4 à R213-6)](#365)
-            - [Sous-section 2 : Délimitation partielle (art. R213-7)](#366)
-            - [Sous-section 3 : Dispositions communes (art. D213-11 à R213-14)](#367)
-            - [Sous-section 4 : Bornage (art. R213-15 à R213-18)](#368)
-          - [Section 3 : Aménagement et assiette des coupes (art. R213-19 à R213-23)](#369)
-          - [Section 4 : Ventes des coupes et produits des coupes (art. R213-24 à R213-38)](#370)
-            - [Sous-section 1 : Procédure et dispositions communes (art. R213-24 à R213-30)](#371)
-            - [Sous-section 2 : Adjudication (art. R213-31 à R213-34)](#372)
-            - [Sous-section 3 : Appel d'offres (art. R213-35 à R213-37)](#373)
-            - [Sous-section 4 : Ventes de gré à gré (art. R213-38)](#374)
-          - [Section 5 : Exploitation des coupes (art. R213-39)](#375)
-          - [Section 6 : Récolements (art. R213-40)](#376)
-          - [Section 7 : Pâturage, chasse et produits accessoires (art. R213-41 à R213-69)](#377)
-            - [Sous-section 1 : Pâturage (art. R213-41 à R213-44)](#378)
-            - [Sous-section 2 : Exploitation de la chasse (art. R213-45 à R213-59)](#379)
-              - [Paragraphe 1 : Dispositions communes (art. R213-45 à R213-50)](#380)
-              - [Paragraphe 2 : Locations de gré à gré (art. R213-51 à R213-54)](#381)
-              - [Paragraphe 3 : Adjudications (art. R213-55 à R213-56)](#382)
-              - [Paragraphe 4 : Concessions de licences (art. R213-57 à R213-59)](#383)
-            - [Sous-section 3 : Produits accessoires (art. R213-69)](#384)
-          - [Section 8 : Extraction et dépôt de matériaux pour les travaux publics (art. R213-70 à R213-75)](#385)
-        - [Chapitre IV : Bois et forêts des collectivités territoriales  et de certaines personnes morales (art. D214-4 à R214-31)](#386)
-          - [Section 1 : Dispositions générales (art. D214-4 à R214-9)](#387)
-          - [Section 2 : Délimitation et bornage (art. R214-10 à R214-14)](#388)
-          - [Section 3 : Aménagements (art. D214-15 à R214-20)](#389)
-          - [Section 4 : Ventes des coupes et produits des coupes (art. D214-22 à R214-27)](#390)
-          - [Section 5 : Pâturage, produits accessoires et droits de jouissance collectifs (art. R214-28 à R214-29)](#391)
-          - [Section 6 : Défrichement (art. R*214-30-1 à R214-31)](#392)
-        - [Chapitre V : Bois et forêts indivis relevant du régime forestier (art. R215-1 à R215-3)](#393)
-      - [TITRE II : OFFICE NATIONAL DES FORÊTS (art. D221-1 à D224-1)](#394)
-        - [Chapitre Ier : Missions (art. D221-1 à D221-6)](#395)
-        - [Chapitre II : Organisation (art. D222-1 à D222-19)](#396)
-          - [Section 1 : Conseil d'administration (art. D222-1 à D222-10)](#397)
-            - [Sous-section 1 : Composition (art. D222-1 à D222-4)](#398)
-            - [Sous-section 2 : Compétences et règles de délibération (art. D222-5 à D222-10)](#399)
-          - [Section 2 : Directeur général (art. D222-11 à D222-14)](#400)
-          - [Section 3 : Personnels (art. D222-15 à D222-17)](#401)
-          - [Section 4 : Comité scientifique (art. D222-18)](#402)
-          - [Section 5 : Publicité des délibérations, décisions et avis (art. D222-19)](#403)
-        - [Chapitre III : Dispositions financières (art. D223-1 à D223-16)](#404)
-          - [Section 1 : Organisation financière et comptable (art. D223-1 à D223-7)](#405)
-          - [Section 2 : Etat prévisionnel des recettes et des dépenses (art. D223-8 à D223-10)](#406)
-          - [Section 3 : Recouvrement des produits (art. D223-11)](#407)
-          - [Section 4 : Paiement des charges (art. D223-13 à D223-14)](#408)
-          - [Section 5 : Contrôle (art. D223-15 à D223-16)](#409)
-        - [Chapitre IV : Frais de garderie et d'administration (art. D224-1)](#410)
-      - [TITRE III : GROUPEMENT DE GESTION EN COMMUN DES BOIS ET FORÊTS DES COLLECTIVITÉS TERRITORIALES ET DE CERTAINES PERSONNES MORALES (art. D231-1 à R233-21)](#411)
-        - [Chapitre Ier : Syndicat intercommunal de gestion forestière (art. D231-1 à D231-3)](#412)
-        - [Chapitre II : Syndicat mixte de gestion forestière (art. D232-1)](#413)
-        - [Chapitre III : Groupement syndical forestier (art. R233-1 à R233-21)](#414)
-          - [Section 1 : Dispositions générales (art. R233-1 à R233-2)](#415)
-          - [Section 2 : Constitution et statuts (art. R233-3 à R233-5)](#416)
-          - [Section 3 : Administration et fonctionnement (art. R233-6 à R233-16)](#417)
-          - [Section 4 : Extension et fusion (art. R233-17 à R233-19)](#418)
-          - [Section 5 : Cession des droits de participation (art. R233-20)](#419)
-          - [Section 6 : Dissolution (art. R233-21)](#420)
-      - [TITRE IV : DROITS D'USAGE ET D'AFFOUAGE (art. R241-1 à R243-3)](#421)
-        - [Chapitre Ier : Droits d'usage dans les bois et forêts de l'Etat (art. R241-1 à R241-31)](#422)
-          - [Section 1 : Affranchissement (art. R241-1 à R241-16)](#423)
-            - [Sous-section 1 : Procédure (art. R241-1 à R241-6)](#424)
-            - [Sous-section 2 : Evaluation (art. R241-7 à R241-16)](#425)
-          - [Section 2 : Exercice des droits de pâturage, panage et glandée (art. R241-17 à R241-26)](#426)
-          - [Section 3 : Exercice des droits d'usage au bois (art. R241-27 à R241-30)](#427)
-          - [Section 4 : Suspension des droits d'usage (art. D241-32 à R241-31)](#428)
-        - [Chapitre II : Droits d'usage dans les bois et forêts des collectivités  territoriales et de certaines personnes morales (art. R242-1 à R242-5)](#429)
-        - [Chapitre III : Coupes délivrées pour l'affouage (art. R243-1 à R243-3)](#430)
-      - [TITRE V : FINANCEMENT DES ACTIONS  DES COMMUNES FORESTIÈRES (art. D250-1 à D250-5)](#431)
-      - [TITRE VI : DISPOSITIONS PÉNALES RELATIVES AUX BOIS  ET FORÊTS RELEVANT DU RÉGIME FORESTIER (art. R261-1 à R261-17)](#432)
-        - [Chapitre Ier : Infractions (art. R261-1 à R261-17)](#433)
-          - [Section 1 : Arrêtés d'aménagement (art. R261-1)](#434)
-          - [Section 2 : Règles de coupes, de ventes de coupes  ou produits de coupes du domaine de l'Etat (art. R261-2 à R261-8)](#435)
-          - [Section 3 : Droits d'usage et d'affouage (art. R261-9 à R261-17)](#436)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R271-1 à R277-1)](#437)
-        - [Chapitre Ier : Guadeloupe (art. R271-1)](#438)
-        - [Chapitre II : Guyane (art. R272-1 à R272-12)](#439)
-          - [Section 1 : Dispositions générales (art. R272-1)](#440)
-          - [Section 2 : Mise en œuvre du régime forestier (art. D272-5 à R272-9)](#441)
-          - [Section 3 : Ventes des coupes et produits des coupes (art. R272-10)](#442)
-          - [Section 4 : Exercice des droits d'usage (art. R272-11 à R272-12)](#443)
-        - [Chapitre III : Martinique (art. R273-1)](#444)
-        - [Chapitre IV : La Réunion (art. R274-1 à R274-5)](#445)
-          - [Section 1 : Dispositions générales (art. R274-1 à R274-4)](#446)
-          - [Section 2 : Dispositions pénales (art. R274-5)](#447)
-        - [Chapitre V : Mayotte (art. R275-1 à R275-15)](#448)
-          - [Section 1 : Régime forestier (art. R275-1 à R275-2)](#449)
-          - [Section 2 : Ventes de coupes et produits de coupes (art. R275-3 à R275-5-1)](#450)
-          - [Section 3 : Réglementation des scieries (art. R275-6 à R275-7)](#451)
-          - [Section 4 : Dispositions pénales (art. R275-8 à R275-15)](#452)
-        - [Chapitre VI : Saint-Barthélemy (art. R276-1)](#453)
-        - [Chapitre VII : Saint-Martin (art. R277-1)](#454)
-    - [LIVRE III : BOIS ET FORÊTS DES PARTICULIERS (art. R312-1 à R378-1)](#455)
-      - [TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS (art. R312-1 à R315-8)](#456)
-        - [Chapitre II : Plans simples de gestion et plan simple de gestion concerté (art. R312-1 à D312-22)](#457)
-          - [Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté (art. R312-1 à R312-10)](#458)
-            - [Sous-section 1 : Critères d'application (art. R312-1 à R312-3)](#459)
-            - [Sous-section 2 : Contenu (art. R312-4 à R312-5)](#460)
-            - [Sous-section 3 : Modalités d'agrément (art. R*312-7-1 à R312-10)](#461)
-          - [Section 2 : Droits et obligations  résultant des plans simples de gestion (art. R312-11 à R312-18)](#462)
-          - [Section 3 : Régime d'autorisation administrative (art. R312-19 à R312-21-1)](#463)
-          - [Section 4 : Coupes illicites et coupes abusives (art. D312-22)](#464)
-        - [Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles (art. D313-1 à D313-11)](#465)
-          - [Section 1 : Règlements types de gestion (art. D313-1 à D313-7)](#466)
-          - [Section 2 : Codes des bonnes pratiques sylvicoles (art. D313-8 à D313-11)](#467)
-        - [Chapitre IV : Droits d'usage (art. D314-2 à R314-1)](#468)
-        - [Chapitre V : Modalités contractuelles de gestion (art. D314-3 à R315-8)](#469)
-          - [Section 1 : Gestionnaires forestiers professionnels (art. D314-3 à R314-6-1)](#470)
-          - [Section 2 : Gestion contractuelle par l'Office national des forêts (art. D315-1 à R315-8)](#471)
-      - [TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE  EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS (art. R321-1 à R321-85)](#472)
-        - [Chapitre Ier : Centre national de la propriété forestière (art. R321-1 à R321-85)](#473)
-          - [Section 1 : Centre national (art. R321-1 à R321-41)](#474)
-            - [Sous-section 1 : Dispositions générales (art. R321-1 à R321-3)](#475)
-            - [Sous-section 2 : Conseil d'administration (art. R321-4 à R321-13)](#476)
-              - [Paragraphe 1 : Composition (art. R321-4 à R321-7)](#477)
-              - [Paragraphe 2 : Délibérations (art. R321-8 à R321-13)](#478)
-            - [Sous-section 3 : Président (art. R321-14 à R321-20)](#479)
-            - [Sous-section 4 : Direction (art. R321-21 à R321-22)](#480)
-            - [Sous-section 5 : Dispositions financières et comptables (art. R321-23 à R321-32)](#481)
-            - [Sous-section 6 : Service d'utilité forestière (art. R321-33 à R321-36)](#482)
-            - [Sous-section 7 : Tutelle (art. R321-37 à R321-41)](#483)
-          - [Section 2 : Centres régionaux (art. D321-42 à R321-85)](#484)
-            - [Sous-section 1 : Dispositions générales (art. D321-42)](#485)
-            - [Sous-section 2 : Conseils des centres régionaux (art. R321-43 à R321-82)](#486)
-              - [Paragraphe 1 : Composition du collège départemental des propriétaires forestiers (art. R321-43 à R321-45)](#487)
-              - [Paragraphe 2 : Etablissement de la liste électorale  du collège départemental des propriétaires forestiers (art. R321-46 à R321-51)](#488)
-              - [Paragraphe 3 : Modalités de l'élection  du collège départemental des propriétaires forestiers (art. R321-52 à R321-61)](#489)
-              - [Paragraphe 4 : Collège régional des organisations professionnelles (art. R321-62 à R321-70)](#490)
-              - [Paragraphe 5 : Dispositions communes et élections partielles (art. R321-71 à R321-76)](#491)
-              - [Paragraphe 6 : Représentant du personnel au conseil des centres régionaux (art. R321-77)](#492)
-              - [Paragraphe 7 : Compétences (art. R321-78 à R321-82)](#493)
-            - [Sous-section 3 : Direction (art. R321-83)](#494)
-            - [Sous-section 4 : Tutelle (art. R321-84 à R321-85)](#495)
-      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. R331-1 à R332-14-1)](#496)
-        - [Chapitre Ier : Regroupement de la propriété (art. R331-1 à R331-16)](#497)
-          - [Section 1 : Groupements forestiers (art. R331-1 à R331-3)](#498)
-          - [Section 2 : Transformation d'une indivision en groupement forestier (art. R331-4 à R331-16)](#499)
-        - [Chapitre II : Regroupement pour la gestion (art. D332-1 à R332-14-1)](#500)
-          - [Section 1 : Protection des peuplements forestiers  contre les dégâts du gibier (art. D332-1)](#501)
-          - [Section 2 : Organismes de gestion  et d'exploitation forestière en commun (art. D332-2 à D332-12)](#502)
-            - [Sous-section 1 : Conditions d'agrément (art. D332-2 à D332-8)](#503)
-            - [Sous-section 2 : Modalités de contrôle (art. D332-9 à D332-11)](#504)
-            - [Sous-section 3 : Retrait d'agrément (art. D332-12)](#505)
-          - [Section 3 : Le groupement d'intérêt économique et environnemental forestier (art. D332-14 à R332-14-1)](#506)
-      - [TITRE IV : DÉFRICHEMENTS (art. R341-1 à R341-9)](#507)
-        - [Chapitre Ier : Régime d'autorisation préalable (art. R341-1 à R341-9)](#508)
-          - [Section 1 : Demande (art. R341-1 à R341-3)](#509)
-          - [Section 2 : Instruction et décision (art. D341-7-1 à R341-7)](#510)
-          - [Section 3 : Suites données aux infractions constatées  en matière de défrichement (art. R341-8 à R341-9)](#511)
-      - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. D351-1 à D351-3)](#512)
-        - [Chapitre Ier : Dispositions générales (art. D351-1 à D351-3)](#513)
-      - [TITRE VI : DISPOSITIONS PÉNALES (art. R361-1 à R363-1)](#514)
-        - [Chapitre Ier : Surveillance (art. R361-1 à R361-2)](#515)
-        - [Chapitre II : Infractions aux règles de gestion (art. R362-1)](#516)
-        - [Chapitre III : Infractions aux règles de défrichement (art. R363-1)](#517)
-      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R371-1 à R378-1)](#518)
-        - [Chapitre Ier : Guadeloupe (art. R371-1)](#519)
-        - [Chapitre II : Guyane (art. R372-1 à R372-2)](#520)
-        - [Chapitre III : Martinique (art. R373-1)](#521)
-        - [Chapitre IV : La Réunion (art. R374-1 à R374-10)](#522)
-          - [Section 1 : Défrichement (art. R374-1 à R374-3-1)](#523)
-          - [Section 2 : Végétations spécifiques à La Réunion (art. R*374-6-1 à R374-10)](#524)
-        - [Chapitre V : Mayotte (art. R375-1 à R375-2)](#525)
-        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. R378-1)](#526)
-    - [Annexes (art. Annexe I à Annexe II)](#527)
+        - [Chapitre IV : Droits d'usage (art. L314-1 à L314-3)](#185)
+        - [Chapitre V : Modalités contractuelles de gestion (art. L315-1 à L315-2)](#186)
+          - [Section 1 : Gestionnaires forestiers professionnels (art. L315-1)](#187)
+          - [Section 2 : Gestion contractuelle  par l'Office national des forêts (art. L315-2)](#188)
+      - [TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS (art. L321-1 à L322-1)](#189)
+        - [Chapitre Ier : Centre national de la propriété forestière (art. L321-1 à L321-15)](#190)
+          - [Section 1 : Centre national (art. L321-1 à L321-4)](#191)
+            - [Sous-section 1 : Missions (art. L321-1)](#192)
+            - [Sous-section 2 : Conseil d'administration (art. L321-2)](#193)
+            - [Sous-section 3 : Personnel (art. L321-3 à L321-4)](#194)
+          - [Section 2 : Centres régionaux (art. L321-5 à L321-12)](#195)
+            - [Sous-section 1 : Missions (art. L321-5 à L321-6)](#196)
+            - [Sous-section 2 : Composition du conseil  et élection des conseillers (art. L321-7 à L321-12)](#197)
+          - [Section 3 : Dispositions financières communes au centre national  et aux centres régionaux de la propriété forestière (art. L321-13 à L321-14)](#198)
+          - [Section 4 : Application (art. L321-15)](#199)
+        - [Chapitre II : Rôle des chambres d'agriculture  en matière forestière (art. L322-1)](#200)
+      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. L331-1 à L332-8)](#201)
+        - [Chapitre Ier : Regroupement de la propriété (art. L331-1 à L331-24)](#202)
+          - [Section 1 : Groupements forestiers (art. L331-1 à L331-7)](#203)
+          - [Section 2 : Transformation d'une indivision  en groupement forestier (art. L331-8 à L331-15)](#204)
+          - [Section 3 : Groupements fonciers ruraux (art. L331-16)](#205)
+          - [Section 4 : Aménagement foncier (art. L331-17 à L331-18)](#206)
+          - [Section 5 : Droit de préférence des propriétaires de terrains boisés (art. L331-19 à L331-21)](#207)
+          - [Section 6 : Prérogatives des communes et de l'Etat (art. L331-22 à L331-24)](#208)
+        - [Chapitre II : Regroupement pour la gestion (art. L332-1 à L332-8)](#209)
+          - [Section 1 : Association syndicale de gestion forestière (art. L332-1 à L332-4)](#210)
+          - [Section 2 : Protection des peuplements forestiers  contre les dégâts du gibier (art. L332-5)](#211)
+          - [Section 3 : Organismes de gestion  et d'exploitation forestière en commun (art. L332-6)](#212)
+          - [Section 4 : Le groupement d'intérêt économique et environnemental forestier (art. L332-7 à L332-8)](#213)
+      - [TITRE IV : DÉFRICHEMENTS (art. L341-1 à L342-1)](#214)
+        - [Chapitre Ier : Régime d'autorisation préalable (art. L341-1 à L341-10)](#215)
+        - [Chapitre II : Exemptions (art. L342-1)](#216)
+      - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. L351-1 à L352-6)](#217)
+        - [Chapitre Ier : Dispositions générales (art. L351-1 à L351-2)](#218)
+        - [Chapitre II : Compte d'investissement forestier et d'assurance (art. L352-1 à L352-6)](#219)
+      - [TITRE VI : DISPOSITIONS PÉNALES (art. L361-1 à L363-5)](#220)
+        - [Chapitre Ier : Surveillance (art. L361-1 à L361-2)](#221)
+        - [Chapitre II : Infractions aux règles de gestion (art. L362-1 à L362-4)](#222)
+          - [Section 1 : Infractions aux règles de coupe  et de repeuplement (art. L362-1 à L362-3)](#223)
+          - [Section 2 : Infraction en matière de marquage (art. L362-4)](#224)
+        - [Chapitre III : Infractions aux règles de défrichement (art. L363-1 à L363-5)](#225)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. L371-1 à L378-1)](#226)
+        - [Chapitre Ier : Guadeloupe (art. L371-1)](#227)
+        - [Chapitre II : Guyane (art. L372-1 à L372-4)](#228)
+        - [Chapitre III : Martinique (art. L373-1)](#229)
+        - [Chapitre IV : La Réunion (art. L374-1 à L374-10)](#230)
+          - [Section 1 : Défrichement (art. L374-1 à L374-6)](#231)
+          - [Section 2 : Végétations spécifiques à La Réunion (art. L374-7 à L374-8)](#232)
+          - [Section 3 : Dispositions pénales (art. L374-9)](#233)
+          - [Section 4 : Missions assignées au Centre national de la propriété forestière (art. L374-10)](#234)
+        - [Chapitre V : Mayotte (art. L375-1 à L375-9)](#235)
+          - [Section 1 : Généralités (art. L375-1 à L375-2)](#236)
+          - [Section 2 : Défrichement (art. L375-3 à L375-8)](#237)
+          - [Section 3 : Dispositions pénales (art. L375-9)](#238)
+        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. L378-1)](#239)
+  - [Partie réglementaire (art. D113-1 à Annexe II)](#240)
+    - [LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS (art. D113-1 à D178-1)](#241)
+      - [TITRE Ier : CHAMP D'APPLICATION, PRINCIPES GÉNÉRAUX  ET INSTITUTIONS (art. D113-1 à R113-16)](#242)
+        - [Chapitre III : Institutions (art. D113-1 à R113-16)](#243)
+          - [Section 1 : Institutions nationales (art. D113-1 à R113-10)](#244)
+            - [Sous-section 1 : Conseil supérieur de la forêt et du bois (art. D113-1 à D113-5)](#245)
+            - [Sous-section 2 : Comité de gouvernance du fonds stratégique de la forêt et du bois (art. D113-7 à D113-9)](#246)
+            - [Sous-section 3 : Dispositions communes (art. R113-10)](#247)
+          - [Section 2 : Commissions régionales de la forêt et du bois (art. D113-11 à R113-16)](#248)
+            - [Sous-section 1 (art. D113-11 à R113-16)](#249)
+      - [TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE (art. D121-1 à D125-1)](#250)
+        - [Chapitre Ier : Orientations générales (art. D121-1 à D121-3)](#251)
+        - [Chapitre II : Instruments et mise en œuvre  de la politique forestière (art. D122-1 à R122-25)](#252)
+          - [Section 1 : Documents d'orientation et de gestion (art. D122-1 à D122-12)](#253)
+            - [Sous-section 1 : Programme régional de la forêt et du bois (art. D122-1 à D122-1-2)](#254)
+            - [Sous-section 2 : Directives régionales d'aménagement (art. D122-2 à D122-5)](#255)
+            - [Sous-section 3 : Schémas régionaux d'aménagement (art. D122-6 à D122-7)](#256)
+            - [Sous-section 4 : Schémas régionaux de gestion sylvicole des bois  et forêts des particuliers (art. D122-8 à D122-12)](#257)
+          - [Section 2 : Coordination des procédures administratives (art. D122-13 à R122-25)](#258)
+            - [Sous-section 1 : Elaboration et approbation des annexes  aux directives ou aux schémas régionaux (art. D122-13 à R122-19)](#259)
+            - [Sous-section 2 : Approbation ou agrément d'un document de gestion  au titre de la coordination des procédures (art. D122-22 à R122-24)](#260)
+            - [Sous-section 3 : Reconstitution après coupe (art. R122-25)](#261)
+        - [Chapitre III : Stratégies locales de développement forestier (art. D123-1 à D123-2)](#262)
+        - [Chapitre IV : Gestion durable (art. R124-1 à R124-2)](#263)
+        - [Chapitre V : Protection contre les atteintes à la propriété foncière forestière (art. D125-1)](#264)
+      - [TITRE III : DÉFENSE ET LUTTE  CONTRE LES INCENDIES DE FORÊTS (art. D131-1 à R134-6)](#265)
+        - [Chapitre Ier : Mesures applicables sur l'ensemble du territoire national (art. D131-1 à R131-17)](#266)
+          - [Section 1 : Dispositions générales (art. D131-1)](#267)
+          - [Section 2 : Actions de prévention (art. R131-2 à R131-12)](#268)
+          - [Section 3 : Débroussaillement (art. R131-13 à R131-16)](#269)
+          - [Section 4 : Plan de prévention des risques naturels prévisibles  en matière d'incendies de forêt (art. R131-17)](#270)
+        - [Chapitre II : Mesures applicables aux bois et forêts classés  "à risque d'incendie" (art. R132-1 à R132-9)](#271)
+          - [Section 1 : Procédure de classement (art. R132-1 à R132-5)](#272)
+          - [Section 2 : Travaux proposés par les associations syndicales libres  ou autorisées (art. R132-6 à R132-9)](#273)
+        - [Chapitre III : Mesures applicables aux territoires réputés  particulièrement exposés au risque d'incendie (art. R133-1 à R133-19)](#274)
+          - [Section 1 : Plan départemental ou interdépartemental  de protection des forêts contre les incendies (art. R133-1 à R133-11)](#275)
+            - [Sous-section 1 : Contenu du plan de protection des forêts  contre les incendies (art. R133-1 à R133-5)](#276)
+            - [Sous-section 2 : Modalités d'élaboration et de révision  du plan de protection des forêts contre les incendies (art. R133-6 à R133-11)](#277)
+          - [Section 2 : Travaux déclarés d'utilité publique (art. R133-12 à R133-17)](#278)
+          - [Section 3 : Coupures agricoles (art. R133-18 à R133-19)](#279)
+        - [Chapitre IV : Servitudes de voirie et obligations de débroussaillement communes aux territoires, bois et forêts exposés aux risques d'incendie (art. R134-1 à R134-6)](#280)
+          - [Section 1 : Dispositions générales (art. R134-1 à R134-3)](#281)
+          - [Section 2 : Débroussaillement (art. R134-4 à R134-6)](#282)
+      - [TITRE IV : RÔLE DE PROTECTION DES FORÊTS (art. R141-1 à R143-9)](#283)
+        - [Chapitre Ier : Forêts de protection (art. R141-1 à R141-42)](#284)
+          - [Section 1 : Classement des massifs (art. R141-1 à R141-11)](#285)
+          - [Section 2 : Régime spécial des forêts de protection (art. R141-12 à R141-38-9)](#286)
+            - [Sous-section 1 : Dispositions applicables à toutes les forêts de protection (art. R141-12 à R141-18)](#287)
+            - [Sous-section 2 : Dispositions applicables aux forêts de protection  ne relevant pas du régime forestier (art. R141-19 à R141-29-1)](#288)
+            - [Sous-section 3 : Dispositions relatives aux travaux de recherche et aux captages d'eau  destinée à la consommation humaine dans les forêts de protection (art. R141-30 à R141-38)](#289)
+              - [Paragraphe 1 : Dispositions communes (art. R141-30 à R141-32)](#290)
+              - [Paragraphe 2 : Travaux nécessaires à la recherche  de la ressource en eau dans les forêts de protection (art. R141-33)](#291)
+              - [Paragraphe 3 : Travaux et ouvrages nécessaires au captage d'eau  dans les forêts de protection (art. R141-34 à R141-38)](#292)
+            - [Sous-section 4 : Dispositions relatives aux fouilles et sondages archéologiques dans les forêts de protection (art. R141-38-1 à R141-38-4)](#293)
+            - [Sous-section 5 : Dispositions relatives à la recherche ou à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection. (art. R141-38-5 à R141-38-9)](#294)
+              - [Paragraphe 1 : Dispositions communes (art. R141-38-5)](#295)
+              - [Paragraphe 2 : Travaux nécessaires à la recherche des gisements d'intérêt national de gypse dans les forêts de protection (art. R141-38-6 à R141-38-7)](#296)
+              - [Paragraphe 3 : Travaux et ouvrages nécessaires à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection (art. R141-38-8 à R141-38-9)](#297)
+          - [Section 3 : Indemnités et acquisitions par l'Etat (art. R141-39 à R141-42)](#298)
+        - [Chapitre II : Conservation et restauration des forêts en montagne (art. R142-1 à R142-30)](#299)
+          - [Section 1 : Mise en défens (art. R142-1 à R142-13)](#300)
+          - [Section 2 : Réglementation des pâturages communaux en montagne (art. R142-14 à R142-16)](#301)
+          - [Section 3 : Mise en valeur des terrains en montagne (art. D142-17 à D142-20)](#302)
+          - [Section 4 : Restauration des terrains en montagne (art. R142-21 à R142-30)](#303)
+        - [Chapitre III : Fixation des dunes (art. R143-1 à R143-9)](#304)
+          - [Section 1 : Dispositions générales (art. R143-1 à R143-4)](#305)
+          - [Section 2 : Dispositions spéciales aux dunes du département  du Pas-de-Calais (art. R143-5 à R143-9)](#306)
+      - [TITRE V : MISE EN VALEUR DES FORÊTS (art. R151-1 à D156-14)](#307)
+        - [Chapitre Ier : Inventaire forestier national (art. R151-1)](#308)
+        - [Chapitre III : Commercialisation des matériels forestiers  de reproduction (art. D153-1 à R153-25)](#309)
+          - [Section 1 : Champ d'application (art. D153-1 à D153-3)](#310)
+          - [Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base (art. R153-4 à R153-20)](#311)
+            - [Sous-section 1 : Admission des matériels de base (art. R153-4 à R153-8)](#312)
+            - [Sous-section 2 : Obligations incombant aux entreprises de commercialisation  des matériels forestiers de reproduction (art. R153-9 à R153-13)](#313)
+            - [Sous-section 3 : Commercialisation des matériels forestiers de reproduction (art. R153-14 à R153-20)](#314)
+          - [Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers (art. R153-21 à R153-23)](#315)
+          - [Section 4 : Surveillance et police administrative (art. R153-24 à R153-25)](#316)
+        - [Chapitre IV : Règles applicables au travail en milieu forestier (art. R154-1)](#317)
+        - [Chapitre V : Valorisation des produits de la sylviculture (art. D155-1)](#318)
+        - [Chapitre VI : Dispositions économiques et financières (art. R156-1 à D156-14)](#319)
+          - [Section 1 : Créances du Fonds forestier national (art. R156-1 à R156-5)](#320)
+          - [Section 2 : Aides publiques en matière forestière (art. D156-6 à D156-11)](#321)
+          - [Section 3 : Fonds stratégique de la forêt et du bois (art. D156-12 à D156-14)](#322)
+      - [TITRE VI : DISPOSITIONS PÉNALES (art. R161-1 à R163-16)](#323)
+        - [Chapitre Ier : Règles de procédure pénale  applicables aux infractions forestières (art. R161-1 à R161-10)](#324)
+          - [Section 1 : Recherche et constatations des infractions (art. R161-1 à R161-7)](#325)
+            - [Sous-section 1 : Agents habilités à constater les infractions (art. R161-1 à R161-4)](#326)
+            - [Sous-section 2 : Assermentation et valeur probante des procès-verbaux (art. R161-5 à R161-6)](#327)
+            - [Sous-section 3 : Transmission des procédures (art. R161-7)](#328)
+          - [Section 2 : Saisie conservatoire et cautionnement (art. R161-8)](#329)
+          - [Section 3 : Poursuites et alternatives aux poursuites (art. R161-9 à R161-10)](#330)
+        - [Chapitre II : Dispositions relatives aux peines (art. R162-1 à R162-4)](#331)
+        - [Chapitre III : Infractions communes à tous les bois et forêts (art. R163-1 à R163-16)](#332)
+          - [Section 1 : Infractions relatives aux coupes (art. R163-1)](#333)
+          - [Section 2 : Défense des forêts contre l'incendie (art. R163-2 à R163-3)](#334)
+          - [Section 3 : Infractions commises en forêt d'autrui (art. R163-4 à R163-9)](#335)
+          - [Section 4 : Rôle de protection des forêts (art. R163-10 à R163-12)](#336)
+          - [Section 5 : Protection des dunes (art. R163-13 à R163-15)](#337)
+          - [Section 6 : Commercialisation de matériels forestiers de reproduction (art. R163-16)](#338)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. D171-1-1 à D178-1)](#339)
+        - [Chapitre Ier : Guadeloupe (art. D171-1-1 à R171-2)](#340)
+        - [Chapitre II : Guyane (art. D172-2 à R172-8)](#341)
+        - [Chapitre III : Martinique (art. D173-1-1 à R173-3)](#342)
+        - [Chapitre IV : La Réunion (art. D174-1-1 à R174-11)](#343)
+          - [Section 1 : Dispositions générales (art. D174-1-1 à R174-7)](#344)
+          - [Section 2 : Forêts de protection (art. R174-8 à R174-9)](#345)
+          - [Section 3 : Dispositions pénales (art. R174-10 à R174-11)](#346)
+        - [Chapitre V : Mayotte (art. D175-1 à D175-9)](#347)
+          - [Section 1 : Champ d'application (art. D175-1)](#348)
+          - [Section 2 : Dispositions générales (art. D175-2)](#349)
+          - [Section 3 : Institutions (art. D175-3 à R175-6)](#350)
+          - [Section 4 : Rôle des forêts de protection (art. R175-7 à R175-8)](#351)
+          - [Section 5 : Commercialisation des matériels forestiers de reproduction (art. D175-9)](#352)
+        - [Chapitre VI : Saint-Barthélemy (art. R176-1 à R176-2)](#353)
+        - [Chapitre VII : Saint-Martin (art. D177-3 à R177-2)](#354)
+        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. D178-1)](#355)
+    - [LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER (art. D212-1 à R277-1)](#356)
+      - [TITRE Ier : RÉGIME FORESTIER (art. D212-1 à R215-3)](#357)
+        - [Chapitre II : Principes d'aménagement (art. D212-1 à R212-8)](#358)
+          - [Section 1 : Document d'aménagement (art. D212-1 à R212-4)](#359)
+          - [Section 2 : Règlement type de gestion (art. D212-9 à R212-8)](#360)
+        - [Chapitre III : Bois et forêts de l'Etat (art. R213-1 à R213-75)](#361)
+          - [Section 1 : Acquisition, affectation et aliénation (art. R213-1 à R213-2)](#362)
+          - [Section 2 : Délimitation et bornage (art. D213-4 à R213-18)](#363)
+            - [Sous-section 1 : Délimitation générale (art. D213-4 à R213-6)](#364)
+            - [Sous-section 2 : Délimitation partielle (art. R213-7)](#365)
+            - [Sous-section 3 : Dispositions communes (art. D213-11 à R213-14)](#366)
+            - [Sous-section 4 : Bornage (art. R213-15 à R213-18)](#367)
+          - [Section 3 : Aménagement et assiette des coupes (art. R213-19 à R213-23)](#368)
+          - [Section 4 : Ventes des coupes et produits des coupes (art. R213-24 à R213-38)](#369)
+            - [Sous-section 1 : Procédure et dispositions communes (art. R213-24 à R213-30)](#370)
+            - [Sous-section 2 : Adjudication (art. R213-31 à R213-34)](#371)
+            - [Sous-section 3 : Appel d'offres (art. R213-35 à R213-37)](#372)
+            - [Sous-section 4 : Ventes de gré à gré (art. R213-38)](#373)
+          - [Section 5 : Exploitation des coupes (art. R213-39)](#374)
+          - [Section 6 : Récolements (art. R213-40)](#375)
+          - [Section 7 : Pâturage, chasse et produits accessoires (art. R213-41 à R213-69)](#376)
+            - [Sous-section 1 : Pâturage (art. R213-41 à R213-44)](#377)
+            - [Sous-section 2 : Exploitation de la chasse (art. R213-45 à R213-59)](#378)
+              - [Paragraphe 1 : Dispositions communes (art. R213-45 à R213-50)](#379)
+              - [Paragraphe 2 : Locations de gré à gré (art. R213-51 à R213-54)](#380)
+              - [Paragraphe 3 : Adjudications (art. R213-55 à R213-56)](#381)
+              - [Paragraphe 4 : Concessions de licences (art. R213-57 à R213-59)](#382)
+            - [Sous-section 3 : Produits accessoires (art. R213-69)](#383)
+          - [Section 8 : Extraction et dépôt de matériaux pour les travaux publics (art. R213-70 à R213-75)](#384)
+        - [Chapitre IV : Bois et forêts des collectivités territoriales  et de certaines personnes morales (art. D214-4 à R214-31)](#385)
+          - [Section 1 : Dispositions générales (art. D214-4 à R214-9)](#386)
+          - [Section 2 : Délimitation et bornage (art. R214-10 à R214-14)](#387)
+          - [Section 3 : Aménagements (art. D214-15 à R214-20)](#388)
+          - [Section 4 : Ventes des coupes et produits des coupes (art. D214-22 à R214-27)](#389)
+          - [Section 5 : Pâturage, produits accessoires et droits de jouissance collectifs (art. R214-28 à R214-29)](#390)
+          - [Section 6 : Défrichement (art. R*214-30-1 à R214-31)](#391)
+        - [Chapitre V : Bois et forêts indivis relevant du régime forestier (art. R215-1 à R215-3)](#392)
+      - [TITRE II : OFFICE NATIONAL DES FORÊTS (art. D221-1 à D224-1)](#393)
+        - [Chapitre Ier : Missions (art. D221-1 à D221-6)](#394)
+        - [Chapitre II : Organisation (art. D222-1 à D222-19)](#395)
+          - [Section 1 : Conseil d'administration (art. D222-1 à D222-10)](#396)
+            - [Sous-section 1 : Composition (art. D222-1 à D222-4)](#397)
+            - [Sous-section 2 : Compétences et règles de délibération (art. D222-5 à D222-10)](#398)
+          - [Section 2 : Directeur général (art. D222-11 à D222-14)](#399)
+          - [Section 3 : Personnels (art. D222-15 à D222-17)](#400)
+          - [Section 4 : Comité scientifique (art. D222-18)](#401)
+          - [Section 5 : Publicité des délibérations, décisions et avis (art. D222-19)](#402)
+        - [Chapitre III : Dispositions financières (art. D223-1 à D223-16)](#403)
+          - [Section 1 : Organisation financière et comptable (art. D223-1 à D223-7)](#404)
+          - [Section 2 : Etat prévisionnel des recettes et des dépenses (art. D223-8 à D223-10)](#405)
+          - [Section 3 : Recouvrement des produits (art. D223-11)](#406)
+          - [Section 4 : Paiement des charges (art. D223-13 à D223-14)](#407)
+          - [Section 5 : Contrôle (art. D223-15 à D223-16)](#408)
+        - [Chapitre IV : Frais de garderie et d'administration (art. D224-1)](#409)
+      - [TITRE III : GROUPEMENT DE GESTION EN COMMUN DES BOIS ET FORÊTS DES COLLECTIVITÉS TERRITORIALES ET DE CERTAINES PERSONNES MORALES (art. D231-1 à R233-21)](#410)
+        - [Chapitre Ier : Syndicat intercommunal de gestion forestière (art. D231-1 à D231-3)](#411)
+        - [Chapitre II : Syndicat mixte de gestion forestière (art. D232-1)](#412)
+        - [Chapitre III : Groupement syndical forestier (art. R233-1 à R233-21)](#413)
+          - [Section 1 : Dispositions générales (art. R233-1 à R233-2)](#414)
+          - [Section 2 : Constitution et statuts (art. R233-3 à R233-5)](#415)
+          - [Section 3 : Administration et fonctionnement (art. R233-6 à R233-16)](#416)
+          - [Section 4 : Extension et fusion (art. R233-17 à R233-19)](#417)
+          - [Section 5 : Cession des droits de participation (art. R233-20)](#418)
+          - [Section 6 : Dissolution (art. R233-21)](#419)
+      - [TITRE IV : DROITS D'USAGE ET D'AFFOUAGE (art. R241-1 à R243-3)](#420)
+        - [Chapitre Ier : Droits d'usage dans les bois et forêts de l'Etat (art. R241-1 à R241-31)](#421)
+          - [Section 1 : Affranchissement (art. R241-1 à R241-16)](#422)
+            - [Sous-section 1 : Procédure (art. R241-1 à R241-6)](#423)
+            - [Sous-section 2 : Evaluation (art. R241-7 à R241-16)](#424)
+          - [Section 2 : Exercice des droits de pâturage, panage et glandée (art. R241-17 à R241-26)](#425)
+          - [Section 3 : Exercice des droits d'usage au bois (art. R241-27 à R241-30)](#426)
+          - [Section 4 : Suspension des droits d'usage (art. D241-32 à R241-31)](#427)
+        - [Chapitre II : Droits d'usage dans les bois et forêts des collectivités  territoriales et de certaines personnes morales (art. R242-1 à R242-5)](#428)
+        - [Chapitre III : Coupes délivrées pour l'affouage (art. R243-1 à R243-3)](#429)
+      - [TITRE V : FINANCEMENT DES ACTIONS  DES COMMUNES FORESTIÈRES (art. D250-1 à D250-5)](#430)
+      - [TITRE VI : DISPOSITIONS PÉNALES RELATIVES AUX BOIS  ET FORÊTS RELEVANT DU RÉGIME FORESTIER (art. R261-1 à R261-17)](#431)
+        - [Chapitre Ier : Infractions (art. R261-1 à R261-17)](#432)
+          - [Section 1 : Arrêtés d'aménagement (art. R261-1)](#433)
+          - [Section 2 : Règles de coupes, de ventes de coupes  ou produits de coupes du domaine de l'Etat (art. R261-2 à R261-8)](#434)
+          - [Section 3 : Droits d'usage et d'affouage (art. R261-9 à R261-17)](#435)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R271-1 à R277-1)](#436)
+        - [Chapitre Ier : Guadeloupe (art. R271-1)](#437)
+        - [Chapitre II : Guyane (art. R272-1 à R272-12)](#438)
+          - [Section 1 : Dispositions générales (art. R272-1)](#439)
+          - [Section 2 : Mise en œuvre du régime forestier (art. D272-5 à R272-9)](#440)
+          - [Section 3 : Ventes des coupes et produits des coupes (art. R272-10)](#441)
+          - [Section 4 : Exercice des droits d'usage (art. R272-11 à R272-12)](#442)
+        - [Chapitre III : Martinique (art. R273-1)](#443)
+        - [Chapitre IV : La Réunion (art. R274-1 à R274-5)](#444)
+          - [Section 1 : Dispositions générales (art. R274-1 à R274-4)](#445)
+          - [Section 2 : Dispositions pénales (art. R274-5)](#446)
+        - [Chapitre V : Mayotte (art. R275-1 à R275-15)](#447)
+          - [Section 1 : Régime forestier (art. R275-1 à R275-2)](#448)
+          - [Section 2 : Ventes de coupes et produits de coupes (art. R275-3 à R275-5-1)](#449)
+          - [Section 3 : Réglementation des scieries (art. R275-6 à R275-7)](#450)
+          - [Section 4 : Dispositions pénales (art. R275-8 à R275-15)](#451)
+        - [Chapitre VI : Saint-Barthélemy (art. R276-1)](#452)
+        - [Chapitre VII : Saint-Martin (art. R277-1)](#453)
+    - [LIVRE III : BOIS ET FORÊTS DES PARTICULIERS (art. R312-1 à R378-1)](#454)
+      - [TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS (art. R312-1 à R315-8)](#455)
+        - [Chapitre II : Plans simples de gestion et plan simple de gestion concerté (art. R312-1 à D312-22)](#456)
+          - [Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté (art. R312-1 à R312-10)](#457)
+            - [Sous-section 1 : Critères d'application (art. R312-1 à R312-3)](#458)
+            - [Sous-section 2 : Contenu (art. R312-4 à R312-5)](#459)
+            - [Sous-section 3 : Modalités d'agrément (art. R*312-7-1 à R312-10)](#460)
+          - [Section 2 : Droits et obligations  résultant des plans simples de gestion (art. R312-11 à R312-18)](#461)
+          - [Section 3 : Régime d'autorisation administrative (art. R312-19 à R312-21-1)](#462)
+          - [Section 4 : Coupes illicites et coupes abusives (art. D312-22)](#463)
+        - [Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles (art. D313-1 à D313-11)](#464)
+          - [Section 1 : Règlements types de gestion (art. D313-1 à D313-7)](#465)
+          - [Section 2 : Codes des bonnes pratiques sylvicoles (art. D313-8 à D313-11)](#466)
+        - [Chapitre IV : Droits d'usage (art. D314-2 à R314-1)](#467)
+        - [Chapitre V : Modalités contractuelles de gestion (art. D314-3 à R315-8)](#468)
+          - [Section 1 : Gestionnaires forestiers professionnels (art. D314-3 à R314-6-1)](#469)
+          - [Section 2 : Gestion contractuelle par l'Office national des forêts (art. D315-1 à R315-8)](#470)
+      - [TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE  EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS (art. R321-1 à R321-85)](#471)
+        - [Chapitre Ier : Centre national de la propriété forestière (art. R321-1 à R321-85)](#472)
+          - [Section 1 : Centre national (art. R321-1 à R321-41)](#473)
+            - [Sous-section 1 : Dispositions générales (art. R321-1 à R321-3)](#474)
+            - [Sous-section 2 : Conseil d'administration (art. R321-4 à R321-13)](#475)
+              - [Paragraphe 1 : Composition (art. R321-4 à R321-7)](#476)
+              - [Paragraphe 2 : Délibérations (art. R321-8 à R321-13)](#477)
+            - [Sous-section 3 : Président (art. R321-14 à R321-20)](#478)
+            - [Sous-section 4 : Direction (art. R321-21 à R321-22)](#479)
+            - [Sous-section 5 : Dispositions financières et comptables (art. R321-23 à R321-32)](#480)
+            - [Sous-section 6 : Service d'utilité forestière (art. R321-33 à R321-36)](#481)
+            - [Sous-section 7 : Tutelle (art. R321-37 à R321-41)](#482)
+          - [Section 2 : Centres régionaux (art. D321-42 à R321-85)](#483)
+            - [Sous-section 1 : Dispositions générales (art. D321-42)](#484)
+            - [Sous-section 2 : Conseils des centres régionaux (art. R321-43 à R321-82)](#485)
+              - [Paragraphe 1 : Composition du collège départemental des propriétaires forestiers (art. R321-43 à R321-45)](#486)
+              - [Paragraphe 2 : Etablissement de la liste électorale  du collège départemental des propriétaires forestiers (art. R321-46 à R321-51)](#487)
+              - [Paragraphe 3 : Modalités de l'élection  du collège départemental des propriétaires forestiers (art. R321-52 à R321-61)](#488)
+              - [Paragraphe 4 : Collège régional des organisations professionnelles (art. R321-62 à R321-70)](#489)
+              - [Paragraphe 5 : Dispositions communes et élections partielles (art. R321-71 à R321-76)](#490)
+              - [Paragraphe 6 : Représentant du personnel au conseil des centres régionaux (art. R321-77)](#491)
+              - [Paragraphe 7 : Compétences (art. R321-78 à R321-82)](#492)
+            - [Sous-section 3 : Direction (art. R321-83)](#493)
+            - [Sous-section 4 : Tutelle (art. R321-84 à R321-85)](#494)
+      - [TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE (art. R331-1 à R332-14-1)](#495)
+        - [Chapitre Ier : Regroupement de la propriété (art. R331-1 à R331-16)](#496)
+          - [Section 1 : Groupements forestiers (art. R331-1 à R331-3)](#497)
+          - [Section 2 : Transformation d'une indivision en groupement forestier (art. R331-4 à R331-16)](#498)
+        - [Chapitre II : Regroupement pour la gestion (art. D332-1 à R332-14-1)](#499)
+          - [Section 1 : Protection des peuplements forestiers  contre les dégâts du gibier (art. D332-1)](#500)
+          - [Section 2 : Organismes de gestion  et d'exploitation forestière en commun (art. D332-2 à D332-12)](#501)
+            - [Sous-section 1 : Conditions d'agrément (art. D332-2 à D332-8)](#502)
+            - [Sous-section 2 : Modalités de contrôle (art. D332-9 à D332-11)](#503)
+            - [Sous-section 3 : Retrait d'agrément (art. D332-12)](#504)
+          - [Section 3 : Le groupement d'intérêt économique et environnemental forestier (art. D332-14 à R332-14-1)](#505)
+      - [TITRE IV : DÉFRICHEMENTS (art. R341-1 à R341-9)](#506)
+        - [Chapitre Ier : Régime d'autorisation préalable (art. R341-1 à R341-9)](#507)
+          - [Section 1 : Demande (art. R341-1 à R341-3)](#508)
+          - [Section 2 : Instruction et décision (art. D341-7-1 à R341-7)](#509)
+          - [Section 3 : Suites données aux infractions constatées  en matière de défrichement (art. R341-8 à R341-9)](#510)
+      - [TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE (art. D351-1 à D351-3)](#511)
+        - [Chapitre Ier : Dispositions générales (art. D351-1 à D351-3)](#512)
+      - [TITRE VI : DISPOSITIONS PÉNALES (art. R361-1 à R363-1)](#513)
+        - [Chapitre Ier : Surveillance (art. R361-1 à R361-2)](#514)
+        - [Chapitre II : Infractions aux règles de gestion (art. R362-1)](#515)
+        - [Chapitre III : Infractions aux règles de défrichement (art. R363-1)](#516)
+      - [TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER (art. R371-1 à R378-1)](#517)
+        - [Chapitre Ier : Guadeloupe (art. R371-1)](#518)
+        - [Chapitre II : Guyane (art. R372-1 à R372-2)](#519)
+        - [Chapitre III : Martinique (art. R373-1)](#520)
+        - [Chapitre IV : La Réunion (art. R374-1 à R374-10)](#521)
+          - [Section 1 : Défrichement (art. R374-1 à R374-3-1)](#522)
+          - [Section 2 : Végétations spécifiques à La Réunion (art. R*374-6-1 à R374-10)](#523)
+        - [Chapitre V : Mayotte (art. R375-1 à R375-2)](#524)
+        - [Chapitre VIII : Saint-Pierre-et-Miquelon (art. R378-1)](#525)
+    - [Annexes (art. Annexe I à Annexe II)](#526)
 # Partie législative<a id=1></a>
 
 ## LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS<a id=2></a>
@@ -1319,16 +1318,17 @@ b) Les règlements types de gestion.
 
 a) Les plans simples de gestion ;
 
-b) Les règlements types de gestion ;
-
-c) Les codes des bonnes pratiques sylvicoles.
+b) Les règlements types de gestion.
 
 **Nota:**
 
-Aux termes de la loi n° 2014-170 du 13 octobre 2014, article 93 XII, les bois et forêts dont les propriétaires ont adhéré aux
-codes des bonnes pratiques sylvicoles mentionnés à l'article L. 122-3 du code forestier avant la publication de la présente
-loi continuent, jusqu'au terme de l'engagement souscrit, àprésenter une présomption de gestion durable dans les conditions
-prévues à l'article L. 124-2 du même code, dans sa rédaction antérieure à la présente loi.
+Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions entrent en vigueur le 1er janvier
+2022. 
+
+Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XII, les bois et forêts dont les propriétaires ont adhéré
+aux codes des bonnes pratiques sylvicoles mentionnés au présent article avant la publication de ladite loi continuent,
+jusqu'au terme de l'engagement souscrit, à présenter une présomption de gestion durable dans les conditions prévues à
+l'article L. 124-2 du présent code, dans sa rédaction antérieure à la loi precitée.
 
 **Liens relatifs à cet article**
 
@@ -1336,9 +1336,9 @@ _Codifié par_:
 
   - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
-_Créé par_:
+_Modifié par_:
 
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 _Cité par_:
 
@@ -1877,49 +1877,20 @@ _Cite_:
   - Code forestier (nouveau) - art. L313-2
 
 
-###### Article L124-2
-
-Sont présumés présenter des garanties de gestion durable les bois et forêts dont le propriétaire adhère au code des bonnes
-pratiques sylvicoles applicable et le respecte pendant une durée d'au moins dix ans.
-
-**Nota:**
-
-Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions sont abrogées le 1er janvier 2022.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Abrogé par_:
-
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
-
-_Anciens textes_:
-
-  - Code forestier - art. L8 (VT), III.
-
-_Cité par_:
-
-  - Code de l'urbanisme - art. L130-1 (VT)
-  - Code forestier (nouveau) - art. L313-3 (VT)
-  - Code forestier (nouveau) - art. L321-1 (VT)
-
-
 ###### Article L124-3
 
 Les parties de bois et forêts situés dans un site Natura 2000 pour lequel un document d'objectifs a été approuvé par
-l'autorité administrative présentent des garanties ou des présomptions de gestion durable lorsque leur propriétaire dispose
-d'un document de gestion mentionné à l'article L. 122-3 et se trouve dans l'un des cas suivants : 
+l'autorité administrative présentent des garanties de gestion durable lorsque leur propriétaire dispose d'un document de
+gestion mentionné à l'article L. 122-3 et se trouve dans l'un des cas suivants :
 
 1° Avoir adhéré à une charte Natura 2000 ou conclu un contrat Natura 2000 ; 
 
 2° Disposer d'un document de gestion établi dans les conditions mentionnées à l'article L. 122-7.
+
+**Nota:**
+
+Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions entrent en vigueur le 1er janvier
+2022.
 
 **Liens relatifs à cet article**
 
@@ -1929,7 +1900,7 @@ _Codifié par_:
 
 _Modifié par_:
 
-  - Loi n°2016-1888 du 28 décembre 2016 - art. 54
+  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
 
 _Cite_:
 
@@ -14448,50 +14419,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L315-2 (V)
 
 
-##### Section 2 : Code des bonnes pratiques sylvicoles<a id=185></a>
-
-###### Article L313-3
-
-Le code des bonnes pratiques sylvicoles prévu à l'article L. 124-2 comprend, par région naturelle ou groupe de régions
-naturelles, des recommandations, prenant en compte les usages locaux, essentielles à la conduite des grands types de
-peuplements et aux conditions rendant possible la gestion durable d'une parcelle forestière. Ce document est élaboré par le
-centre régional de la propriété forestière et approuvé par le représentant de l'Etat dans la région, après avis de la
-commission régionale de la forêt et des produits forestiers.
-
-**Nota:**
-
-Aux termes de la loi n° 2014-1170 du 13 octobre 2014, article 93 XIX, ces dispositions sont abrogées le 1
-  <sup>er</sup> janvier 2022.
-
-**Liens relatifs à cet article**
-
-_Codifié par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Créé par_:
-
-  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
-
-_Abrogé par_:
-
-  - Loi n°2014-1170 du 13 octobre 2014 - art. 69
-
-_Anciens textes_:
-
-  - Code forestier - art. L222-6 (VT), al 2.
-
-_Cité par_:
-
-  - Code forestier (nouveau) - art. D313-8 (V)
-  - Code forestier (nouveau) - art. L321-1 (VT)
-
-_Cite_:
-
-  - Code forestier (nouveau) - art. L124-2 (VT)
-
-
-#### Chapitre IV : Droits d'usage<a id=186></a>
+#### Chapitre IV : Droits d'usage<a id=185></a>
 
 ###### Article L314-1
 
@@ -14579,9 +14507,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. R314-1 (V)
 
 
-#### Chapitre V : Modalités contractuelles de gestion<a id=187></a>
+#### Chapitre V : Modalités contractuelles de gestion<a id=186></a>
 
-##### Section 1 : Gestionnaires forestiers professionnels<a id=188></a>
+##### Section 1 : Gestionnaires forestiers professionnels<a id=187></a>
 
 ###### Article L315-1
 
@@ -14623,7 +14551,7 @@ _Anciens textes_:
   - Code forestier - art. L224-7 (VT)
 
 
-##### Section 2 : Gestion contractuelle  par l'Office national des forêts<a id=189></a>
+##### Section 2 : Gestion contractuelle  par l'Office national des forêts<a id=188></a>
 
 ###### Article L315-2
 
@@ -14674,13 +14602,13 @@ _Cite_:
   - Code forestier (nouveau) - art. L262-1 (V)
 
 
-### TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS<a id=190></a>
+### TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS<a id=189></a>
 
-#### Chapitre Ier : Centre national de la propriété forestière<a id=191></a>
+#### Chapitre Ier : Centre national de la propriété forestière<a id=190></a>
 
-##### Section 1 : Centre national<a id=192></a>
+##### Section 1 : Centre national<a id=191></a>
 
-##### Sous-section 1 : Missions<a id=193></a>
+##### Sous-section 1 : Missions<a id=192></a>
 
 ###### Article L321-1
 
@@ -14697,17 +14625,15 @@ forestiers, notamment les organismes de gestion et d'exploitation en commun des 
 charge des demandes particulières à caractère environnemental et social, en concertation s'il y a lieu avec les représentants
 des usagers ; 
 
-3° Encourager l'adoption de méthodes de sylviculture conduisant à une gestion durable des forêts compatibles avec une bonne
-valorisation économique du bois, de la biomasse et des autres produits et services des forêts, par la formation théorique et
-pratique des propriétaires forestiers et par le développement et la vulgarisation sylvicoles, à l'exclusion de tout acte de
-gestion directe, de maîtrise d'œuvre de travaux ou de commercialisation ; 
+3° Encourager l'adoption de méthodes de sylviculture conduisant à une gestion durable et multifonctionnelle des forêts
+compatibles avec une bonne valorisation économique du bois, de la biomasse et des autres produits et services des forêts, par
+la formation théorique et pratique des propriétaires forestiers et par le développement et la vulgarisation sylvicoles, à
+l'exclusion de tout acte de gestion directe, de maîtrise d'œuvre de travaux ou de commercialisation ; 
 
-4° Elaborer les schémas régionaux de gestion sylvicole des bois et forêts des particuliers et les codes de bonnes pratiques
-sylvicoles ; 
+4° Elaborer les schémas régionaux de gestion sylvicole des bois et forêts des particuliers ; 
 
-5° Agréer les plans simples de gestion, dans les conditions prévues aux articles L. 312-2 à L. 312-10, approuver les
-règlements types de gestion, dans les conditions prévues à l'article L. 313-1, et approuver les programmes des coupes et
-travaux des adhérents aux codes des bonnes pratiques sylvicoles prévus aux articles L. 124-2 et L. 313-3 ; 
+5° Agréer les plans simples de gestion dans les conditions prévues aux articles L. 312-2 à L. 312-10 et approuver les
+règlements types de gestion dans les conditions prévues par l'article L. 313-1 ; 
 
 6° Concourir au développement durable et à l'aménagement rural, en particulier au développement économique des territoires
 par la valorisation des produits et des services de la forêt des particuliers et de la contribution de ces forêts à la lutte
@@ -14733,7 +14659,18 @@ Il peut être consulté par les pouvoirs publics et émettre des propositions su
 forêt-bois, au développement durable des forêts et de leurs fonctions économiques, environnementales et sociales, et à leur
 contribution à l'aménagement rural.
 
+**Nota:**
+
+Loi n° 2014-1170 du 13 octobre 2014, article 93 XIX : ces dispositions entrent en vigueur à compter du 1er janvier 2022.
+
+Aux termes de l'article 93 XX de la loi n° 2014-1170 du 13 octobre 2014, au 1er janvier 2022, le 5° du présent article est
+rétabli dans sa rédaction antérieure à ladite loi, qui est celle de cette version.
+
 **Liens relatifs à cet article**
+
+_Codifié par_:
+
+  - Ordonnance n°2012-92 du 26 janvier 2012 - art. (V)
 
 _Modifié par_:
 
@@ -14742,7 +14679,7 @@ _Modifié par_:
 _Cité par_:
 
   - Décret n°2017-1246 du 7 août 2017 - art. 11
-  - Code forestier (nouveau) - art. L122-2 (VD)
+  - Code forestier (nouveau) - art. L122-2 (V)
   - Code forestier (nouveau) - art. L321-4 (V)
   - Code forestier (nouveau) - art. L321-5 (V)
   - Code forestier (nouveau) - art. R321-9 (V)
@@ -14752,13 +14689,11 @@ _Cite_:
 
   - Code monétaire et financier - art. L214-124
   - Code de l'environnement - art. L132-2
-  - Code forestier (nouveau) - art. L124-2 (VT)
   - Code forestier (nouveau) - art. L312-2 (V)
   - Code forestier (nouveau) - art. L313-1 (V)
-  - Code forestier (nouveau) - art. L313-3 (VT)
 
 
-##### Sous-section 2 : Conseil d'administration<a id=194></a>
+##### Sous-section 2 : Conseil d'administration<a id=193></a>
 
 ###### Article L321-2
 
@@ -14795,7 +14730,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L321-15 (V)
 
 
-##### Sous-section 3 : Personnel<a id=195></a>
+##### Sous-section 3 : Personnel<a id=194></a>
 
 ###### Article L321-3
 
@@ -14857,9 +14792,9 @@ _Cité par_:
   - Code rural - art. R512-3 (M)
 
 
-##### Section 2 : Centres régionaux<a id=196></a>
+##### Section 2 : Centres régionaux<a id=195></a>
 
-##### Sous-section 1 : Missions<a id=197></a>
+##### Sous-section 1 : Missions<a id=196></a>
 
 ###### Article L321-5
 
@@ -14920,7 +14855,7 @@ _Anciens textes_:
   - Code forestier - art. L221-8 (VT)
 
 
-##### Sous-section 2 : Composition du conseil  et élection des conseillers<a id=198></a>
+##### Sous-section 2 : Composition du conseil  et élection des conseillers<a id=197></a>
 
 ###### Article L321-7
 
@@ -15116,7 +15051,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L321-7 (V)
 
 
-##### Section 3 : Dispositions financières communes au centre national  et aux centres régionaux de la propriété forestière<a id=199></a>
+##### Section 3 : Dispositions financières communes au centre national  et aux centres régionaux de la propriété forestière<a id=198></a>
 
 ###### Article L321-13
 
@@ -15186,7 +15121,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L321-5 (V)
 
 
-##### Section 4 : Application<a id=200></a>
+##### Section 4 : Application<a id=199></a>
 
 ###### Article L321-15
 
@@ -15224,7 +15159,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L321-7 (V)
 
 
-#### Chapitre II : Rôle des chambres d'agriculture  en matière forestière<a id=201></a>
+#### Chapitre II : Rôle des chambres d'agriculture  en matière forestière<a id=200></a>
 
 ###### Article L322-1
 
@@ -15266,11 +15201,11 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L511-3 (VD)
 
 
-### TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE<a id=202></a>
+### TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE<a id=201></a>
 
-#### Chapitre Ier : Regroupement de la propriété<a id=203></a>
+#### Chapitre Ier : Regroupement de la propriété<a id=202></a>
 
-##### Section 1 : Groupements forestiers<a id=204></a>
+##### Section 1 : Groupements forestiers<a id=203></a>
 
 ###### Article L331-1
 
@@ -15532,7 +15467,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R331-16 (V)
 
 
-##### Section 2 : Transformation d'une indivision  en groupement forestier<a id=205></a>
+##### Section 2 : Transformation d'une indivision  en groupement forestier<a id=204></a>
 
 ###### Article L331-8
 
@@ -15773,7 +15708,7 @@ _Anciens textes_:
   - Code forestier - art. L246-2 (VT)
 
 
-##### Section 3 : Groupements fonciers ruraux<a id=206></a>
+##### Section 3 : Groupements fonciers ruraux<a id=205></a>
 
 ###### Article L331-16
 
@@ -15795,7 +15730,7 @@ _Cite_:
   - Code rural - art. L322-22 (VT)
 
 
-##### Section 4 : Aménagement foncier<a id=207></a>
+##### Section 4 : Aménagement foncier<a id=206></a>
 
 ###### Article L331-17
 
@@ -15847,7 +15782,7 @@ _Anciens textes_:
   - Code forestier - art. L513-1 (VT)
 
 
-##### Section 5 : Droit de préférence des propriétaires de terrains boisés<a id=208></a>
+##### Section 5 : Droit de préférence des propriétaires de terrains boisés<a id=207></a>
 
 ###### Article L331-19
 
@@ -15969,7 +15904,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L331-24 (V)
 
 
-##### Section 6 : Prérogatives des communes et de l'Etat<a id=209></a>
+##### Section 6 : Prérogatives des communes et de l'Etat<a id=208></a>
 
 ###### Article L331-22
 
@@ -16062,9 +15997,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L331-21 (V)
 
 
-#### Chapitre II : Regroupement pour la gestion<a id=210></a>
+#### Chapitre II : Regroupement pour la gestion<a id=209></a>
 
-##### Section 1 : Association syndicale de gestion forestière<a id=211></a>
+##### Section 1 : Association syndicale de gestion forestière<a id=210></a>
 
 ###### Article L332-1
 
@@ -16194,7 +16129,7 @@ _Anciens textes_:
   - Code forestier - art. L247-7 (VT)
 
 
-##### Section 2 : Protection des peuplements forestiers  contre les dégâts du gibier<a id=212></a>
+##### Section 2 : Protection des peuplements forestiers  contre les dégâts du gibier<a id=211></a>
 
 ###### Article L332-5
 
@@ -16228,7 +16163,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. D332-1 (V)
 
 
-##### Section 3 : Organismes de gestion  et d'exploitation forestière en commun<a id=213></a>
+##### Section 3 : Organismes de gestion  et d'exploitation forestière en commun<a id=212></a>
 
 ###### Article L332-6
 
@@ -16261,7 +16196,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L124-10 (VD)
 
 
-##### Section 4 : Le groupement d'intérêt économique et environnemental forestier<a id=214></a>
+##### Section 4 : Le groupement d'intérêt économique et environnemental forestier<a id=213></a>
 
 ###### Article L332-7
 
@@ -16346,9 +16281,9 @@ _Cite_:
   - Code de l'environnement - art. L422-13 (V)
 
 
-### TITRE IV : DÉFRICHEMENTS<a id=215></a>
+### TITRE IV : DÉFRICHEMENTS<a id=214></a>
 
-#### Chapitre Ier : Régime d'autorisation préalable<a id=216></a>
+#### Chapitre Ier : Régime d'autorisation préalable<a id=215></a>
 
 ###### Article L341-1
 
@@ -16780,7 +16715,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L375-7 (V)
 
 
-#### Chapitre II : Exemptions<a id=217></a>
+#### Chapitre II : Exemptions<a id=216></a>
 
 ###### Article L342-1
 
@@ -16830,9 +16765,9 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. L143-4 (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE<a id=218></a>
+### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE<a id=217></a>
 
-#### Chapitre Ier : Dispositions générales<a id=219></a>
+#### Chapitre Ier : Dispositions générales<a id=218></a>
 
 ###### Article L351-1
 
@@ -16894,7 +16829,7 @@ _Anciens textes_:
   - Code forestier - art. L261-4 (VT)
 
 
-#### Chapitre II : Compte d'investissement forestier et d'assurance<a id=220></a>
+#### Chapitre II : Compte d'investissement forestier et d'assurance<a id=219></a>
 
 ###### Article L352-1
 
@@ -17052,9 +16987,9 @@ _Cité par_:
   - Code monétaire et financier - art. D221-126 (V)
 
 
-### TITRE VI : DISPOSITIONS PÉNALES<a id=221></a>
+### TITRE VI : DISPOSITIONS PÉNALES<a id=220></a>
 
-#### Chapitre Ier : Surveillance<a id=222></a>
+#### Chapitre Ier : Surveillance<a id=221></a>
 
 ###### Article L361-1
 
@@ -17105,9 +17040,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L161-12 (VD)
 
 
-#### Chapitre II : Infractions aux règles de gestion<a id=223></a>
+#### Chapitre II : Infractions aux règles de gestion<a id=222></a>
 
-##### Section 1 : Infractions aux règles de coupe  et de repeuplement<a id=224></a>
+##### Section 1 : Infractions aux règles de coupe  et de repeuplement<a id=223></a>
 
 ###### Article L362-1
 
@@ -17223,7 +17158,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. L378-1 (V)
 
 
-##### Section 2 : Infraction en matière de marquage<a id=225></a>
+##### Section 2 : Infraction en matière de marquage<a id=224></a>
 
 ###### Article L362-4
 
@@ -17250,7 +17185,7 @@ _Anciens textes_:
   - Code forestier - art. L224-2 (VT)
 
 
-#### Chapitre III : Infractions aux règles de défrichement<a id=226></a>
+#### Chapitre III : Infractions aux règles de défrichement<a id=225></a>
 
 ###### Article L363-1
 
@@ -17429,9 +17364,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L363-4
 
 
-### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=227></a>
+### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=226></a>
 
-#### Chapitre Ier : Guadeloupe<a id=228></a>
+#### Chapitre Ier : Guadeloupe<a id=227></a>
 
 ###### Article L371-1
 
@@ -17446,7 +17381,7 @@ _Créé par_:
   - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
-#### Chapitre II : Guyane<a id=229></a>
+#### Chapitre II : Guyane<a id=228></a>
 
 ###### Article L372-1
 
@@ -17557,7 +17492,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-6 (V)
 
 
-#### Chapitre III : Martinique<a id=230></a>
+#### Chapitre III : Martinique<a id=229></a>
 
 ###### Article L373-1
 
@@ -17572,9 +17507,9 @@ _Créé par_:
   - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
-#### Chapitre IV : La Réunion<a id=231></a>
+#### Chapitre IV : La Réunion<a id=230></a>
 
-##### Section 1 : Défrichement<a id=232></a>
+##### Section 1 : Défrichement<a id=231></a>
 
 ###### Article L374-1
 
@@ -17783,7 +17718,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L342-1 (V)
 
 
-##### Section 2 : Végétations spécifiques à La Réunion<a id=233></a>
+##### Section 2 : Végétations spécifiques à La Réunion<a id=232></a>
 
 ###### Article L374-7
 
@@ -17834,7 +17769,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R374-4 (V)
 
 
-##### Section 3 : Dispositions pénales<a id=234></a>
+##### Section 3 : Dispositions pénales<a id=233></a>
 
 ###### Article L374-9
 
@@ -17860,7 +17795,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L374-8 (V)
 
 
-##### Section 4 : Missions assignées au Centre national de la propriété forestière<a id=235></a>
+##### Section 4 : Missions assignées au Centre national de la propriété forestière<a id=234></a>
 
 ###### Article L374-10
 
@@ -17875,9 +17810,9 @@ _Créé par_:
   - Loi n°2014-1170 du 13 octobre 2014 - art. 86
 
 
-#### Chapitre V : Mayotte<a id=236></a>
+#### Chapitre V : Mayotte<a id=235></a>
 
-##### Section 1 : Généralités<a id=237></a>
+##### Section 1 : Généralités<a id=236></a>
 
 ###### Article L375-1
 
@@ -17919,7 +17854,7 @@ _Anciens textes_:
   - Code forestier de Mayotte - art. L451-5 (VT)
 
 
-##### Section 2 : Défrichement<a id=238></a>
+##### Section 2 : Défrichement<a id=237></a>
 
 ###### Article L375-3
 
@@ -18119,7 +18054,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L342-1 (V)
 
 
-##### Section 3 : Dispositions pénales<a id=239></a>
+##### Section 3 : Dispositions pénales<a id=238></a>
 
 ###### Article L375-9
 
@@ -18145,7 +18080,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L375-3 (V)
 
 
-#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=240></a>
+#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=239></a>
 
 ###### Article L378-1
 
@@ -18180,17 +18115,17 @@ _Cite_:
   - Code forestier (nouveau) - art. L362-3 (V)
 
 
-# Partie réglementaire<a id=241></a>
+# Partie réglementaire<a id=240></a>
 
-## LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS<a id=242></a>
+## LIVRE Ier : DISPOSITIONS COMMUNES  À TOUS LES BOIS ET FORÊTS<a id=241></a>
 
-### TITRE Ier : CHAMP D'APPLICATION, PRINCIPES GÉNÉRAUX  ET INSTITUTIONS<a id=243></a>
+### TITRE Ier : CHAMP D'APPLICATION, PRINCIPES GÉNÉRAUX  ET INSTITUTIONS<a id=242></a>
 
-#### Chapitre III : Institutions<a id=244></a>
+#### Chapitre III : Institutions<a id=243></a>
 
-##### Section 1 : Institutions nationales<a id=245></a>
+##### Section 1 : Institutions nationales<a id=244></a>
 
-##### Sous-section 1 : Conseil supérieur de la forêt et du bois<a id=246></a>
+##### Sous-section 1 : Conseil supérieur de la forêt et du bois<a id=245></a>
 
 ###### Article D113-1
 
@@ -18427,7 +18362,7 @@ _Modifié par_:
   - Décret n°2015-1256 du 8 octobre 2015 - art. 1
 
 
-##### Sous-section 2 : Comité de gouvernance du fonds stratégique de la forêt et du bois<a id=247></a>
+##### Sous-section 2 : Comité de gouvernance du fonds stratégique de la forêt et du bois<a id=246></a>
 
 ###### Article D113-7
 
@@ -18558,7 +18493,7 @@ _Cite_:
   - Code forestier (nouveau) - art. D113-1
 
 
-##### Sous-section 3 : Dispositions communes<a id=248></a>
+##### Sous-section 3 : Dispositions communes<a id=247></a>
 
 ###### Article R113-10
 
@@ -18577,9 +18512,9 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R*133-1
 
 
-##### Section 2 : Commissions régionales de la forêt et du bois<a id=249></a>
+##### Section 2 : Commissions régionales de la forêt et du bois<a id=248></a>
 
-##### Sous-section 1<a id=250></a>
+##### Sous-section 1<a id=249></a>
 
 ###### Article D113-11
 
@@ -18836,9 +18771,9 @@ _Modifié par_:
   - Décret n°2017-512 du 7 avril 2017 - art. 1
 
 
-### TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE<a id=251></a>
+### TITRE II : POLITIQUE FORESTIÈRE ET GESTION DURABLE<a id=250></a>
 
-#### Chapitre Ier : Orientations générales<a id=252></a>
+#### Chapitre Ier : Orientations générales<a id=251></a>
 
 ###### Article D121-1
 
@@ -18927,11 +18862,11 @@ _Cite_:
   - Code forestier (nouveau) - art. L121-6 (V)
 
 
-#### Chapitre II : Instruments et mise en œuvre  de la politique forestière<a id=253></a>
+#### Chapitre II : Instruments et mise en œuvre  de la politique forestière<a id=252></a>
 
-##### Section 1 : Documents d'orientation et de gestion<a id=254></a>
+##### Section 1 : Documents d'orientation et de gestion<a id=253></a>
 
-##### Sous-section 1 : Programme régional de la forêt et du bois<a id=255></a>
+##### Sous-section 1 : Programme régional de la forêt et du bois<a id=254></a>
 
 ###### Article D122-1
 
@@ -19005,7 +18940,7 @@ _Créé par_:
   - Décret n°2015-666 du 10 juin 2015 - art. 2
 
 
-##### Sous-section 2 : Directives régionales d'aménagement<a id=256></a>
+##### Sous-section 2 : Directives régionales d'aménagement<a id=255></a>
 
 ###### Article D122-2
 
@@ -19123,7 +19058,7 @@ _Cite_:
   - Code de l'environnement - art. L122-7
 
 
-##### Sous-section 3 : Schémas régionaux d'aménagement<a id=257></a>
+##### Sous-section 3 : Schémas régionaux d'aménagement<a id=256></a>
 
 ###### Article D122-6
 
@@ -19182,7 +19117,7 @@ _Cite_:
   - Code forestier (nouveau) - art. D122-3 (V)
 
 
-##### Sous-section 4 : Schémas régionaux de gestion sylvicole des bois  et forêts des particuliers<a id=258></a>
+##### Sous-section 4 : Schémas régionaux de gestion sylvicole des bois  et forêts des particuliers<a id=257></a>
 
 ###### Article D122-8
 
@@ -19339,9 +19274,9 @@ _Anciens textes_:
   - Code forestier - art. R222-3-1 (Ab)
 
 
-##### Section 2 : Coordination des procédures administratives<a id=259></a>
+##### Section 2 : Coordination des procédures administratives<a id=258></a>
 
-##### Sous-section 1 : Elaboration et approbation des annexes  aux directives ou aux schémas régionaux<a id=260></a>
+##### Sous-section 1 : Elaboration et approbation des annexes  aux directives ou aux schémas régionaux<a id=259></a>
 
 ###### Article D122-13
 
@@ -19564,7 +19499,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R122-18 (V)
 
 
-##### Sous-section 2 : Approbation ou agrément d'un document de gestion  au titre de la coordination des procédures<a id=261></a>
+##### Sous-section 2 : Approbation ou agrément d'un document de gestion  au titre de la coordination des procédures<a id=260></a>
 
 ###### Article D122-22
 
@@ -19737,7 +19672,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L122-7 (V)
 
 
-##### Sous-section 3 : Reconstitution après coupe<a id=262></a>
+##### Sous-section 3 : Reconstitution après coupe<a id=261></a>
 
 ###### Article R122-25
 
@@ -19768,7 +19703,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L122-8 (V)
 
 
-#### Chapitre III : Stratégies locales de développement forestier<a id=263></a>
+#### Chapitre III : Stratégies locales de développement forestier<a id=262></a>
 
 ###### Article D123-1
 
@@ -19833,7 +19768,7 @@ _Cite_:
   - Code forestier (nouveau) - art. D156-7 (V)
 
 
-#### Chapitre IV : Gestion durable<a id=264></a>
+#### Chapitre IV : Gestion durable<a id=263></a>
 
 ###### Article R124-1
 
@@ -19899,7 +19834,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L315-1 (V)
 
 
-#### Chapitre V : Protection contre les atteintes à la propriété foncière forestière<a id=265></a>
+#### Chapitre V : Protection contre les atteintes à la propriété foncière forestière<a id=264></a>
 
 ###### Article D125-1
 
@@ -19916,11 +19851,11 @@ _Cite_:
   - Code forestier (nouveau) - art. L125-1
 
 
-### TITRE III : DÉFENSE ET LUTTE  CONTRE LES INCENDIES DE FORÊTS<a id=266></a>
+### TITRE III : DÉFENSE ET LUTTE  CONTRE LES INCENDIES DE FORÊTS<a id=265></a>
 
-#### Chapitre Ier : Mesures applicables sur l'ensemble du territoire national<a id=267></a>
+#### Chapitre Ier : Mesures applicables sur l'ensemble du territoire national<a id=266></a>
 
-##### Section 1 : Dispositions générales<a id=268></a>
+##### Section 1 : Dispositions générales<a id=267></a>
 
 ###### Article D131-1
 
@@ -19954,7 +19889,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L131-4 (V)
 
 
-##### Section 2 : Actions de prévention<a id=269></a>
+##### Section 2 : Actions de prévention<a id=268></a>
 
 ###### Article R131-2
 
@@ -20285,7 +20220,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L131-7 (V)
 
 
-##### Section 3 : Débroussaillement<a id=270></a>
+##### Section 3 : Débroussaillement<a id=269></a>
 
 ###### Article R131-13
 
@@ -20399,7 +20334,7 @@ _Anciens textes_:
   - Code forestier - art. R321-7 (Ab), al 1
 
 
-##### Section 4 : Plan de prévention des risques naturels prévisibles  en matière d'incendies de forêt<a id=271></a>
+##### Section 4 : Plan de prévention des risques naturels prévisibles  en matière d'incendies de forêt<a id=270></a>
 
 ###### Article R131-17
 
@@ -20425,9 +20360,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L131-18 (V)
 
 
-#### Chapitre II : Mesures applicables aux bois et forêts classés  "à risque d'incendie"<a id=272></a>
+#### Chapitre II : Mesures applicables aux bois et forêts classés  "à risque d'incendie"<a id=271></a>
 
-##### Section 1 : Procédure de classement<a id=273></a>
+##### Section 1 : Procédure de classement<a id=272></a>
 
 ###### Article R132-1
 
@@ -20555,7 +20490,7 @@ _Anciens textes_:
   - Code forestier - art. R321-13 (Ab), al 1
 
 
-##### Section 2 : Travaux proposés par les associations syndicales libres  ou autorisées<a id=274></a>
+##### Section 2 : Travaux proposés par les associations syndicales libres  ou autorisées<a id=273></a>
 
 ###### Article R132-6
 
@@ -20680,11 +20615,11 @@ _Cite_:
   - Code forestier (nouveau) - art. L132-3 (V)
 
 
-#### Chapitre III : Mesures applicables aux territoires réputés  particulièrement exposés au risque d'incendie<a id=275></a>
+#### Chapitre III : Mesures applicables aux territoires réputés  particulièrement exposés au risque d'incendie<a id=274></a>
 
-##### Section 1 : Plan départemental ou interdépartemental  de protection des forêts contre les incendies<a id=276></a>
+##### Section 1 : Plan départemental ou interdépartemental  de protection des forêts contre les incendies<a id=275></a>
 
-##### Sous-section 1 : Contenu du plan de protection des forêts  contre les incendies<a id=277></a>
+##### Sous-section 1 : Contenu du plan de protection des forêts  contre les incendies<a id=276></a>
 
 ###### Article R133-1
 
@@ -20848,7 +20783,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L134-6 (V)
 
 
-##### Sous-section 2 : Modalités d'élaboration et de révision  du plan de protection des forêts contre les incendies<a id=278></a>
+##### Sous-section 2 : Modalités d'élaboration et de révision  du plan de protection des forêts contre les incendies<a id=277></a>
 
 ###### Article R133-6
 
@@ -21006,7 +20941,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R133-6 (V)
 
 
-##### Section 2 : Travaux déclarés d'utilité publique<a id=279></a>
+##### Section 2 : Travaux déclarés d'utilité publique<a id=278></a>
 
 ###### Article R133-12
 
@@ -21191,7 +21126,7 @@ _Cité par_:
   - Code de l'expropriation pour cause d'utilité pu... - art. R411-1 (V)
 
 
-##### Section 3 : Coupures agricoles<a id=280></a>
+##### Section 3 : Coupures agricoles<a id=279></a>
 
 ###### Article R133-18
 
@@ -21240,9 +21175,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L133-9 (V)
 
 
-#### Chapitre IV : Servitudes de voirie et obligations de débroussaillement communes aux territoires, bois et forêts exposés aux risques d'incendie<a id=281></a>
+#### Chapitre IV : Servitudes de voirie et obligations de débroussaillement communes aux territoires, bois et forêts exposés aux risques d'incendie<a id=280></a>
 
-##### Section 1 : Dispositions générales<a id=282></a>
+##### Section 1 : Dispositions générales<a id=281></a>
 
 ###### Article R134-1
 
@@ -21337,7 +21272,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R134-2 (V)
 
 
-##### Section 2 : Débroussaillement<a id=283></a>
+##### Section 2 : Débroussaillement<a id=282></a>
 
 ###### Article R134-4
 
@@ -21420,11 +21355,11 @@ _Cite_:
   - Code forestier (nouveau) - art. L134-6 (V)
 
 
-### TITRE IV : RÔLE DE PROTECTION DES FORÊTS<a id=284></a>
+### TITRE IV : RÔLE DE PROTECTION DES FORÊTS<a id=283></a>
 
-#### Chapitre Ier : Forêts de protection<a id=285></a>
+#### Chapitre Ier : Forêts de protection<a id=284></a>
 
-##### Section 1 : Classement des massifs<a id=286></a>
+##### Section 1 : Classement des massifs<a id=285></a>
 
 ###### Article R141-1
 
@@ -21723,9 +21658,9 @@ _Anciens textes_:
   - Code forestier - art. R411-10 (Ab)
 
 
-##### Section 2 : Régime spécial des forêts de protection<a id=287></a>
+##### Section 2 : Régime spécial des forêts de protection<a id=286></a>
 
-##### Sous-section 1 : Dispositions applicables à toutes les forêts de protection<a id=288></a>
+##### Sous-section 1 : Dispositions applicables à toutes les forêts de protection<a id=287></a>
 
 ###### Article R141-12
 
@@ -21918,7 +21853,7 @@ _Anciens textes_:
   - Code forestier - art. R412-16 (Ab) ecqc interdiction
 
 
-##### Sous-section 2 : Dispositions applicables aux forêts de protection  ne relevant pas du régime forestier<a id=289></a>
+##### Sous-section 2 : Dispositions applicables aux forêts de protection  ne relevant pas du régime forestier<a id=288></a>
 
 ###### Article R141-19
 
@@ -22246,9 +22181,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R141-29 (V)
 
 
-##### Sous-section 3 : Dispositions relatives aux travaux de recherche et aux captages d'eau  destinée à la consommation humaine dans les forêts de protection<a id=290></a>
+##### Sous-section 3 : Dispositions relatives aux travaux de recherche et aux captages d'eau  destinée à la consommation humaine dans les forêts de protection<a id=289></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=291></a>
+##### Paragraphe 1 : Dispositions communes<a id=290></a>
 
 ###### Article R141-30
 
@@ -22352,7 +22287,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R141-25
 
 
-##### Paragraphe 2 : Travaux nécessaires à la recherche  de la ressource en eau dans les forêts de protection<a id=292></a>
+##### Paragraphe 2 : Travaux nécessaires à la recherche  de la ressource en eau dans les forêts de protection<a id=291></a>
 
 ###### Article R141-33
 
@@ -22398,7 +22333,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-1 (V)
 
 
-##### Paragraphe 3 : Travaux et ouvrages nécessaires au captage d'eau  dans les forêts de protection<a id=293></a>
+##### Paragraphe 3 : Travaux et ouvrages nécessaires au captage d'eau  dans les forêts de protection<a id=292></a>
 
 ###### Article R141-34
 
@@ -22577,7 +22512,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L141-5 (V)
 
 
-##### Sous-section 4 : Dispositions relatives aux fouilles et sondages archéologiques dans les forêts de protection<a id=294></a>
+##### Sous-section 4 : Dispositions relatives aux fouilles et sondages archéologiques dans les forêts de protection<a id=293></a>
 
 ###### Article R141-38-1
 
@@ -22737,9 +22672,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R141-38-3 (V)
 
 
-##### Sous-section 5 : Dispositions relatives à la recherche ou à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection.<a id=295></a>
+##### Sous-section 5 : Dispositions relatives à la recherche ou à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection.<a id=294></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=296></a>
+##### Paragraphe 1 : Dispositions communes<a id=295></a>
 
 ###### Article R141-38-5
 
@@ -22799,7 +22734,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R141-38-9 (V)
 
 
-##### Paragraphe 2 : Travaux nécessaires à la recherche des gisements d'intérêt national de gypse dans les forêts de protection<a id=297></a>
+##### Paragraphe 2 : Travaux nécessaires à la recherche des gisements d'intérêt national de gypse dans les forêts de protection<a id=296></a>
 
 ###### Article R141-38-6
 
@@ -22874,7 +22809,7 @@ _Cite_:
   - Code de l'environnement - art. L411-1 A (V)
 
 
-##### Paragraphe 3 : Travaux et ouvrages nécessaires à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection<a id=298></a>
+##### Paragraphe 3 : Travaux et ouvrages nécessaires à l'exploitation souterraine des gisements d'intérêt national de gypse dans les forêts de protection<a id=297></a>
 
 ###### Article R141-38-8
 
@@ -22925,7 +22860,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R141-38-8 (V)
 
 
-##### Section 3 : Indemnités et acquisitions par l'Etat<a id=299></a>
+##### Section 3 : Indemnités et acquisitions par l'Etat<a id=298></a>
 
 ###### Article R141-39
 
@@ -23044,9 +22979,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R141-41
 
 
-#### Chapitre II : Conservation et restauration des forêts en montagne<a id=300></a>
+#### Chapitre II : Conservation et restauration des forêts en montagne<a id=299></a>
 
-##### Section 1 : Mise en défens<a id=301></a>
+##### Section 1 : Mise en défens<a id=300></a>
 
 ###### Article R142-1
 
@@ -23401,7 +23336,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R142-21 (V)
 
 
-##### Section 2 : Réglementation des pâturages communaux en montagne<a id=302></a>
+##### Section 2 : Réglementation des pâturages communaux en montagne<a id=301></a>
 
 ###### Article R142-14
 
@@ -23504,7 +23439,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L142-6 (V)
 
 
-##### Section 3 : Mise en valeur des terrains en montagne<a id=303></a>
+##### Section 3 : Mise en valeur des terrains en montagne<a id=302></a>
 
 ###### Article D142-17
 
@@ -23617,7 +23552,7 @@ _Cité par_:
   - Code rural et de la pêche maritime - art. R135-3 (V)
 
 
-##### Section 4 : Restauration des terrains en montagne<a id=304></a>
+##### Section 4 : Restauration des terrains en montagne<a id=303></a>
 
 ###### Article R142-21
 
@@ -23906,9 +23841,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L142-8 (V)
 
 
-#### Chapitre III : Fixation des dunes<a id=305></a>
+#### Chapitre III : Fixation des dunes<a id=304></a>
 
-##### Section 1 : Dispositions générales<a id=306></a>
+##### Section 1 : Dispositions générales<a id=305></a>
 
 ###### Article R143-1
 
@@ -24042,7 +23977,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R163-13 (V)
 
 
-##### Section 2 : Dispositions spéciales aux dunes du département  du Pas-de-Calais<a id=307></a>
+##### Section 2 : Dispositions spéciales aux dunes du département  du Pas-de-Calais<a id=306></a>
 
 ###### Article R143-5
 
@@ -24176,9 +24111,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. R163-14 (V)
 
 
-### TITRE V : MISE EN VALEUR DES FORÊTS<a id=308></a>
+### TITRE V : MISE EN VALEUR DES FORÊTS<a id=307></a>
 
-#### Chapitre Ier : Inventaire forestier national<a id=309></a>
+#### Chapitre Ier : Inventaire forestier national<a id=308></a>
 
 ###### Article R151-1
 
@@ -24210,9 +24145,9 @@ _Anciens textes_:
   - Code forestier - art. R521-1 (Ab)
 
 
-#### Chapitre III : Commercialisation des matériels forestiers  de reproduction<a id=310></a>
+#### Chapitre III : Commercialisation des matériels forestiers  de reproduction<a id=309></a>
 
-##### Section 1 : Champ d'application<a id=311></a>
+##### Section 1 : Champ d'application<a id=310></a>
 
 ###### Article D153-1
 
@@ -24389,9 +24324,9 @@ _Anciens textes_:
   - Code forestier - art. R552-9 (Ab)
 
 
-##### Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base<a id=312></a>
+##### Section 2 : Conditions de commercialisation et de garantie de qualité des matériels forestiers de reproduction et admission des matériels de base<a id=311></a>
 
-##### Sous-section 1 : Admission des matériels de base<a id=313></a>
+##### Sous-section 1 : Admission des matériels de base<a id=312></a>
 
 ###### Article R153-4
 
@@ -24546,7 +24481,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R153-15 (V)
 
 
-##### Sous-section 2 : Obligations incombant aux entreprises de commercialisation  des matériels forestiers de reproduction<a id=314></a>
+##### Sous-section 2 : Obligations incombant aux entreprises de commercialisation  des matériels forestiers de reproduction<a id=313></a>
 
 ###### Article R153-9
 
@@ -24714,7 +24649,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R153-16 (V)
 
 
-##### Sous-section 3 : Commercialisation des matériels forestiers de reproduction<a id=315></a>
+##### Sous-section 3 : Commercialisation des matériels forestiers de reproduction<a id=314></a>
 
 ###### Article R153-14
 
@@ -24967,7 +24902,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R153-16 (V)
 
 
-##### Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers<a id=316></a>
+##### Section 3 : Commerce avec les pays membres de l'Union européenne  et les pays tiers<a id=315></a>
 
 ###### Article R153-21
 
@@ -25044,7 +24979,7 @@ _Anciens textes_:
   - Code forestier - art. R554-3 (Ab)
 
 
-##### Section 4 : Surveillance et police administrative<a id=317></a>
+##### Section 4 : Surveillance et police administrative<a id=316></a>
 
 ###### Article R153-24
 
@@ -25102,7 +25037,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R153-14 (V)
 
 
-#### Chapitre IV : Règles applicables au travail en milieu forestier<a id=318></a>
+#### Chapitre IV : Règles applicables au travail en milieu forestier<a id=317></a>
 
 ###### Article R154-1
 
@@ -25126,7 +25061,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L154-1 (V)
 
 
-#### Chapitre V : Valorisation des produits de la sylviculture<a id=319></a>
+#### Chapitre V : Valorisation des produits de la sylviculture<a id=318></a>
 
 ###### Article D155-1
 
@@ -25150,9 +25085,9 @@ _Créé par_:
   - Décret n°2012-836 du 29 juin 2012 - art. (V)
 
 
-#### Chapitre VI : Dispositions économiques et financières<a id=320></a>
+#### Chapitre VI : Dispositions économiques et financières<a id=319></a>
 
-##### Section 1 : Créances du Fonds forestier national<a id=321></a>
+##### Section 1 : Créances du Fonds forestier national<a id=320></a>
 
 ###### Article R156-1
 
@@ -25310,7 +25245,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R156-1 (V)
 
 
-##### Section 2 : Aides publiques en matière forestière<a id=322></a>
+##### Section 2 : Aides publiques en matière forestière<a id=321></a>
 
 ###### Article D156-6
 
@@ -25563,7 +25498,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. D156-7 (V)
 
 
-##### Section 3 : Fonds stratégique de la forêt et du bois<a id=323></a>
+##### Section 3 : Fonds stratégique de la forêt et du bois<a id=322></a>
 
 ###### Article D156-12
 
@@ -25622,13 +25557,13 @@ _Cite_:
   - Code forestier (nouveau) - art. D113-7
 
 
-### TITRE VI : DISPOSITIONS PÉNALES<a id=324></a>
+### TITRE VI : DISPOSITIONS PÉNALES<a id=323></a>
 
-#### Chapitre Ier : Règles de procédure pénale  applicables aux infractions forestières<a id=325></a>
+#### Chapitre Ier : Règles de procédure pénale  applicables aux infractions forestières<a id=324></a>
 
-##### Section 1 : Recherche et constatations des infractions<a id=326></a>
+##### Section 1 : Recherche et constatations des infractions<a id=325></a>
 
-##### Sous-section 1 : Agents habilités à constater les infractions<a id=327></a>
+##### Sous-section 1 : Agents habilités à constater les infractions<a id=326></a>
 
 ###### Article R161-1
 
@@ -25753,7 +25688,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R161-1
 
 
-##### Sous-section 2 : Assermentation et valeur probante des procès-verbaux<a id=328></a>
+##### Sous-section 2 : Assermentation et valeur probante des procès-verbaux<a id=327></a>
 
 ###### Article R161-5
 
@@ -25810,7 +25745,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R161-1 (V)
 
 
-##### Sous-section 3 : Transmission des procédures<a id=329></a>
+##### Sous-section 3 : Transmission des procédures<a id=328></a>
 
 ###### Article R161-7
 
@@ -25839,7 +25774,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R161-1 (V)
 
 
-##### Section 2 : Saisie conservatoire et cautionnement<a id=330></a>
+##### Section 2 : Saisie conservatoire et cautionnement<a id=329></a>
 
 ###### Article R161-8
 
@@ -25871,7 +25806,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R161-2 (V)
 
 
-##### Section 3 : Poursuites et alternatives aux poursuites<a id=331></a>
+##### Section 3 : Poursuites et alternatives aux poursuites<a id=330></a>
 
 ###### Article R161-9
 
@@ -25948,7 +25883,7 @@ _Anciens textes_:
   - Code forestier - art. R343-3 (Ab)
 
 
-#### Chapitre II : Dispositions relatives aux peines<a id=332></a>
+#### Chapitre II : Dispositions relatives aux peines<a id=331></a>
 
 ###### Article R162-1
 
@@ -26058,9 +25993,9 @@ _Cite_:
   - Code pénal - art. 131-21 (V)
 
 
-#### Chapitre III : Infractions communes à tous les bois et forêts<a id=333></a>
+#### Chapitre III : Infractions communes à tous les bois et forêts<a id=332></a>
 
-##### Section 1 : Infractions relatives aux coupes<a id=334></a>
+##### Section 1 : Infractions relatives aux coupes<a id=333></a>
 
 ###### Article R163-1
 
@@ -26093,7 +26028,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R177-2 (V)
 
 
-##### Section 2 : Défense des forêts contre l'incendie<a id=335></a>
+##### Section 2 : Défense des forêts contre l'incendie<a id=334></a>
 
 ###### Article R163-2
 
@@ -26161,7 +26096,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L134-6 (V)
 
 
-##### Section 3 : Infractions commises en forêt d'autrui<a id=336></a>
+##### Section 3 : Infractions commises en forêt d'autrui<a id=335></a>
 
 ###### Article R163-4
 
@@ -26326,7 +26261,7 @@ _Anciens textes_:
   - Code forestier - art. R363-12 (Ab)
 
 
-##### Section 4 : Rôle de protection des forêts<a id=337></a>
+##### Section 4 : Rôle de protection des forêts<a id=336></a>
 
 ###### Article R163-10
 
@@ -26407,7 +26342,7 @@ _Anciens textes_:
   - Code forestier - art. R422-7 (Ab)
 
 
-##### Section 5 : Protection des dunes<a id=338></a>
+##### Section 5 : Protection des dunes<a id=337></a>
 
 ###### Article R163-13
 
@@ -26486,7 +26421,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L143-4 (V)
 
 
-##### Section 6 : Commercialisation de matériels forestiers de reproduction<a id=339></a>
+##### Section 6 : Commercialisation de matériels forestiers de reproduction<a id=338></a>
 
 ###### Article R163-16
 
@@ -26537,9 +26472,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R153-9 (V)
 
 
-### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=340></a>
+### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=339></a>
 
-#### Chapitre Ier : Guadeloupe<a id=341></a>
+#### Chapitre Ier : Guadeloupe<a id=340></a>
 
 ###### Article D171-1-1
 
@@ -26614,7 +26549,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R171-1 (V)
 
 
-#### Chapitre II : Guyane<a id=342></a>
+#### Chapitre II : Guyane<a id=341></a>
 
 ###### Article D172-2
 
@@ -26901,7 +26836,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R163-4 (V)
 
 
-#### Chapitre III : Martinique<a id=343></a>
+#### Chapitre III : Martinique<a id=342></a>
 
 ###### Article D173-1-1
 
@@ -27065,9 +27000,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R173-2 (V)
 
 
-#### Chapitre IV : La Réunion<a id=344></a>
+#### Chapitre IV : La Réunion<a id=343></a>
 
-##### Section 1 : Dispositions générales<a id=345></a>
+##### Section 1 : Dispositions générales<a id=344></a>
 
 ###### Article D174-1-1
 
@@ -27424,7 +27359,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R374-6 (V)
 
 
-##### Section 2 : Forêts de protection<a id=346></a>
+##### Section 2 : Forêts de protection<a id=345></a>
 
 ###### Article R174-8
 
@@ -27524,7 +27459,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R174-8 (V)
 
 
-##### Section 3 : Dispositions pénales<a id=347></a>
+##### Section 3 : Dispositions pénales<a id=346></a>
 
 ###### Article R174-10
 
@@ -27581,9 +27516,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R174-1 (V)
 
 
-#### Chapitre V : Mayotte<a id=348></a>
+#### Chapitre V : Mayotte<a id=347></a>
 
-##### Section 1 : Champ d'application<a id=349></a>
+##### Section 1 : Champ d'application<a id=348></a>
 
 ###### Article D175-1
 
@@ -27614,7 +27549,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L175-2 (V)
 
 
-##### Section 2 : Dispositions générales<a id=350></a>
+##### Section 2 : Dispositions générales<a id=349></a>
 
 ###### Article D175-2
 
@@ -27645,7 +27580,7 @@ _Anciens textes_:
   - Code forestier de Mayotte - art. R*321-2 (Ab)
 
 
-##### Section 3 : Institutions<a id=351></a>
+##### Section 3 : Institutions<a id=350></a>
 
 ###### Article D175-3
 
@@ -27773,7 +27708,7 @@ _Cite_:
   - Code des relations entre le public et l'administration - art. R*133-1
 
 
-##### Section 4 : Rôle des forêts de protection<a id=352></a>
+##### Section 4 : Rôle des forêts de protection<a id=351></a>
 
 ###### Article R175-7
 
@@ -27839,7 +27774,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R175-7 (V)
 
 
-##### Section 5 : Commercialisation des matériels forestiers de reproduction<a id=353></a>
+##### Section 5 : Commercialisation des matériels forestiers de reproduction<a id=352></a>
 
 ###### Article D175-9
 
@@ -27861,7 +27796,7 @@ _Créé par_:
   - Décret n°2012-836 du 29 juin 2012 - art. (V)
 
 
-#### Chapitre VI : Saint-Barthélemy<a id=354></a>
+#### Chapitre VI : Saint-Barthélemy<a id=353></a>
 
 ###### Article R176-1
 
@@ -27922,7 +27857,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R176-1 (V)
 
 
-#### Chapitre VII : Saint-Martin<a id=355></a>
+#### Chapitre VII : Saint-Martin<a id=354></a>
 
 ###### Article D177-3
 
@@ -28031,7 +27966,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R177-1 (V)
 
 
-#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=356></a>
+#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=355></a>
 
 ###### Article D178-1
 
@@ -28082,13 +28017,13 @@ _Cite_:
   - Code forestier (nouveau) - art. D113-12 (V)
 
 
-## LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER<a id=357></a>
+## LIVRE II : BOIS ET FORÊTS  RELEVANT DU RÉGIME FORESTIER<a id=356></a>
 
-### TITRE Ier : RÉGIME FORESTIER<a id=358></a>
+### TITRE Ier : RÉGIME FORESTIER<a id=357></a>
 
-#### Chapitre II : Principes d'aménagement<a id=359></a>
+#### Chapitre II : Principes d'aménagement<a id=358></a>
 
-##### Section 1 : Document d'aménagement<a id=360></a>
+##### Section 1 : Document d'aménagement<a id=359></a>
 
 ###### Article D212-1
 
@@ -28267,7 +28202,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R275-1 (V)
 
 
-##### Section 2 : Règlement type de gestion<a id=361></a>
+##### Section 2 : Règlement type de gestion<a id=360></a>
 
 ###### Article D212-9
 
@@ -28412,9 +28347,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-#### Chapitre III : Bois et forêts de l'Etat<a id=362></a>
+#### Chapitre III : Bois et forêts de l'Etat<a id=361></a>
 
-##### Section 1 : Acquisition, affectation et aliénation<a id=363></a>
+##### Section 1 : Acquisition, affectation et aliénation<a id=362></a>
 
 ###### Article R213-1
 
@@ -28464,9 +28399,9 @@ _Anciens textes_:
   - Code forestier - art. R131-3 (Ab)
 
 
-##### Section 2 : Délimitation et bornage<a id=364></a>
+##### Section 2 : Délimitation et bornage<a id=363></a>
 
-##### Sous-section 1 : Délimitation générale<a id=365></a>
+##### Sous-section 1 : Délimitation générale<a id=364></a>
 
 ###### Article D213-4
 
@@ -28566,7 +28501,7 @@ _Anciens textes_:
   - Code forestier - art. R132-8 (Ab)
 
 
-##### Sous-section 2 : Délimitation partielle<a id=366></a>
+##### Sous-section 2 : Délimitation partielle<a id=365></a>
 
 ###### Article R213-7
 
@@ -28596,7 +28531,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R275-2 (V)
 
 
-##### Sous-section 3 : Dispositions communes<a id=367></a>
+##### Sous-section 3 : Dispositions communes<a id=366></a>
 
 ###### Article D213-11
 
@@ -28769,7 +28704,7 @@ _Anciens textes_:
   - Code forestier - art. R132-15 (Ab), al. 1
 
 
-##### Sous-section 4 : Bornage<a id=368></a>
+##### Sous-section 4 : Bornage<a id=367></a>
 
 ###### Article R213-15
 
@@ -28869,7 +28804,7 @@ _Anciens textes_:
   - Code forestier - art. R132-18 (Ab)
 
 
-##### Section 3 : Aménagement et assiette des coupes<a id=369></a>
+##### Section 3 : Aménagement et assiette des coupes<a id=368></a>
 
 ###### Article R213-19
 
@@ -29000,9 +28935,9 @@ _Anciens textes_:
   - Code forestier - art. R133-12 (Ab)
 
 
-##### Section 4 : Ventes des coupes et produits des coupes<a id=370></a>
+##### Section 4 : Ventes des coupes et produits des coupes<a id=369></a>
 
-##### Sous-section 1 : Procédure et dispositions communes<a id=371></a>
+##### Sous-section 1 : Procédure et dispositions communes<a id=370></a>
 
 ###### Article R213-24
 
@@ -29183,7 +29118,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L213-8 (V)
 
 
-##### Sous-section 2 : Adjudication<a id=372></a>
+##### Sous-section 2 : Adjudication<a id=371></a>
 
 ###### Article R213-31
 
@@ -29273,7 +29208,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L213-9 (V)
 
 
-##### Sous-section 3 : Appel d'offres<a id=373></a>
+##### Sous-section 3 : Appel d'offres<a id=372></a>
 
 ###### Article R213-35
 
@@ -29348,7 +29283,7 @@ _Anciens textes_:
   - Code forestier - art. R134-14 (Ab)
 
 
-##### Sous-section 4 : Ventes de gré à gré<a id=374></a>
+##### Sous-section 4 : Ventes de gré à gré<a id=373></a>
 
 ###### Article R213-38
 
@@ -29373,7 +29308,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R274-3 (V)
 
 
-##### Section 5 : Exploitation des coupes<a id=375></a>
+##### Section 5 : Exploitation des coupes<a id=374></a>
 
 ###### Article R213-39
 
@@ -29398,7 +29333,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L213-13 (V)
 
 
-##### Section 6 : Récolements<a id=376></a>
+##### Section 6 : Récolements<a id=375></a>
 
 ###### Article R213-40
 
@@ -29424,9 +29359,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L213-21 (V)
 
 
-##### Section 7 : Pâturage, chasse et produits accessoires<a id=377></a>
+##### Section 7 : Pâturage, chasse et produits accessoires<a id=376></a>
 
-##### Sous-section 1 : Pâturage<a id=378></a>
+##### Sous-section 1 : Pâturage<a id=377></a>
 
 ###### Article R213-41
 
@@ -29563,9 +29498,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R261-11 (V)
 
 
-##### Sous-section 2 : Exploitation de la chasse<a id=379></a>
+##### Sous-section 2 : Exploitation de la chasse<a id=378></a>
 
-##### Paragraphe 1 : Dispositions communes<a id=380></a>
+##### Paragraphe 1 : Dispositions communes<a id=379></a>
 
 ###### Article R213-45
 
@@ -29722,7 +29657,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R213-57 (M)
 
 
-##### Paragraphe 2 : Locations de gré à gré<a id=381></a>
+##### Paragraphe 2 : Locations de gré à gré<a id=380></a>
 
 ###### Article R213-51
 
@@ -29861,7 +29796,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R213-50 (M)
 
 
-##### Paragraphe 3 : Adjudications<a id=382></a>
+##### Paragraphe 3 : Adjudications<a id=381></a>
 
 ###### Article R213-55
 
@@ -29918,7 +29853,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R213-46 (V)
 
 
-##### Paragraphe 4 : Concessions de licences<a id=383></a>
+##### Paragraphe 4 : Concessions de licences<a id=382></a>
 
 ###### Article R213-57
 
@@ -29985,7 +29920,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R213-65 (Ab)
 
 
-##### Sous-section 3 : Produits accessoires<a id=384></a>
+##### Sous-section 3 : Produits accessoires<a id=383></a>
 
 ###### Article R213-69
 
@@ -30008,7 +29943,7 @@ _Anciens textes_:
   - Code forestier - art. R137-30 (Ab)
 
 
-##### Section 8 : Extraction et dépôt de matériaux pour les travaux publics<a id=385></a>
+##### Section 8 : Extraction et dépôt de matériaux pour les travaux publics<a id=384></a>
 
 ###### Article R213-70
 
@@ -30159,9 +30094,9 @@ _Anciens textes_:
   - Code forestier - art. R151-14 (Ab)
 
 
-#### Chapitre IV : Bois et forêts des collectivités territoriales  et de certaines personnes morales<a id=386></a>
+#### Chapitre IV : Bois et forêts des collectivités territoriales  et de certaines personnes morales<a id=385></a>
 
-##### Section 1 : Dispositions générales<a id=387></a>
+##### Section 1 : Dispositions générales<a id=386></a>
 
 ###### Article D214-4
 
@@ -30400,7 +30335,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R233-16 (V)
 
 
-##### Section 2 : Délimitation et bornage<a id=388></a>
+##### Section 2 : Délimitation et bornage<a id=387></a>
 
 ###### Article R214-10
 
@@ -30521,7 +30456,7 @@ _Anciens textes_:
   - Code forestier - art. R142-5 (Ab)
 
 
-##### Section 3 : Aménagements<a id=389></a>
+##### Section 3 : Aménagements<a id=388></a>
 
 ###### Article D214-15
 
@@ -30747,7 +30682,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L214-5 (V)
 
 
-##### Section 4 : Ventes des coupes et produits des coupes<a id=390></a>
+##### Section 4 : Ventes des coupes et produits des coupes<a id=389></a>
 
 ###### Article D214-22
 
@@ -30930,7 +30865,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L214-10 (V)
 
 
-##### Section 5 : Pâturage, produits accessoires et droits de jouissance collectifs<a id=391></a>
+##### Section 5 : Pâturage, produits accessoires et droits de jouissance collectifs<a id=390></a>
 
 ###### Article R214-28
 
@@ -30999,7 +30934,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-##### Section 6 : Défrichement<a id=392></a>
+##### Section 6 : Défrichement<a id=391></a>
 
 ###### Article R*214-30-1
 
@@ -31087,7 +31022,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R214-30 (M)
 
 
-#### Chapitre V : Bois et forêts indivis relevant du régime forestier<a id=393></a>
+#### Chapitre V : Bois et forêts indivis relevant du régime forestier<a id=392></a>
 
 ###### Article R215-1
 
@@ -31167,9 +31102,9 @@ _Anciens textes_:
   - Code forestier - art. R161-4 (Ab)
 
 
-### TITRE II : OFFICE NATIONAL DES FORÊTS<a id=394></a>
+### TITRE II : OFFICE NATIONAL DES FORÊTS<a id=393></a>
 
-#### Chapitre Ier : Missions<a id=395></a>
+#### Chapitre Ier : Missions<a id=394></a>
 
 ###### Article D221-1
 
@@ -31344,11 +31279,11 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-#### Chapitre II : Organisation<a id=396></a>
+#### Chapitre II : Organisation<a id=395></a>
 
-##### Section 1 : Conseil d'administration<a id=397></a>
+##### Section 1 : Conseil d'administration<a id=396></a>
 
-##### Sous-section 1 : Composition<a id=398></a>
+##### Sous-section 1 : Composition<a id=397></a>
 
 ###### Article D222-1
 
@@ -31509,7 +31444,7 @@ _Anciens textes_:
   - Code forestier - art. R122-3 (Ab)
 
 
-##### Sous-section 2 : Compétences et règles de délibération<a id=399></a>
+##### Sous-section 2 : Compétences et règles de délibération<a id=398></a>
 
 ###### Article D222-5
 
@@ -31723,7 +31658,7 @@ _Cite_:
   - Code forestier (nouveau) - art. D222-7 (V)
 
 
-##### Section 2 : Directeur général<a id=400></a>
+##### Section 2 : Directeur général<a id=399></a>
 
 ###### Article D222-11
 
@@ -31836,7 +31771,7 @@ _Anciens textes_:
   - Code forestier - art. R122-12 (Ab)
 
 
-##### Section 3 : Personnels<a id=401></a>
+##### Section 3 : Personnels<a id=400></a>
 
 ###### Article D222-15
 
@@ -31908,7 +31843,7 @@ _Anciens textes_:
   - Code forestier - art. R122-20 (Ab)
 
 
-##### Section 4 : Comité scientifique<a id=402></a>
+##### Section 4 : Comité scientifique<a id=401></a>
 
 ###### Article D222-18
 
@@ -31932,7 +31867,7 @@ _Anciens textes_:
   - Code forestier - art. R122-25 (Ab)
 
 
-##### Section 5 : Publicité des délibérations, décisions et avis<a id=403></a>
+##### Section 5 : Publicité des délibérations, décisions et avis<a id=402></a>
 
 ###### Article D222-19
 
@@ -31956,9 +31891,9 @@ _Créé par_:
   - Décret n°2016-319 du 16 mars 2016 - art. 1
 
 
-#### Chapitre III : Dispositions financières<a id=404></a>
+#### Chapitre III : Dispositions financières<a id=403></a>
 
-##### Section 1 : Organisation financière et comptable<a id=405></a>
+##### Section 1 : Organisation financière et comptable<a id=404></a>
 
 ###### Article D223-1
 
@@ -32115,7 +32050,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L315-2 (V)
 
 
-##### Section 2 : Etat prévisionnel des recettes et des dépenses<a id=406></a>
+##### Section 2 : Etat prévisionnel des recettes et des dépenses<a id=405></a>
 
 ###### Article D223-8
 
@@ -32187,7 +32122,7 @@ _Modifié par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
-##### Section 3 : Recouvrement des produits<a id=407></a>
+##### Section 3 : Recouvrement des produits<a id=406></a>
 
 ###### Article D223-11
 
@@ -32213,7 +32148,7 @@ _Modifié par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
-##### Section 4 : Paiement des charges<a id=408></a>
+##### Section 4 : Paiement des charges<a id=407></a>
 
 ###### Article D223-13
 
@@ -32257,7 +32192,7 @@ _Anciens textes_:
   - Code forestier - art. R123-14 (Ab)
 
 
-##### Section 5 : Contrôle<a id=409></a>
+##### Section 5 : Contrôle<a id=408></a>
 
 ###### Article D223-15
 
@@ -32307,7 +32242,7 @@ _Modifié par_:
   - Décret n°2012-1247 du 7 novembre 2012 - art. 32
 
 
-#### Chapitre IV : Frais de garderie et d'administration<a id=410></a>
+#### Chapitre IV : Frais de garderie et d'administration<a id=409></a>
 
 ###### Article D224-1
 
@@ -32334,9 +32269,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L224-2 (V)
 
 
-### TITRE III : GROUPEMENT DE GESTION EN COMMUN DES BOIS ET FORÊTS DES COLLECTIVITÉS TERRITORIALES ET DE CERTAINES PERSONNES MORALES<a id=411></a>
+### TITRE III : GROUPEMENT DE GESTION EN COMMUN DES BOIS ET FORÊTS DES COLLECTIVITÉS TERRITORIALES ET DE CERTAINES PERSONNES MORALES<a id=410></a>
 
-#### Chapitre Ier : Syndicat intercommunal de gestion forestière<a id=412></a>
+#### Chapitre Ier : Syndicat intercommunal de gestion forestière<a id=411></a>
 
 ###### Article D231-1
 
@@ -32444,7 +32379,7 @@ _Anciens textes_:
   - Code forestier - art. R148-3 (Ab)
 
 
-#### Chapitre II : Syndicat mixte de gestion forestière<a id=413></a>
+#### Chapitre II : Syndicat mixte de gestion forestière<a id=412></a>
 
 ###### Article D232-1
 
@@ -32475,9 +32410,9 @@ _Anciens textes_:
   - Code forestier - art. R148-4 (Ab)
 
 
-#### Chapitre III : Groupement syndical forestier<a id=414></a>
+#### Chapitre III : Groupement syndical forestier<a id=413></a>
 
-##### Section 1 : Dispositions générales<a id=415></a>
+##### Section 1 : Dispositions générales<a id=414></a>
 
 ###### Article R233-1
 
@@ -32526,7 +32461,7 @@ _Anciens textes_:
   - Code forestier - art. R148-6 (Ab)
 
 
-##### Section 2 : Constitution et statuts<a id=416></a>
+##### Section 2 : Constitution et statuts<a id=415></a>
 
 ###### Article R233-3
 
@@ -32639,7 +32574,7 @@ _Anciens textes_:
   - Code forestier - art. R148-9 (Ab)
 
 
-##### Section 3 : Administration et fonctionnement<a id=417></a>
+##### Section 3 : Administration et fonctionnement<a id=416></a>
 
 ###### Article R233-6
 
@@ -32931,7 +32866,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R214-9 (V)
 
 
-##### Section 4 : Extension et fusion<a id=418></a>
+##### Section 4 : Extension et fusion<a id=417></a>
 
 ###### Article R233-17
 
@@ -33018,7 +32953,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R233-17 (V)
 
 
-##### Section 5 : Cession des droits de participation<a id=419></a>
+##### Section 5 : Cession des droits de participation<a id=418></a>
 
 ###### Article R233-20
 
@@ -33050,7 +32985,7 @@ _Anciens textes_:
   - Code forestier - art. R148-24 (Ab), al. 1 à 3, al. 5
 
 
-##### Section 6 : Dissolution<a id=420></a>
+##### Section 6 : Dissolution<a id=419></a>
 
 ###### Article R233-21
 
@@ -33076,13 +33011,13 @@ _Cite_:
   - Code forestier (nouveau) - art. L233-8 (V)
 
 
-### TITRE IV : DROITS D'USAGE ET D'AFFOUAGE<a id=421></a>
+### TITRE IV : DROITS D'USAGE ET D'AFFOUAGE<a id=420></a>
 
-#### Chapitre Ier : Droits d'usage dans les bois et forêts de l'Etat<a id=422></a>
+#### Chapitre Ier : Droits d'usage dans les bois et forêts de l'Etat<a id=421></a>
 
-##### Section 1 : Affranchissement<a id=423></a>
+##### Section 1 : Affranchissement<a id=422></a>
 
-##### Sous-section 1 : Procédure<a id=424></a>
+##### Sous-section 1 : Procédure<a id=423></a>
 
 ###### Article R241-1
 
@@ -33259,7 +33194,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R242-2 (V)
 
 
-##### Sous-section 2 : Evaluation<a id=425></a>
+##### Sous-section 2 : Evaluation<a id=424></a>
 
 ###### Article R241-7
 
@@ -33508,7 +33443,7 @@ _Anciens textes_:
   - Code forestier - art. R138-36 (Ab)
 
 
-##### Section 2 : Exercice des droits de pâturage, panage et glandée<a id=426></a>
+##### Section 2 : Exercice des droits de pâturage, panage et glandée<a id=425></a>
 
 ###### Article R241-17
 
@@ -33774,7 +33709,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R242-1 (V)
 
 
-##### Section 3 : Exercice des droits d'usage au bois<a id=427></a>
+##### Section 3 : Exercice des droits d'usage au bois<a id=426></a>
 
 ###### Article R241-27
 
@@ -33887,7 +33822,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R213-38 (V)
 
 
-##### Section 4 : Suspension des droits d'usage<a id=428></a>
+##### Section 4 : Suspension des droits d'usage<a id=427></a>
 
 ###### Article D241-32
 
@@ -33948,7 +33883,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L213-24 (V)
 
 
-#### Chapitre II : Droits d'usage dans les bois et forêts des collectivités  territoriales et de certaines personnes morales<a id=429></a>
+#### Chapitre II : Droits d'usage dans les bois et forêts des collectivités  territoriales et de certaines personnes morales<a id=428></a>
 
 ###### Article R242-1
 
@@ -34107,7 +34042,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R242-3 (V)
 
 
-#### Chapitre III : Coupes délivrées pour l'affouage<a id=430></a>
+#### Chapitre III : Coupes délivrées pour l'affouage<a id=429></a>
 
 ###### Article R243-1
 
@@ -34184,7 +34119,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L243-3 (V)
 
 
-### TITRE V : FINANCEMENT DES ACTIONS  DES COMMUNES FORESTIÈRES<a id=431></a>
+### TITRE V : FINANCEMENT DES ACTIONS  DES COMMUNES FORESTIÈRES<a id=430></a>
 
 ###### Article D250-1
 
@@ -34324,11 +34259,11 @@ _Anciens textes_:
   - Code forestier - art. R141-13 (Ab)
 
 
-### TITRE VI : DISPOSITIONS PÉNALES RELATIVES AUX BOIS  ET FORÊTS RELEVANT DU RÉGIME FORESTIER<a id=432></a>
+### TITRE VI : DISPOSITIONS PÉNALES RELATIVES AUX BOIS  ET FORÊTS RELEVANT DU RÉGIME FORESTIER<a id=431></a>
 
-#### Chapitre Ier : Infractions<a id=433></a>
+#### Chapitre Ier : Infractions<a id=432></a>
 
-##### Section 1 : Arrêtés d'aménagement<a id=434></a>
+##### Section 1 : Arrêtés d'aménagement<a id=433></a>
 
 ###### Article R261-1
 
@@ -34358,7 +34293,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L212-2 (V)
 
 
-##### Section 2 : Règles de coupes, de ventes de coupes  ou produits de coupes du domaine de l'Etat<a id=435></a>
+##### Section 2 : Règles de coupes, de ventes de coupes  ou produits de coupes du domaine de l'Etat<a id=434></a>
 
 ###### Article R261-2
 
@@ -34542,7 +34477,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R213-71 (V)
 
 
-##### Section 3 : Droits d'usage et d'affouage<a id=436></a>
+##### Section 3 : Droits d'usage et d'affouage<a id=435></a>
 
 ###### Article R261-9
 
@@ -34804,9 +34739,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L241-17 (V)
 
 
-### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=437></a>
+### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=436></a>
 
-#### Chapitre Ier : Guadeloupe<a id=438></a>
+#### Chapitre Ier : Guadeloupe<a id=437></a>
 
 ###### Article R271-1
 
@@ -34837,9 +34772,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-#### Chapitre II : Guyane<a id=439></a>
+#### Chapitre II : Guyane<a id=438></a>
 
-##### Section 1 : Dispositions générales<a id=440></a>
+##### Section 1 : Dispositions générales<a id=439></a>
 
 ###### Article R272-1
 
@@ -34870,7 +34805,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R213-24 (V)
 
 
-##### Section 2 : Mise en œuvre du régime forestier<a id=441></a>
+##### Section 2 : Mise en œuvre du régime forestier<a id=440></a>
 
 ###### Article D272-5
 
@@ -35108,7 +35043,7 @@ _Anciens textes_:
   - Code forestier - art. R172-6 (Ab)
 
 
-##### Section 3 : Ventes des coupes et produits des coupes<a id=442></a>
+##### Section 3 : Ventes des coupes et produits des coupes<a id=441></a>
 
 ###### Article R272-10
 
@@ -35130,7 +35065,7 @@ _Anciens textes_:
   - Code forestier - art. R172-2 (Ab), al. 5
 
 
-##### Section 4 : Exercice des droits d'usage<a id=443></a>
+##### Section 4 : Exercice des droits d'usage<a id=442></a>
 
 ###### Article R272-11
 
@@ -35220,7 +35155,7 @@ _Anciens textes_:
   - Code forestier - art. R172-7 (Ab), III et IV
 
 
-#### Chapitre III : Martinique<a id=444></a>
+#### Chapitre III : Martinique<a id=443></a>
 
 ###### Article R273-1
 
@@ -35251,9 +35186,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-#### Chapitre IV : La Réunion<a id=445></a>
+#### Chapitre IV : La Réunion<a id=444></a>
 
-##### Section 1 : Dispositions générales<a id=446></a>
+##### Section 1 : Dispositions générales<a id=445></a>
 
 ###### Article R274-1
 
@@ -35366,7 +35301,7 @@ _Anciens textes_:
   - Code forestier - art. R173-6 (Ab)
 
 
-##### Section 2 : Dispositions pénales<a id=447></a>
+##### Section 2 : Dispositions pénales<a id=446></a>
 
 ###### Article R274-5
 
@@ -35393,9 +35328,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L274-4 (V)
 
 
-#### Chapitre V : Mayotte<a id=448></a>
+#### Chapitre V : Mayotte<a id=447></a>
 
-##### Section 1 : Régime forestier<a id=449></a>
+##### Section 1 : Régime forestier<a id=448></a>
 
 ###### Article R275-1
 
@@ -35452,7 +35387,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R213-7 (V)
 
 
-##### Section 2 : Ventes de coupes et produits de coupes<a id=450></a>
+##### Section 2 : Ventes de coupes et produits de coupes<a id=449></a>
 
 ###### Article R275-3
 
@@ -35575,7 +35510,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R275-5 (V)
 
 
-##### Section 3 : Réglementation des scieries<a id=451></a>
+##### Section 3 : Réglementation des scieries<a id=450></a>
 
 ###### Article R275-6
 
@@ -35638,7 +35573,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R275-15 (V)
 
 
-##### Section 4 : Dispositions pénales<a id=452></a>
+##### Section 4 : Dispositions pénales<a id=451></a>
 
 ###### Article R275-8
 
@@ -35839,7 +35774,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R275-7 (V)
 
 
-#### Chapitre VI : Saint-Barthélemy<a id=453></a>
+#### Chapitre VI : Saint-Barthélemy<a id=452></a>
 
 ###### Article R276-1
 
@@ -35870,7 +35805,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-#### Chapitre VII : Saint-Martin<a id=454></a>
+#### Chapitre VII : Saint-Martin<a id=453></a>
 
 ###### Article R277-1
 
@@ -35901,15 +35836,15 @@ _Cite_:
   - Code forestier (nouveau) - art. L211-1 (V)
 
 
-## LIVRE III : BOIS ET FORÊTS DES PARTICULIERS<a id=455></a>
+## LIVRE III : BOIS ET FORÊTS DES PARTICULIERS<a id=454></a>
 
-### TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS<a id=456></a>
+### TITRE Ier : GESTION DES BOIS ET FORÊTS DES PARTICULIERS<a id=455></a>
 
-#### Chapitre II : Plans simples de gestion et plan simple de gestion concerté<a id=457></a>
+#### Chapitre II : Plans simples de gestion et plan simple de gestion concerté<a id=456></a>
 
-##### Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté<a id=458></a>
+##### Section 1 : Contenu et agrément du plan simple de gestion et du plan simple de gestion concerté<a id=457></a>
 
-##### Sous-section 1 : Critères d'application<a id=459></a>
+##### Sous-section 1 : Critères d'application<a id=458></a>
 
 ###### Article R312-1
 
@@ -36022,7 +35957,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R312-8 (V)
 
 
-##### Sous-section 2 : Contenu<a id=460></a>
+##### Sous-section 2 : Contenu<a id=459></a>
 
 ###### Article R312-4
 
@@ -36145,7 +36080,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L144-1
 
 
-##### Sous-section 3 : Modalités d'agrément<a id=461></a>
+##### Sous-section 3 : Modalités d'agrément<a id=460></a>
 
 ###### Article R*312-7-1
 
@@ -36349,7 +36284,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R312-8 (V)
 
 
-##### Section 2 : Droits et obligations  résultant des plans simples de gestion<a id=462></a>
+##### Section 2 : Droits et obligations  résultant des plans simples de gestion<a id=461></a>
 
 ###### Article R312-11
 
@@ -36614,7 +36549,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R312-16 (V)
 
 
-##### Section 3 : Régime d'autorisation administrative<a id=463></a>
+##### Section 3 : Régime d'autorisation administrative<a id=462></a>
 
 ###### Article R312-19
 
@@ -36746,7 +36681,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L312-10
 
 
-##### Section 4 : Coupes illicites et coupes abusives<a id=464></a>
+##### Section 4 : Coupes illicites et coupes abusives<a id=463></a>
 
 ###### Article D312-22
 
@@ -36771,9 +36706,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L312-12 (V)
 
 
-#### Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles<a id=465></a>
+#### Chapitre III : Règlements types de gestion  et codes des bonnes pratiques sylvicoles<a id=464></a>
 
-##### Section 1 : Règlements types de gestion<a id=466></a>
+##### Section 1 : Règlements types de gestion<a id=465></a>
 
 ###### Article D313-1
 
@@ -36990,7 +36925,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L313-2 (V)
 
 
-##### Section 2 : Codes des bonnes pratiques sylvicoles<a id=467></a>
+##### Section 2 : Codes des bonnes pratiques sylvicoles<a id=466></a>
 
 ###### Article D313-8
 
@@ -37091,7 +37026,7 @@ _Anciens textes_:
   - Code forestier - art. R222-30 (Ab)
 
 
-#### Chapitre IV : Droits d'usage<a id=468></a>
+#### Chapitre IV : Droits d'usage<a id=467></a>
 
 ###### Article D314-2
 
@@ -37150,9 +37085,9 @@ _Cite_:
   - Code forestier (nouveau) - art. R261-12 (V)
 
 
-#### Chapitre V : Modalités contractuelles de gestion<a id=469></a>
+#### Chapitre V : Modalités contractuelles de gestion<a id=468></a>
 
-##### Section 1 : Gestionnaires forestiers professionnels<a id=470></a>
+##### Section 1 : Gestionnaires forestiers professionnels<a id=469></a>
 
 ###### Article D314-3
 
@@ -37369,7 +37304,7 @@ _Cite_:
   - Code forestier (nouveau) - art. D314-4
 
 
-##### Section 2 : Gestion contractuelle par l'Office national des forêts<a id=471></a>
+##### Section 2 : Gestion contractuelle par l'Office national des forêts<a id=470></a>
 
 ###### Article D315-1
 
@@ -37624,13 +37559,13 @@ _Cite_:
   - Code forestier (nouveau) - art. D315-7 (V)
 
 
-### TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE  EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS<a id=472></a>
+### TITRE II : INSTITUTIONS INTERVENANT DANS LA MISE  EN VALEUR DES BOIS ET FORÊTS DES PARTICULIERS<a id=471></a>
 
-#### Chapitre Ier : Centre national de la propriété forestière<a id=473></a>
+#### Chapitre Ier : Centre national de la propriété forestière<a id=472></a>
 
-##### Section 1 : Centre national<a id=474></a>
+##### Section 1 : Centre national<a id=473></a>
 
-##### Sous-section 1 : Dispositions générales<a id=475></a>
+##### Sous-section 1 : Dispositions générales<a id=474></a>
 
 ###### Article R321-1
 
@@ -37704,9 +37639,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. R321-8 (V)
 
 
-##### Sous-section 2 : Conseil d'administration<a id=476></a>
+##### Sous-section 2 : Conseil d'administration<a id=475></a>
 
-##### Paragraphe 1 : Composition<a id=477></a>
+##### Paragraphe 1 : Composition<a id=476></a>
 
 ###### Article R321-4
 
@@ -37818,7 +37753,7 @@ _Cité par_:
   - Code rural - art. R511-9 (M)
 
 
-##### Paragraphe 2 : Délibérations<a id=478></a>
+##### Paragraphe 2 : Délibérations<a id=477></a>
 
 ###### Article R321-8
 
@@ -38015,7 +37950,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R321-82 (V)
 
 
-##### Sous-section 3 : Président<a id=479></a>
+##### Sous-section 3 : Président<a id=478></a>
 
 ###### Article R321-14
 
@@ -38214,7 +38149,7 @@ _Anciens textes_:
   - Code forestier - art. R221-53 (Ab), al. 4, al. 5, al. 6, al. 7
 
 
-##### Sous-section 4 : Direction<a id=480></a>
+##### Sous-section 4 : Direction<a id=479></a>
 
 ###### Article R321-21
 
@@ -38282,7 +38217,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R321-17 (V)
 
 
-##### Sous-section 5 : Dispositions financières et comptables<a id=481></a>
+##### Sous-section 5 : Dispositions financières et comptables<a id=480></a>
 
 ###### Article R321-23
 
@@ -38586,7 +38521,7 @@ _Anciens textes_:
   - Code forestier - art. R224-13 (Ab)
 
 
-##### Sous-section 6 : Service d'utilité forestière<a id=482></a>
+##### Sous-section 6 : Service d'utilité forestière<a id=481></a>
 
 ###### Article R321-33
 
@@ -38727,7 +38662,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R321-19 (V)
 
 
-##### Sous-section 7 : Tutelle<a id=483></a>
+##### Sous-section 7 : Tutelle<a id=482></a>
 
 ###### Article R321-37
 
@@ -38851,9 +38786,9 @@ _Cité par_:
   - Code forestier (nouveau) - art. R321-3 (V)
 
 
-##### Section 2 : Centres régionaux<a id=484></a>
+##### Section 2 : Centres régionaux<a id=483></a>
 
-##### Sous-section 1 : Dispositions générales<a id=485></a>
+##### Sous-section 1 : Dispositions générales<a id=484></a>
 
 ###### Article D321-42
 
@@ -38884,9 +38819,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L321-15 (V)
 
 
-##### Sous-section 2 : Conseils des centres régionaux<a id=486></a>
+##### Sous-section 2 : Conseils des centres régionaux<a id=485></a>
 
-##### Paragraphe 1 : Composition du collège départemental des propriétaires forestiers<a id=487></a>
+##### Paragraphe 1 : Composition du collège départemental des propriétaires forestiers<a id=486></a>
 
 ###### Article R321-43
 
@@ -38996,7 +38931,7 @@ _Cité par_:
   - Code rural - art. R511-9 (V)
 
 
-##### Paragraphe 2 : Etablissement de la liste électorale  du collège départemental des propriétaires forestiers<a id=488></a>
+##### Paragraphe 2 : Etablissement de la liste électorale  du collège départemental des propriétaires forestiers<a id=487></a>
 
 ###### Article R321-46
 
@@ -39251,7 +39186,7 @@ _Cité par_:
   - Code forestier (nouveau) - art. R321-75 (V)
 
 
-##### Paragraphe 3 : Modalités de l'élection  du collège départemental des propriétaires forestiers<a id=489></a>
+##### Paragraphe 3 : Modalités de l'élection  du collège départemental des propriétaires forestiers<a id=488></a>
 
 ###### Article R321-52
 
@@ -39589,7 +39524,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R321-60 (V)
 
 
-##### Paragraphe 4 : Collège régional des organisations professionnelles<a id=490></a>
+##### Paragraphe 4 : Collège régional des organisations professionnelles<a id=489></a>
 
 ###### Article R321-62
 
@@ -39884,7 +39819,7 @@ _Anciens textes_:
   - Code forestier - art. R221-34 (Ab)
 
 
-##### Paragraphe 5 : Dispositions communes et élections partielles<a id=491></a>
+##### Paragraphe 5 : Dispositions communes et élections partielles<a id=490></a>
 
 ###### Article R321-71
 
@@ -40024,7 +39959,7 @@ _Modifié par_:
   - Décret n°2016-1724 du 13 décembre 2016 - art. 1
 
 
-##### Paragraphe 6 : Représentant du personnel au conseil des centres régionaux<a id=492></a>
+##### Paragraphe 6 : Représentant du personnel au conseil des centres régionaux<a id=491></a>
 
 ###### Article R321-77
 
@@ -40056,7 +39991,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R321-71 (V)
 
 
-##### Paragraphe 7 : Compétences<a id=493></a>
+##### Paragraphe 7 : Compétences<a id=492></a>
 
 ###### Article R321-78
 
@@ -40183,7 +40118,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R321-17
 
 
-##### Sous-section 3 : Direction<a id=494></a>
+##### Sous-section 3 : Direction<a id=493></a>
 
 ###### Article R321-83
 
@@ -40219,7 +40154,7 @@ _Anciens textes_:
   - Code forestier - art. R221-61 (Ab)
 
 
-##### Sous-section 4 : Tutelle<a id=495></a>
+##### Sous-section 4 : Tutelle<a id=494></a>
 
 ###### Article R321-84
 
@@ -40278,11 +40213,11 @@ _Cite_:
   - Code forestier (nouveau) - art. R321-39 (V)
 
 
-### TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE<a id=496></a>
+### TITRE III : REGROUPEMENT DE LA PROPRIÉTÉ  ET DE LA GESTION FORESTIÈRE<a id=495></a>
 
-#### Chapitre Ier : Regroupement de la propriété<a id=497></a>
+#### Chapitre Ier : Regroupement de la propriété<a id=496></a>
 
-##### Section 1 : Groupements forestiers<a id=498></a>
+##### Section 1 : Groupements forestiers<a id=497></a>
 
 ###### Article R331-1
 
@@ -40359,7 +40294,7 @@ _Anciens textes_:
   - Code forestier - art. R241-3 (Ab)
 
 
-##### Section 2 : Transformation d'une indivision en groupement forestier<a id=499></a>
+##### Section 2 : Transformation d'une indivision en groupement forestier<a id=498></a>
 
 ###### Article R331-4
 
@@ -40757,9 +40692,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L331-7 (V)
 
 
-#### Chapitre II : Regroupement pour la gestion<a id=500></a>
+#### Chapitre II : Regroupement pour la gestion<a id=499></a>
 
-##### Section 1 : Protection des peuplements forestiers  contre les dégâts du gibier<a id=501></a>
+##### Section 1 : Protection des peuplements forestiers  contre les dégâts du gibier<a id=500></a>
 
 ###### Article D332-1
 
@@ -40785,9 +40720,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L332-5 (V)
 
 
-##### Section 2 : Organismes de gestion  et d'exploitation forestière en commun<a id=502></a>
+##### Section 2 : Organismes de gestion  et d'exploitation forestière en commun<a id=501></a>
 
-##### Sous-section 1 : Conditions d'agrément<a id=503></a>
+##### Sous-section 1 : Conditions d'agrément<a id=502></a>
 
 ###### Article D332-2
 
@@ -41036,7 +40971,7 @@ _Anciens textes_:
   - Code forestier - art. D244-7 (Ab)
 
 
-##### Sous-section 2 : Modalités de contrôle<a id=504></a>
+##### Sous-section 2 : Modalités de contrôle<a id=503></a>
 
 ###### Article D332-9
 
@@ -41129,7 +41064,7 @@ _Anciens textes_:
   - Code forestier - art. D244-10 (Ab)
 
 
-##### Sous-section 3 : Retrait d'agrément<a id=505></a>
+##### Sous-section 3 : Retrait d'agrément<a id=504></a>
 
 ###### Article D332-12
 
@@ -41164,7 +41099,7 @@ _Cite_:
   - Code forestier (nouveau) - art. D332-2 (V)
 
 
-##### Section 3 : Le groupement d'intérêt économique et environnemental forestier<a id=506></a>
+##### Section 3 : Le groupement d'intérêt économique et environnemental forestier<a id=505></a>
 
 ###### Article D332-14
 
@@ -41365,11 +41300,11 @@ _Créé par_:
   - Décret n°2016-734 du 2 juin 2016 - art. 2
 
 
-### TITRE IV : DÉFRICHEMENTS<a id=507></a>
+### TITRE IV : DÉFRICHEMENTS<a id=506></a>
 
-#### Chapitre Ier : Régime d'autorisation préalable<a id=508></a>
+#### Chapitre Ier : Régime d'autorisation préalable<a id=507></a>
 
-##### Section 1 : Demande<a id=509></a>
+##### Section 1 : Demande<a id=508></a>
 
 ###### Article R341-1
 
@@ -41522,7 +41457,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-1 (V)
 
 
-##### Section 2 : Instruction et décision<a id=510></a>
+##### Section 2 : Instruction et décision<a id=509></a>
 
 ###### Article D341-7-1
 
@@ -41703,7 +41638,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-6
 
 
-##### Section 3 : Suites données aux infractions constatées  en matière de défrichement<a id=511></a>
+##### Section 3 : Suites données aux infractions constatées  en matière de défrichement<a id=510></a>
 
 ###### Article R341-8
 
@@ -41743,9 +41678,9 @@ _Créé par_:
   - Décret n°2012-836 du 29 juin 2012 - art. (V)
 
 
-### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE<a id=512></a>
+### TITRE V : DISPOSITIONS RELATIVES À L'ASSURANCE<a id=511></a>
 
-#### Chapitre Ier : Dispositions générales<a id=513></a>
+#### Chapitre Ier : Dispositions générales<a id=512></a>
 
 ###### Article D351-1
 
@@ -41837,9 +41772,9 @@ _Cite_:
   - Code des relations entre le public et l'adminis... - art. R133-5 (V)
 
 
-### TITRE VI : DISPOSITIONS PÉNALES<a id=514></a>
+### TITRE VI : DISPOSITIONS PÉNALES<a id=513></a>
 
-#### Chapitre Ier : Surveillance<a id=515></a>
+#### Chapitre Ier : Surveillance<a id=514></a>
 
 ###### Article R361-1
 
@@ -41884,7 +41819,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L161-4 (V)
 
 
-#### Chapitre II : Infractions aux règles de gestion<a id=516></a>
+#### Chapitre II : Infractions aux règles de gestion<a id=515></a>
 
 ###### Article R362-1
 
@@ -41909,7 +41844,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L312-11 (V)
 
 
-#### Chapitre III : Infractions aux règles de défrichement<a id=517></a>
+#### Chapitre III : Infractions aux règles de défrichement<a id=516></a>
 
 ###### Article R363-1
 
@@ -41931,9 +41866,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-4 (V)
 
 
-### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=518></a>
+### TITRE VII : DISPOSITIONS PARTICULIÈRES À L'OUTRE-MER<a id=517></a>
 
-#### Chapitre Ier : Guadeloupe<a id=519></a>
+#### Chapitre Ier : Guadeloupe<a id=518></a>
 
 ###### Article R371-1
 
@@ -41960,7 +41895,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-5 (V)
 
 
-#### Chapitre II : Guyane<a id=520></a>
+#### Chapitre II : Guyane<a id=519></a>
 
 ###### Article R372-1
 
@@ -42006,7 +41941,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R312-1
 
 
-#### Chapitre III : Martinique<a id=521></a>
+#### Chapitre III : Martinique<a id=520></a>
 
 ###### Article R373-1
 
@@ -42033,9 +41968,9 @@ _Cite_:
   - Code forestier (nouveau) - art. L341-5 (V)
 
 
-#### Chapitre IV : La Réunion<a id=522></a>
+#### Chapitre IV : La Réunion<a id=521></a>
 
-##### Section 1 : Défrichement<a id=523></a>
+##### Section 1 : Défrichement<a id=522></a>
 
 ###### Article R374-1
 
@@ -42134,7 +42069,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R374-3 (V)
 
 
-##### Section 2 : Végétations spécifiques à La Réunion<a id=524></a>
+##### Section 2 : Végétations spécifiques à La Réunion<a id=523></a>
 
 ###### Article R*374-6-1
 
@@ -42401,7 +42336,7 @@ _Cite_:
   - Code forestier (nouveau) - art. L174-16 (V)
 
 
-#### Chapitre V : Mayotte<a id=525></a>
+#### Chapitre V : Mayotte<a id=524></a>
 
 ###### Article R375-1
 
@@ -42484,7 +42419,7 @@ _Cite_:
   - Code forestier (nouveau) - art. R341-1 (V)
 
 
-#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=526></a>
+#### Chapitre VIII : Saint-Pierre-et-Miquelon<a id=525></a>
 
 ###### Article R378-1
 
@@ -42502,7 +42437,7 @@ _Anciens textes_:
   - Code forestier - art. R254-1 (Ab)
 
 
-## Annexes<a id=527></a>
+## Annexes<a id=526></a>
 
 ###### Article Annexe I
 
